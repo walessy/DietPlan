@@ -292,8 +292,11 @@ To convert the Markdown to PDF:
 2. **Pandoc**:
    
    - Save content (without `<xaiArtifact>` tags) as `meal_plan.md`.
+   
    - Install Pandoc (pandoc.org) and a LaTeX distribution (e.g., MiKTeX).
+   
    - Run: `pandoc meal_plan.md -o meal_plan.pdf --pdf-engine=xelatex`.
+   
    - For enhanced formatting, add a YAML header to `meal_plan.md`:
      
      ```yaml
