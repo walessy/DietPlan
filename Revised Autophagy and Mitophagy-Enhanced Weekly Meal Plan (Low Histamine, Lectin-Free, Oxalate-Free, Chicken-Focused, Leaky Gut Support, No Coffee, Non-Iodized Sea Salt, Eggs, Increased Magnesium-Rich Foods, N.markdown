@@ -7,10 +7,15 @@ toc: true
 ---
 
 # Introduction
-This revised 7-day meal plan (Friday to Thursday) prioritizes fresh chicken breast and eggs to deliver protein, zinc, and gut-healing nutrients, addressing constipation, bowel-bladder interactions, acidic sensations, neuropathic pain, and post-antibiotic gut issues while supporting leaky gut repair through gut-healing foods (e.g., bone broth, cooled sweet potato) and cost-effective alternatives to fresh fish. It incorporates alkalizing, gut-soothing vegetables (peeled zucchini, steamed carrots, kale, broccoli, cauliflower, sweet potato, pumpkin, cucumber, apple) to promote autophagy, mitophagy, and nerve health (e.g., multiple sclerosis). To ensure a low histamine, lectin-free, oxalate-free, and low anti-nutrient diet, it excludes walnuts, sunflower seeds, raspberries, arugula, flaxseeds, pumpkin seeds, dark chocolate, blueberries, chia seeds, bean sprouts, edamame, coffee (oxalates), gluten-free bread (potential irritants), psyllium husk (unavailable), sauerkraut, kimchi, avocado, pineapple (high histamine or histamine-liberators), and romaine lettuce (less gut-soothing). Magnesium citrate, magnesium oxide, iodized sea salt, kelp powder, Epsom salts (due to lack of bath), and psyllium husk, unavailable at Morrisons, are replaced with increased magnesium-rich foods (sweet potato, kale, pumpkin, broccoli), fresh chicken, eggs, non-iodized sea salt, and seaweed snacks, providing ~310–360mg magnesium/day, ~164µg iodine/day, and ~31–36g fiber/day (including resistant starch). The plan includes olive oil, coconut oil, bone broth, and green tea, follows a 16:8 intermittent fasting schedule (12 PM–8 PM eating window), and is low-FODMAP. The budget is ~£56–£59 for 7 days (~£8–£8.40/day). To view this Markdown-formatted plan, use an online tool like Markdown Reader at https://markdownreader.github.io/ if you do not have a local Markdown reader installed.
+
+This revised 7-day meal plan (Friday to Thursday) prioritizes fresh chicken breast and eggs to deliver protein, zinc, and gut-healing nutrients, addressing constipation, bowel-bladder interactions, acidic sensations, neuropathic pain, and post-antibiotic gut issues while supporting leaky gut repair through gut-healing foods (e.g., bone broth, cooled sweet potato) and cost-effective alternatives to fresh fish. It incorporates alkalizing, gut-soothing vegetables (peeled zucchini, steamed carrots, kale, broccoli, cauliflower, sweet potato, pumpkin, cucumber, apple) to promote autophagy, mitophagy, and 
+
+nerve health (e.g., multiple sclerosis). To ensure a low histamine, lectin-free, oxalate-free, and low anti-nutrient diet, it excludes walnuts, sunflower seeds, raspberries, arugula, flaxseeds, pumpkin seeds, dark chocolate, blueberries, chia seeds, bean sprouts, edamame, coffee (oxalates), gluten-free bread (potential irritants), psyllium husk (unavailable), sauerkraut, kimchi, avocado, pineapple (high histamine or histamine-liberators), and romaine lettuce (less gut-soothing). Magnesium citrate, magnesium oxide, iodized sea salt, kelp powder, Epsom salts (due to lack of bath), and psyllium husk, unavailable at Morrisons, are replaced with increased magnesium-rich foods (sweet potato, kale, pumpkin, broccoli), fresh chicken, eggs, non-iodized sea salt, and seaweed snacks, providing ~310–360mg magnesium/day, ~164µg iodine/day, and ~31–36g fiber/day (including resistant starch). The plan includes olive oil, coconut oil, bone broth, and green tea, follows a 16:8 intermittent fasting schedule (12 PM–8 PM eating window), and is low-FODMAP. The budget is ~£56–£59 for 7 days (~£8–£8.40/day). To view this Markdown-formatted plan, use an online tool like Markdown Reader at https://markdownreader.github.io/ if you do not have a local Markdown reader installed.
 
 ## Nutritional Standards
+
 The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Adequate Intakes (AI)** set by the **National Academy of Medicine (NAM)** for adults (19–50 years, male/female), aligned with UK dietary reference values (NHS, Scientific Advisory Committee on Nutrition). It adheres to **low-FODMAP** principles (Monash University) for gut sensitivity, **ketogenic/low-carb** targets (~60–80g carbs/day) for autophagy/mitophagy, **low histamine** principles to minimize histamine-related symptoms, and specific needs for leaky gut repair (glutamine, zinc, prebiotics), constipation (high fiber), inflammation (anti-inflammatory fats), and nerve health (magnesium, B12). Key standards include:
+
 - **Protein**: ~100–120g/day (RDA: 56g male, 46g female, NAM 2005), exceeds RDA for muscle, gut, and nerve repair.
 - **Fat**: ~140–170g/day (~70–80% calories), aligns with ketogenic diet for autophagy/mitophagy, prioritizing anti-inflammatory fats from olive oil (~140–170g/day).
 - **Carbohydrates**: ~60–80g/day (~35–45g net carbs), supports ketosis, below AI (~130g, NAM 2005) but sufficient.
@@ -29,7 +34,9 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - **Anti-Nutrients**: No lectins, oxalates, phytates, or saponins; minimal tannins (~200–500mg/week), maximizing absorption.
 
 # Daily Routine
+
 **Morning Ritual (Fasting Period, 8 AM):**
+
 - Warm water with 75ml lemon juice (37.5mg Vitamin C) + 300ml water (alkalizing, diluted to minimize bladder irritation).
 - Electrolyte Drink: 500ml water with ¼ tsp non-iodized sea salt (600mg sodium) + 1 tsp cream of tartar (~500mg potassium).
 - Green Tea (10x/week: daily, plus extra on Friday, Monday, Wednesday): 1 cup (200ml, 1 tsp loose-leaf or 1 tea bag, brewed at ~80°C, ~20–50mg caffeine, EGCG for autophagy), consumed plain.
@@ -43,8 +50,11 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 **Store Notes:** All items at Morrisons. Green tea, non-iodized sea salt (e.g., Maldon Sea Salt Flakes), coconut oil, olive oil, lemons, cucumber, peeled zucchini, parsley, carrots, sweet potato, cauliflower, broccoli, kale, apple, fresh chicken breast, chicken bones (for broth), eggs, seaweed snacks, turmeric, black pepper in Tea Aisle, Seasonings Aisle, Oil Aisle, Fresh Produce Aisle, Fresh Meat Aisle, Butcher Counter, International Aisle, Spices Aisle. Bean sprouts not used (oxalates).
 
 # Menu (Friday–Thursday)
+
 ## Friday
+
 **Lunch (12 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 2 boiled eggs (12g protein, ~50µg iodine, ~1mg zinc, low histamine).
 - 250ml bone broth (10g protein, 50mg magnesium, ~2g collagen, low histamine).
@@ -56,6 +66,7 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - 1 tbsp parsley (alkalizing, diuretic).
 
 **Dinner (6 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 4 tbsp olive oil (56g fat).
 - 100g steamed kale (2g fiber, 50mg magnesium).
@@ -67,7 +78,9 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - Extra green tea (200ml, ~20–50mg caffeine, EGCG).
 
 ## Saturday
+
 **Lunch (12 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 2 boiled eggs (12g protein, ~50µg iodine, ~1mg zinc, low histamine).
 - 250ml bone broth (10g protein, 50mg magnesium, ~2g collagen, low histamine).
@@ -78,6 +91,7 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - 100g steamed cucumber (1g fiber, 150mg potassium).
 
 **Dinner (6 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 4 tbsp olive oil (56g fat).
 - 100g peeled steamed zucchini (2g fiber, 300mg potassium, alkalizing).
@@ -86,7 +100,9 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - 1 seaweed snack sheet (~100µg iodine).
 
 ## Sunday
+
 **Lunch (12 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 2 boiled eggs (12g protein, ~50µg iodine, ~1mg zinc, low histamine).
 - 250ml bone broth (10g protein, 50mg magnesium, ~2g collagen, low histamine).
@@ -97,6 +113,7 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - 100g steamed kale (2g fiber, 50mg magnesium).
 
 **Dinner (6 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 4 tbsp olive oil (56g fat).
 - 100g peeled steamed zucchini (2g fiber, 300mg potassium).
@@ -106,7 +123,9 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - 1 seaweed snack sheet (~100µg iodine).
 
 ## Monday
+
 **Lunch (12 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 2 boiled eggs (12g protein, ~50µg iodine, ~1mg zinc, low histamine).
 - 250ml bone broth (10g protein, 50mg magnesium, ~2g collagen, low histamine).
@@ -118,6 +137,7 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - 100g steamed cucumber (1g fiber, 150mg potassium).
 
 **Dinner (6 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 4 tbsp olive oil (56g fat).
 - 100g steamed kale (2g fiber, 50mg magnesium).
@@ -128,7 +148,9 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - Extra green tea (200ml, ~20–50mg caffeine, EGCG).
 
 ## Tuesday
+
 **Lunch (12 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 2 boiled eggs (12g protein, ~50µg iodine, ~1mg zinc, low histamine).
 - 250ml bone broth (10g protein, 50mg magnesium, ~2g collagen, low histamine).
@@ -139,6 +161,7 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - 1 tbsp parsley (alkalizing).
 
 **Dinner (6 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 4 tbsp olive oil (56g fat).
 - 50g fresh apple (0.5g fiber, 20mg Vitamin C, 50mg potassium, low histamine).
@@ -148,7 +171,9 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - 1 seaweed snack sheet (~100µg iodine).
 
 ## Wednesday
+
 **Lunch (12 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 2 boiled eggs (12g protein, ~50µg iodine, ~1mg zinc, low histamine).
 - 250ml bone broth (10g protein, 50mg magnesium, ~2g collagen, low histamine).
@@ -159,6 +184,7 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - 100g steamed kale (2g fiber, 50mg magnesium).
 
 **Dinner (6 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 4 tbsp olive oil (56g fat).
 - 100g peeled steamed zucchini (2g fiber, 300mg potassium).
@@ -170,7 +196,9 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - Extra green tea (200ml, ~20–50mg caffeine, EGCG).
 
 ## Thursday
+
 **Lunch (12 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 2 boiled eggs (12g protein, ~50µg iodine, ~1mg zinc, low histamine).
 - 250ml bone broth (10g protein, 50mg magnesium, ~2g collagen, low histamine).
@@ -181,6 +209,7 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - 1 tbsp parsley (alkalizing).
 
 **Dinner (6 PM):**
+
 - 200g fresh chicken breast (50g protein, 40mg magnesium, ~1mg zinc, low histamine) with 1 tsp ground turmeric + pinch black pepper.
 - 4 tbsp olive oil (56g fat).
 - 100g peeled steamed zucchini (2g fiber, 300mg potassium).
@@ -190,11 +219,13 @@ The plan meets or exceeds the **Recommended Dietary Allowances (RDA)** and **Ade
 - 1 seaweed snack sheet (~100µg iodine).
 
 # Nutritional Breakdown (Daily Average)
+
 Estimated based on standard nutritional databases (e.g., USDA, Cronometer). Values reflect low histamine, leaky gut-focused replacements (chicken breast, eggs, bone broth, increased sweet potato, kale, pumpkin, broccoli, reduced zucchini, cauliflower).
 
 **Calories:** ~1600–1900 kcal (70–80% from fat, low carbs for ketosis/autophagy).
 
 **Macronutrients:**
+
 - **Protein**: ~100–120g (15–20%). Sources: Chicken breast (~50g/200g), eggs (~12g/2 eggs), bone broth (~10g/250ml), minor from vegetables.
 - **Fat**: ~140–170g (70–80%). Sources: Olive oil (~56–84g), coconut oil (14g), chicken (~5–10g), eggs (~10g/2 eggs).
 - **Carbohydrates**: ~60–80g (5–15%, ~35–45g net carbs). Sources: Sweet potato (18g/300g), cauliflower (5–10g/100–250g), broccoli (7g/86–125g), kale (6g/86–125g), peeled zucchini (3–6g/100–200g), cucumber (1g/100g), pumpkin (6g/¾ cup), apple (5g/50g), carrots (5–10g/100–200g).
@@ -202,6 +233,7 @@ Estimated based on standard nutritional databases (e.g., USDA, Cronometer). Valu
 **Fiber**: ~31–36g (including ~1–2g/day resistant starch). Sources: Sweet potato (9g/300g, ~1–2g resistant starch), cauliflower (4–8g/100–250g), broccoli (2–3g/86–125g), kale (2g/86–125g), peeled zucchini (3–6g/100–200g), cucumber (1g/100g), pumpkin (3g/¾ cup), apple (0.5g/50g), carrots (2–4g/100–200g).
 
 **Micronutrients:**
+
 - **Vitamin C**: ~160–180mg (215–240% RDA, 75mg). Sources: Lemon juice (37.5mg/75ml), cauliflower (60–120mg/100–250g), broccoli (50mg/86–125g), apple (20mg/50g), carrots (60–120mg/100–200g), cucumber (5mg/100g).
 - **Potassium**: ~4500–5100mg (130–145% AI, 3500mg). Sources: Cream of tartar (500mg), sweet potato (1200mg/300g), cauliflower (500–1000mg/100–250g), broccoli (350mg/86–125g), kale (500mg/86–125g), peeled zucchini (450–600mg/100–200g), cucumber (150mg/100g), pumpkin (300mg/¾ cup), apple (50mg/50g), carrots (400–800mg/100–200g), chicken (~200mg/200g), bone broth (~100mg/250ml), eggs (~100mg/2 eggs), green tea (~20mg/cup).
 - **Iodine**: ~164µg (~110% RDA, 150µg). Sources: Seaweed snacks (~114µg/day, 8x/week), eggs (~50µg/2 eggs, daily).
@@ -215,7 +247,9 @@ Estimated based on standard nutritional databases (e.g., USDA, Cronometer). Valu
 - **Sodium**: ~600–800mg (26–35% AI, 1500mg). Sources: Non-iodized sea salt (600mg/day), bone broth (~50–100mg/250ml).
 
 # Shopping List (7 Days)
+
 **Staples:**
+
 - Olive oil (700ml, ~£4.90, Oil Aisle)
 - Coconut oil (100ml, ~£1.50, Oil Aisle)
 - Non-iodized sea salt (e.g., Maldon Sea Salt Flakes, 250g, ~£2, Seasonings Aisle)
@@ -226,6 +260,7 @@ Estimated based on standard nutritional databases (e.g., USDA, Cronometer). Valu
 - Seaweed snacks (8 packs, e.g., Itsu Crispy Seaweed Thins, ~£1.50/pack, ~£12, International Aisle)
 
 **Fresh:**
+
 - Chicken breast (1400g, ~£0.40/100g, ~£5.60, Fresh Meat Aisle)
 - Chicken bones (1kg, ~£1, Butcher Counter, for 1750ml bone broth)
 - Eggs (12 medium, ~£2.50, Fresh Produce Aisle, for 14 eggs)
@@ -241,11 +276,13 @@ Estimated based on standard nutritional databases (e.g., USDA, Cronometer). Valu
 - Lemons (4, ~150ml juice each, ~£0.25/each, ~£1, Fresh Produce Aisle)
 
 **Frozen:**
+
 - Pumpkin (1000g, ~£2.80, Frozen Aisle)
 
 **Total:** ~£58.45 (within £56–£59 budget; bean sprouts not used)
 
 # References
+
 1. National Academy of Medicine (NAM). (2005). *Dietary Reference Intakes for Energy, Carbohydrate, Fiber, Fat, Fatty Acids, Cholesterol, Protein, and Amino Acids*. Washington, DC: National Academies Press. Food and Nutrition Board.
 2. National Academy of Medicine (NAM). (1997). *Dietary Reference Intakes for Calcium, Phosphorus, Magnesium, Vitamin D, and Fluoride*. Washington, DC: National Academies Press. Food and Nutrition Board.
 3. National Academy of Medicine (NAM). (1998). *Dietary Reference Intakes for Thiamin, Riboflavin, Niacin, Vitamin B6, Folate, Vitamin B12, Pantothenic Acid, Biotin, and Choline*. Washington, DC: National Academies Press. Food and Nutrition Board.
@@ -270,6 +307,7 @@ Estimated based on standard nutritional databases (e.g., USDA, Cronometer). Valu
     - **Use**: Provided an online platform for rendering the Markdown-formatted meal plan, ensuring accessibility for users without a local Markdown reader.
 
 # Notes
+
 - **Magnesium Replacement**: Replaced Epsom salts (1–2 cups, 2–3x/week, ~50–100mg magnesium/day, infeasible without bath) with increased sweet potato (1500g/week, ~60mg magnesium/day), kale (600g/week, ~60mg magnesium/day), pumpkin (1000g/week, ~50mg magnesium/day), and broccoli (600g/week, ~30mg magnesium/day), adding ~40mg/day, achieving ~310–360mg/day with food (~270–320mg/day), below RDA (400mg) and target (~450–550mg/day) (*Nutrients*, 2017; *J Urol.*, 2024).
 - **Iodine**: Retained non-iodized sea salt (¼ tsp/day, ~600mg sodium) and eggs (2/day, ~50µg iodine/day) for ~164µg/day iodine with seaweed snacks (8x/week, ~114µg/day), meeting RDA (150µg) (*Nutrients*, 2020).
 - **Chicken-Based Approach**: Fresh chicken breast (1400g/week, ~£5.60) and eggs (14/week, ~£2.50) are cost-effective, low histamine, and support leaky gut repair, mimicking fish benefits (*Nutrients*, 2020; *Pain Med.*, 2023).
@@ -284,4 +322,5 @@ Estimated based on standard nutritional databases (e.g., USDA, Cronometer). Valu
 - **Implementation**: Prepare bone broth fresh (boil 1kg chicken bones with water, non-iodized sea salt, 4–6 hours). Cool 50% sweet potato (e.g., lunch portions on Saturday, Monday, Thursday) after steaming, consume cold or lightly reheated (<60°C). Peel zucchini before steaming. Cook chicken fresh (grill/steam). Boil eggs fresh, consume immediately to stay low histamine. Increase fluid intake (3L/day) and monitor stool consistency (aim for Bristol Stool Type 4), bladder urgency, acidic sensations, and histamine/leaky gut symptoms (e.g., bloating, fatigue) for 2 weeks due to lower magnesium (~310–360mg/day).
 - **Medical Follow-Up**: Share diet with a gastroenterologist/urologist. Request stool test (dysbiosis, bile acid malabsorption), urinalysis (pH, infection), pelvic floor assessment, DAO activity test (histamine intolerance), zonulin test (leaky gut), and magnesium/B12/Vitamin D levels (due to lower intake).
 - **Expected Outcomes**: Enhanced gut barrier integrity (bone broth, zinc), softer stool (fiber, resistant starch), reduced acidic sensations (zero lectins/oxalates/histamine, alkalizing foods), less bladder urgency (low anti-nutrients, anti-inflammatory fats), and lower pain (pelvic floor relaxation) per *J Urol.*, 2024; *Medscape*, 2024; *Gut Microbes*, 2025; *Nutrients*, 2020; monitor magnesium-related symptoms (constipation, nerve pain).
+
 ---
