@@ -1,0 +1,286 @@
+# Keywords for Recreating Autophagy and Mitophagy-Enhanced Weekly Meal Plan
+
+Below is a list of keywords designed to guide an individual in recreating the structure and contents of the 7-day meal plan document. Keywords are organized by document section and thematic categories, covering purpose, structure, ingredients, nutritional goals, dietary constraints, preparation, and supporting details.
+
+## Document Metadata
+- YAML
+- Title
+- Author
+- Date
+- Geometry (margin=1in)
+- Table of Contents (toc: true)
+
+## Introduction
+- 7-day meal plan
+- Friday to Thursday
+- Chicken-focused
+- Leaky gut repair
+- Constipation
+- Bowel-bladder interactions
+- Acidic sensations
+- Neuropathic pain
+- Post-antibiotic gut issues
+- Autophagy
+- Mitophagy
+- Nerve health
+- Multiple sclerosis
+- Protein
+- Zinc
+- Gut-healing nutrients
+- Cost-effective
+- Alkalizing vegetables
+- Gut-soothing vegetables
+- Anti-inflammatory fats
+- Seasonings
+- Morning ritual
+- Vitamin C
+- Potassium
+- Electrolyte drink
+- Magnesium-rich foods
+- Non-iodized sea salt
+- Seaweed snacks
+- Magnesium intake (~350–400mg/day)
+- Iodine intake (~164µg/day)
+- Fiber intake (~31–36g/day)
+- Resistant starch
+- 16:8 intermittent fasting
+- Eating window (12 PM–8 PM)
+- Low-FODMAP
+- Low-histamine
+- Budget (~£56–£59)
+- Markdown Reader
+- Online tool (https://markdownreader.github.io/)
+
+## Nutritional Standards
+- Recommended Dietary Allowance (RDA)
+- Adequate Intake (AI)
+- National Academy of Medicine (NAM)
+- UK dietary reference values
+- NHS
+- Scientific Advisory Committee on Nutrition (SACN)
+- Low-FODMAP (Monash University)
+- Ketogenic diet
+- Low-carb (~60–80g carbs/day)
+- Protein (~100–120g/day)
+- Fat (~140–170g/day)
+- Carbohydrates (~35–45g net carbs)
+- Fiber (~12–14g soluble fiber)
+- Vitamin C (~150–170mg/day)
+- Potassium (~4600–5200mg/day)
+- Iodine (~110% RDA, 150µg)
+- Calcium (~600–800mg/day)
+- Magnesium (~87–100% RDA, 400mg)
+- Vitamin B12 (~1.5–2µg/day)
+- Vitamin D (~0.5–1µg/day)
+- Vitamin A (~400–600µg/day)
+- Zinc (~9–13mg/day)
+- Sodium (~600–800mg/day)
+- Omega-3s (~0.1–0.2g/day)
+- Anti-nutrients
+- Lectins (none)
+- Oxalates (none)
+- Phytates (none)
+- Saponins (none)
+- Tannins (minimal)
+
+## Daily Routine
+- Morning ritual
+- Fasting period (8 AM)
+- Warm water
+- Lemon juice (75ml, 37.5mg Vitamin C)
+- Electrolyte drink
+- Non-iodized sea salt (¼ tsp, 600mg sodium)
+- Cream of tartar (1 tsp, ~500mg potassium)
+- Hydration (3L water/day)
+- Stool softening
+- Urine dilution
+- Diaphragmatic breathing (5 min, 2x/day)
+- Pelvic floor relaxation
+- Stand/walk (5–10 min/hour)
+- Pelvic circulation
+- Eating window (12 PM–8 PM)
+- Footstool (Squatty Potty)
+- Bowel movements
+- Bowel-bladder crosstalk
+- Physiother Res Int (2024)
+
+## Menu (Friday–Thursday)
+- Lunch (12 PM)
+- Dinner (6 PM)
+- Fresh chicken breast (200g/meal, 50g protein, 40mg magnesium, ~1mg zinc)
+- Boiled eggs (2/lunch, 12g protein, ~50µg iodine, ~1mg zinc)
+- Bone broth (250ml/lunch, 10g protein, 50mg magnesium, ~2g collagen)
+- Olive oil (4–6 tbsp/meal, 56–84g fat)
+- Coconut oil (1 tbsp/some dinners, 14g fat)
+- Peeled steamed zucchini (100g, 2g fiber, 300mg potassium)
+- Steamed carrots (100–200g, 2–4g fiber, 60–120mg Vitamin C)
+- Steamed kale (100g, 2g fiber, 60mg magnesium)
+- Steamed broccoli (100g, 2g fiber, 30mg magnesium)
+- Steamed cauliflower (100g, 4g fiber, 30mg Vitamin C)
+- Steamed sweet potato (300–400g, 9–12g fiber, 1200–1600mg potassium, cooled)
+- Frozen pumpkin (¾ cup, ~143g, 3g fiber, 300mg potassium)
+- Steamed cucumber (100g, 1g fiber, 150mg potassium)
+- Fresh apple (50g, 0.5g fiber, 20mg Vitamin C)
+- Parsley (1 tbsp, ~5g, alkalizing)
+- Ground turmeric (1 tsp/meal)
+- Black pepper (pinch/meal)
+- Seaweed snack sheet (~100µg iodine, 8x/week)
+
+## Nutritional Breakdown
+- Daily average
+- USDA
+- Cronometer
+- Calories (~1600–1900 kcal)
+- Macronutrients
+- Protein (~100–120g, 15–20%)
+- Fat (~140–170g, 70–80%)
+- Carbohydrates (~60–80g, 5–15%)
+- Net carbs (~35–45g)
+- Fiber (~31–36g)
+- Resistant starch (~1–2g/day)
+- Micronutrients
+- Vitamin C (~150–170mg, 200–227% RDA)
+- Potassium (~4600–5200mg, 131–149% AI)
+- Iodine (~164µg, ~110% RDA)
+- Omega-3s (~0.1–0.2g)
+- Calcium (~600–800mg, 60–80% RDA)
+- Magnesium (~350–400mg, 87–100% RDA)
+- Vitamin B12 (~1.5–2µg, 60–80% RDA)
+- Vitamin D (~0.5–1µg, 2.5–5% RDA)
+- Vitamin A (~400–600µg, 45–65% RDA)
+- Zinc (~9–13mg, 80–120% RDA)
+- Sodium (~600–800mg, 26–35% AI)
+
+## Shopping List
+- Staples
+- Olive oil (1000ml)
+- Coconut oil (100ml)
+- Non-iodized sea salt (250g)
+- Cream of tartar (100g)
+- Ground turmeric (50g)
+- Ground black pepper (50g)
+- Seaweed snacks (8 packs)
+- Fresh
+- Chicken breast (2800g)
+- Chicken bones (1kg)
+- Eggs (30 medium)
+- Kale (1200g)
+- Broccoli (1100g)
+- Cauliflower (400g)
+- Zucchini (1400g, peeled)
+- Cucumber (700g)
+- Sweet potato (1800g)
+- Carrots (2000g)
+- Green beans (500g)
+- Apple (350g)
+- Parsley (20g)
+- Lemons (4, ~600ml juice)
+- Frozen
+- Pumpkin (1000g)
+- Budget (~£58.60)
+- Morrisons
+- Aisles (Oil, Seasonings, Fresh Produce, Fresh Meat, Butcher Counter, International, Spices)
+
+## Notes
+- Magnesium replacement
+- Sweet potato (1800g/week)
+- Kale (1200g/week)
+- Green beans (500g/week)
+- Pumpkin (1000g/week)
+- Broccoli (1100g/week)
+- Iodine sources
+- Non-iodized sea salt (¼ tsp/day)
+- Eggs (2/day)
+- Seaweed snacks (8x/week)
+- Chicken-based approach
+- Leaky gut optimization
+- Bone broth (3500ml/week)
+- Resistant starch (cooled sweet potato)
+- Nutritional adjustments
+- Ingredient clarification
+- Green tea removal
+- Section consistency
+- Leptin sensitivity optimization
+- Implementation
+- Fresh preparation
+- Steaming
+- Boiling
+- Cooling (sweet potato)
+- Fluid intake (3L/day)
+- Stool consistency (Bristol Stool Type 4)
+- Monitoring (constipation, nerve pain, histamine symptoms)
+- Medical follow-up
+- Stool test
+- Urinalysis
+- Pelvic floor assessment
+- DAO activity test
+- Zonulin test
+- Magnesium levels
+- B12 levels
+- Vitamin D levels
+- Expected outcomes
+- Gut barrier integrity
+- Softer stool
+- Reduced acidic sensations
+- Less bladder urgency
+- Lower pain
+- Weight loss
+
+## References
+- National Academy of Medicine (NAM)
+- Dietary Reference Intakes
+- Gut Microbes (2025)
+- The Journal of Urology (2024)
+- Pain Medicine (2023)
+- Nutrients (2019, 2020)
+- Frontiers in Plant Science (2017)
+- Medscape General Medicine (2024)
+- Scientific Advisory Committee on Nutrition (SACN)
+- Monash University
+- Food & Function (2016)
+- SIGHI Histamine Food List (2023)
+
+## Thematic Categories
+- **Dietary Constraints**:
+  - Low-histamine
+  - Lectin-free
+  - Oxalate-free
+  - Low-FODMAP
+  - No coffee
+  - Non-iodized sea salt
+  - No psyllium husk
+  - No gluten-free bread
+- **Nutritional Goals**:
+  - High protein
+  - High fat
+  - Low carbohydrate
+  - High fiber
+  - Magnesium optimization
+  - Iodine sufficiency
+  - Vitamin C excess
+  - Potassium excess
+  - Zinc sufficiency
+- **Health Objectives**:
+  - Leaky gut repair
+  - Constipation relief
+  - Bowel-bladder crosstalk
+  - Neuropathic pain reduction
+  - Post-antibiotic gut health
+  - Autophagy enhancement
+  - Mitophagy enhancement
+  - Nerve health support
+  - Leptin sensitivity
+  - Weight loss
+- **Preparation Methods**:
+  - Fresh cooking
+  - Steaming
+  - Boiling
+  - Cooling (resistant starch)
+  - Peeling (zucchini)
+- **Non-Dietary Practices**:
+  - Intermittent fasting (16:8)
+  - Diaphragmatic breathing
+  - Footstool use
+  - Hydration
+  - Pelvic floor relaxation
+  - Pelvic circulation
