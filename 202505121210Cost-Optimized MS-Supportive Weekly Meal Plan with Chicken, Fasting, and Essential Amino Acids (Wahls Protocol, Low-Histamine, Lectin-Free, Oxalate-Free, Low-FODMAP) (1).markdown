@@ -1,0 +1,11 @@
+```yaml
+title: Cost-Optimized MS-Supportive Weekly Meal Plan with Chicken, Fasting, and Essential Amino Acids (Wahls Protocol, Low-Histamine, Lectin-Free, Oxalate-Free, Low-FODMAP)
+date: May 11, 2025, 12:00 UTC
+author: Your Name
+geometry: margin=1in
+toc: true
+```
+
+# Introduction
+
+This cost-optimized 7-day meal plan (Friday to Thursday, May 9–15, 2025), tailored for a 54-year-old male with multiple sclerosis (MS) weighing 63.5 kg, aligns with **The Wahls Protocol** (Wahls Paleo level) to support MS management through nutrient-dense foods, delivering ~102g protein/day (~1.6 g/kg body weight, ~51g/meal) across two meals (12 PM, 6 PM) within a **16:8 intermittent fasting schedule** (12 PM–8 PM eating window, fasting 8 PM–12 PM, no breakfast or morning food intake), ensuring all 9 essential amino acids (EAAs: histidine, isoleucine, leucine, lysine, methionine, phenylalanine, threonine, tryptophan, valine) and Vitamin B12 (~2.5–3.0µg/day, ~104–125% RDA: 2.4µg). It supports leaky gut repair, constipation, bowel-bladder interactions, acidic sensations, neuropathic pain, post-antibiotic gut issues, and MS-specific needs (e.g., nerve health, inflammation reduction). The plan aligns with the video *"Ultimate Protein Guide: Lose Weight Faster (How Much You REALLY Need)"* ([https://youtu.be/hHkxBEQaZdY](https://youtu.be/hHkxBEQaZdY)), recommending ~1.2–2.0 g/kg protein and emphasizing the 9 EAAs (*Am J Clin Nutr.*, 2015; *Adv Nutr.*, 2017), and leverages fasting benefits for inflammation reduction and immune regulation in MS (*Neurosci News*, 2018; *Nat Commun.*, 2018), with high protein to mitigate muscle loss concerns for those over 40 (*J Gerontol A Biol Sci Med Sci.*, 2017; *J Nutr.*, 2014). The plan uses only whole chicken (for meat and bones) and chicken breasts, with all but one whole chicken frozen upon purchase (Friday) and defrosted strategically to ensure low-histamine compliance. All chicken is cooked fresh daily or consumed immediately after cooking, with **no reheating of cooked meat** to prevent histamine formation, and excess meat is frozen within 2 hours for future use (*SIGHI*, 2023; *Food Microbiol.*, 2018). Bone broth (~2800ml, 14 x 200ml portions) is prepared solely from ~1400g bones of two whole chickens, frozen immediately, defrosted daily, and heated once to 165°F/74°C. A
