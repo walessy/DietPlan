@@ -1,7 +1,7 @@
 ```yaml
 ---
 title: Artifact 12: MS-Supportive Weekly Meal Plan - Post-Meal Exercise Routine - 30 Minutes at 12:30 PM
-date: May 26, 2025, 11:10 AM BST
+date: May 27, 2025, 10:16 AM BST
 author: Your Name
 geometry: margin=1in
 toc: false
@@ -12,14 +12,15 @@ toc: false
 
 ## Post-Meal Exercise Routine
 
-This is **Artifact 12: Post-Meal Exercise Routine - 30 Minutes at 12:30 PM**, providing a detailed 30-minute exercise routine to be performed post-lunch (12:30 PM) as part of the 7-day meal plan (June 15–21, 2025), tailored for a 54-year-old male with MS weighing 71.7 kg. The routine aligns with **The Wahls Protocol** (Wahls Paleo level), complementing a diet delivering ~114.7 g protein/day (~1.6 g/kg, ~57.4 g/meal) across two meals (12 PM lunch, 7:30–8:00 PM dinner) within a 16:8 intermittent fasting schedule, adhering to **low-histamine**, **lectin-free**, **oxalate-free** (<10 mg/100g), **low-FODMAP**, **leaky gut**, and **MS-supportive** constraints. User observations highlight eggs (4–5/day, ~500–625 mg choline) improving alertness and sleep, while chicken may cause hard stools, mitigated with ~30–35 g/day fiber (e.g., zucchini) and 3 L/day water. Apples and cocoa are excluded due to high oxalates, FODMAPs, and stimulants worsening neuropathy. The routine includes 10 sets of MS-safe, compound movements using resistance bands and bodyweight, designed to enhance leucine-driven mTOR activation (~2.5–3.5 g/meal) for muscle protein synthesis (MPS), myokine release (e.g., BDNF, IL-6), and nerve health ([Am J Clin Nutr., 2015](https://academic.oup.com/ajcn/article/101/3/479/4499917)). Pictorial descriptions illustrate each exercise, with guidance for MS adjustments to minimize fatigue and spasticity. For plan overview, see **Artifact 1: Introduction and Nutritional Standards** (./Article1.md); for menu, see **Artifact 3: Menu** (./Article3.md); for daily routine, see **Artifact 2: Daily Routine and Defrosting and Cooking Schedule** (./Article2.md); for leucine guidance, see **Artifact 7: Leucine and Fasting Guidance** (./Article7.md) and **Artifact 11: Leucine and mTOR Activation Guidance** (./Article11.md). Use Markdown Reader (https://markdownreader.github.io/) to view ([Physiother Res Int., 2024](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087)).
+This is **Artifact 12: Post-Meal Exercise Routine - 30 Minutes at 12:30 PM**, detailing a 30-minute exercise routine to be performed post-lunch (12:30 PM) as part of the 7-day meal plan (June 15–21, 2025), tailored for a 54-year-old male with MS weighing 71.8 kg. The routine aligns with **The Wahls Protocol** (Wahls Paleo level) and complements **Autoimmune Protocol (AIP)** principles, delivering ~115 g protein/day (~1.6 g/kg, ~57.5 g/meal) across two meals (12 PM lunch, 7:30–8:00 PM dinner) within a 16:8 intermittent fasting schedule, adhering to **low-histamine**, **lectin-free**, **oxalate-free** (<10 mg/100g), **low-FODMAP**, **leaky gut**, and **MS-supportive** constraints. User observations highlight eggs (4–5/day, ~500–625 mg choline) improving alertness and sleep, while chicken may cause hard stools, mitigated with ~30–35 g/day fiber (e.g., zucchini) and 3 L/day water. Apples and cocoa are excluded due to high oxalates, FODMAPs, and stimulants worsening neuropathy. The routine includes 10 sets of MS-safe, compound movements (5 resistance band, 5 bodyweight), performed 30 minutes post-lunch to leverage leucine-driven mTOR activation (~2.5–3.5 g/meal from ~150 g chicken, 50 g liver, 4–5 eggs), enhancing muscle protein synthesis (MPS), myokine release (e.g., BDNF, IL-6), and nerve health ([Am J Clin Nutr., 2015](https://academic.oup.com/ajcn/article/101/3/479/4499917)). Exercises are low-impact, adjustable for MS-related fatigue/spasticity, and support AIP’s anti-inflammatory goals by reducing systemic inflammation, complementing nightshade exclusion and stress management ([Article13.md](https://github.com/xAI/Artifact13.md)). Pictorial descriptions (text-based) illustrate each exercise, with MS adjustments to ensure accessibility. For plan overview, see **Artifact 1: Introduction and Nutritional Standards** (./Article1.md); for menu, see **Artifact 3: Menu** (./Article3.md); for daily routine, see **Artifact 2: Daily Routine and Defrosting and Cooking Schedule** (./Article2.md); for leucine guidance, see **Artifact 7: Leucine and Fasting Guidance** (./Article7.md) and **Artifact 11: Leucine and mTOR Activation Guidance** (./Article11.md); for AIP integration, see **Artifact 13: Autoimmune Protocol Integration** (./Article13.md). Use Markdown Reader (https://markdownreader.github.io/) to view ([Physiother Res Int., 2024](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087)).
 
 ### Exercise Routine Overview
-- **Time**: 12:30 PM, 30 minutes post-lunch (12 PM), leveraging leucine peak (~2.5–3.5 g from ~150 g chicken, 4–5 eggs) for mTOR activation ([Article11.md](https://github.com/xAI/Artifact11.md)).
+- **Time**: 12:30 PM, 30 minutes post-lunch (12 PM), leveraging leucine peak (~2.5–3.5 g from ~150 g chicken, 4–5 eggs, or 50 g liver) for mTOR activation ([Article11.md](https://github.com/xAI/Artifact11.md)).
 - **Duration**: ~30 minutes (5 min warm-up, 20–22 min main exercises, 3–5 min cool-down).
 - **Structure**: 10 sets of compound movements (5 resistance band, 5 bodyweight), each targeting multiple muscle groups for MPS and myokine release ([Front Immunol., 2019](https://www.frontiersin.org/articles/10.3389/fimmu.2019.01516/full)).
 - **MS Adjustments**: Low-impact, adjustable reps/sets (e.g., 8 sets if fatigued), seated options, and balance support to manage spasticity/fatigue ([Physiother Res Int., 2024](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087)).
 - **Equipment**: Lightweight resistance bands (low to medium resistance), chair for stability, optional low platform (e.g., stair).
+- **AIP Synergy**: Exercises reduce inflammation via myokine release, complementing AIP’s dietary exclusions (e.g., nightshades) and stress management (e.g., meditation, yoga) ([Article13.md](https://github.com/xAI/Artifact13.md)).
 - **Integration**: Complements dietary leucine (~5–7 g/day) and fasting (16:8), enhancing nerve health and reducing MS symptoms ([Article7.md](https://github.com/xAI/Artifact7.md)).
 
 ### Routine Details
@@ -58,7 +59,7 @@ This is **Artifact 12: Post-Meal Exercise Routine - 30 Minutes at 12:30 PM**, pr
    - **Description**: Stand on band, feet shoulder-width, hold handles at shoulders. Squat to knee height, stand while pressing handles overhead, lower slowly.
    - **Muscles**: Quads, glutes, shoulders, triceps.
    - **MS Adjustment**: Use chair for balance, reduce squat depth, perform seated (press only).
-   - **Benefits**: Compound movement enhances MPS, myokine release ([Article11.md](https://github.com/xAI/Artifact11.md)).
+   - **Benefits**: Compound movement enhances MPS, myokine release, supports AIP’s anti-inflammatory goals ([Article11.md](https://github.com/xAI/Artifact11.md)).
    - **Pictorial Description**:
      ```
      Start:          Squat:          Press:
@@ -243,22 +244,24 @@ This is **Artifact 12: Post-Meal Exercise Routine - 30 Minutes at 12:30 PM**, pr
 
 ### Monitoring and Adjustments
 - **Track Performance**:
-  - Use spreadsheets or **MyFitnessPal** to log:
+  - Use **MyFitnessPal** or spreadsheets to log:
     - **Reps/Sets**: Completion (e.g., 10 sets, 10 reps each).
     - **Fatigue**: Energy levels post-routine (scale 1–10).
     - **Spasticity**: Muscle stiffness post-exercise ([Article4.md](https://github.com/xAI/Artifact4.md)).
-  - Note benefits (e.g., improved strength) or issues (e.g., fatigue, neuropathy).
+    - **Neuropathy**: Tingling post-exercise, noting dietary triggers (e.g., no apples/cocoa) ([Article6.md](https://github.com/xAI/Artifact6.md)).
+  - Note benefits (e.g., improved strength, reduced fatigue) or issues (e.g., spasticity).
 - **Adjustments**:
   - **Fatigue**: Reduce to 8 sets, extend rest to 3–4 min, or replace high-effort exercises (e.g., squats) with seated rows ([Physiother Res Int., 2024](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087)).
-  - **Spasticity**: Shorten routine to 25 min, perform seated exercises, consult physiotherapist ([Article2.md](https://github.com/xAI/Artifact2.md)).
-  - **Neuropathy**: If tingling worsens, ensure no dietary triggers (e.g., apples/cocoa), reduce band resistance ([Article6.md](https://github.com/xAI/Artifact6.md)).
-- **Consult Experts**: Share logs with a physiotherapist or neurologist to tailor routine for MS ([J Neurol., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682957/)).
+  - **Spasticity**: Shorten routine to 25 min, prioritize seated exercises (e.g., rows, push-ups), consult physiotherapist ([Article2.md](https://github.com/xAI/Artifact2.md)).
+  - **Neuropathy**: If tingling worsens, verify no dietary triggers (e.g., apples/cocoa, nightshades), reduce band resistance, monitor with **MySymptoms** ([Article6.md](https://github.com/xAI/Artifact6.md)).
+  - **Liver Meals**: If post-liver meals (e.g., Monday lunch) cause digestive discomfort, reduce liver to 25 g/serving, ensure hydration ([Article13.md](https://github.com/xAI/Artifact13.md)).
+- **Consult Experts**: Share performance logs with a physiotherapist or neurologist to tailor exercises for MS-specific needs ([J Neurol., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682957/)).
 - **Use SuperGrok**: Query for routine tweaks (e.g., “MS-safe compound movements, 8 sets, low-impact”) or fatigue management (e.g., “Reduce MS exercise intensity”). Available via **SuperGrok** subscription on grok.com (visit https://x.ai/grok for pricing) ([Article10.md](https://github.com/xAI/Artifact10.md)).
 
 ### Notes
-- **Synergies**: Routine enhances leucine-driven mTOR activation (~2.5–3.5 g/meal from eggs, chicken) post-lunch, supporting MPS and nerve health ([Article11.md](https://github.com/xAI/Artifact11.md)).
+- **Synergies**: Routine enhances leucine-driven mTOR activation (~2.5–3.5 g/meal from eggs, chicken, liver), supporting MPS, myokine release, and nerve health, aligning with AIP’s anti-inflammatory focus ([Article11.md](https://github.com/xAI/Artifact11.md), [Article13.md](https://github.com/xAI/Artifact13.md)).
 - **MS Safety**: Low-impact, adjustable exercises minimize fatigue/spasticity, with seated options for stability ([Physiother Res Int., 2024](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087)).
-- **Dietary Integration**: Eggs (4–5/meal) support sleep/alertness, zucchini mitigates chicken constipation, apples/cocoa excluded ([Article3.md](https://github.com/xAI/Artifact3.md), [Article6.md](https://github.com/xAI/Artifact6.md)).
+- **Dietary Integration**: Eggs (4–5/meal) support sleep/alertness, zucchini mitigates chicken constipation, apples/cocoa/nightshades excluded to prevent neuropathy ([Article3.md](https://github.com/xAI/Artifact3.md), [Article6.md](https://github.com/xAI/Artifact6.md)).
 - **Pictorial Sourcing**: For actual images, visit MS exercise resources (e.g., [National MS Society](https://www.nationalmssociety.org/), [MS Trust](https://www.mstrust.org.uk/)) or fitness sites (e.g., [Bodybuilding.com](https://www.bodybuilding.com/), search “resistance band exercises”). Use terms like “band squats,” “chair push-ups” for visuals.
 
 ## References

@@ -1,7 +1,7 @@
 ```yaml
 ---
 title: Artifact 5: MS-Supportive Weekly Meal Plan - Shopping List (Wahls Protocol, Low-Histamine, Lectin-Free, Oxalate-Free, Low-FODMAP)
-date: May 26, 2025, 10:45 AM BST
+date: May 27, 2025, 09:50 AM BST
 author: Your Name
 geometry: margin=1in
 toc: false
@@ -12,14 +12,15 @@ toc: false
 
 ## Shopping List
 
-This is **Artifact 5: Shopping List**, detailing the items to purchase for the 7-day meal plan (June 15–21, 2025), tailored for a 54-year-old male with MS weighing 71.7 kg, adhering to **low-histamine**, **lectin-free**, **oxalate-free** (<10 mg/100g), **low-FODMAP**, **leaky gut**, and **MS-supportive** constraints, aligned with **The Wahls Protocol** (Wahls Paleo level). The plan delivers ~114.7 g protein/day (~1.6 g/kg, ~57.4 g/meal) across two meals (12 PM lunch, 7:30–8:00 PM dinner) within a 16:8 intermittent fasting schedule, supporting ~2.5–3.5 g leucine/meal for mTOR activation, enhanced by 30-minute post-meal exercise (10 sets of MS-adjusted compound movements) after lunch (12:30 PM) and dinner (8:00–8:30 PM) to promote muscle protein synthesis and nerve health ([Article2: Daily Routine](./Article2.md), [Article11: Leucine Guidance](./Article11.md)). User observations highlight eggs (4–5/day, ~500–625 mg choline) improving alertness and sleep, while chicken may cause hard stools, mitigated with ~30–35 g/day fiber (e.g., zucchini) and 3 L/day water. Apples and cocoa are excluded due to high oxalates, FODMAPs, and stimulants worsening neuropathy and brain fog. Shopping occurs on **Thursday, June 12, 2025**, at ASDA, with an estimated budget of ~£61.62–£63.29 (excluding supplements), slightly above the original ~£56–£59 due to increased eggs, salmon, blueberries, tart cherries, and magnesium citrate. For menu details, see **Artifact 3: Menu** (./Article3.md); for preparation, see **Artifact 2: Daily Routine and Defrosting and Cooking Schedule** (./Article2.md); for nerve health, see **Artifact 4: Nerve Health Support** (./Article4.md); for food compatibility, see **Artifact 6: Non-Plan Content** (./Article6.md). Use Markdown Reader (https://markdownreader.github.io/) to view ([Physiother Res Int., 2024](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087)).
+This is **Artifact 5: Shopping List**, detailing items to purchase for the 7-day meal plan (June 15–21, 2025), tailored for a 54-year-old male with MS weighing 71.7 kg, adhering to **low-histamine**, **lectin-free**, **oxalate-free** (<10 mg/100g), **low-FODMAP**, **leaky gut**, and **MS-supportive** constraints, aligned with **The Wahls Protocol** (Wahls Paleo level) and incorporating **Autoimmune Protocol (AIP)** elements ([Article13.md](https://github.com/xAI/Artifact13.md)). The plan delivers ~114.7 g protein/day (~1.6 g/kg, ~57.4 g/meal) across two meals (12 PM lunch, 7:30–8:00 PM dinner) within a 16:8 intermittent fasting schedule, targeting ~2.5–3.5 g leucine/meal for mTOR activation, enhanced by 30-minute post-meal exercise (10 sets of MS-adjusted compound movements) after lunch (12:30 PM) and dinner (8:00–8:30 PM) to promote muscle protein synthesis and nerve health ([Article2.md](https://github.com/xAI/Artifact2.md), [Article12.md](https://github.com/xAI/Artifact12.md), [Article11.md](https://github.com/xAI/Artifact11.md)). User observations highlight eggs (4–5/day, ~500–625 mg choline) improving alertness and sleep, while chicken may cause hard stools, mitigated with ~30–35 g/day fiber (e.g., zucchini) and 3 L/day water. Apples and cocoa are excluded due to high oxalates, FODMAPs, and stimulants worsening neuropathy and brain fog. Shopping occurs on **Thursday, June 12, 2025**, at ASDA, with an estimated budget of ~£63.62–£65.29 for food/staples (increased from ~£61.62–£63.29 due to chicken liver and coconut yogurt), ~£98.74–£102.41 including supplements. For menu details, see **Artifact 3: Menu** (./Article3.md); for preparation, see **Artifact 2: Daily Routine** (./Article2.md); for nerve health, see **Artifact 4: Nerve Health Support** (./Article4.md); for food compatibility, see **Artifact 6: Non-Plan Content** (./Article6.md). Use Markdown Reader (https://markdownreader.github.io/) to view ([Physiother Res Int., 2024](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087)).
 
 ### Shopping List (Thursday, June 12, 2025)
 
 #### Protein Sources
 - **Whole Chicken**: 2 x 1.45 kg (~£8.96, ~£4.48 each, Fresh Meat Aisle). Yields ~1800 g meat (~450 g protein, ~36–41 g leucine), ~1400 g bones for ~2800 ml bone broth (14 x 200 ml, ~2000 ml consumed, ~80 g protein). Refrigerate one for Sunday, freeze the other ([SIGHI, 2023](https://www.histamineintolerance.org/)).
 - **Chicken Breasts**: 1 kg (~£6.14, Fresh Chicken Aisle). Yields ~1000 g meat (~250 g protein, ~20–23 g leucine). Freeze in 500 g portions ([USDA, 2023](https://www.usda.gov/)).
-- **Wild Alaskan Salmon**: 1.5 kg (~£6.00, Fresh Fish Aisle). Yields ~200 g fillets (~50 g protein, ~3.6–4.0 g leucine). Freeze in 100 g portions ([SIGHI, 2023](https://www.histamineintolerance.org/)).
+- **Chicken Liver**: 100 g (~£1.50, Fresh Meat Aisle). Yields ~100 g (~25 g protein, ~3.0–3.5 g leucine, B vitamins). Cook fresh or freeze in 50 g portions, consume within 24 hours ([SIGHI, 2023](https://www.histamineintolerance.org/), [Article13.md](https://github.com/xAI/Artifact13.md)).
+- **Wild Alaskan Salmon**: 200 g (~£6.00, Fresh Fish Aisle). Yields ~200 g fillets (~50 g protein, ~3.6–4.0 g leucine). Freeze in 100 g portions ([SIGHI, 2023](https://www.histamineintolerance.org/)).
 - **Eggs**: 15 medium eggs (~£3.38, Dairy Aisle). Yields ~15 eggs (~90 g protein, ~7.5–9.0 g leucine, ~750 mg choline). Refrigerate at 35–40°F. Supports alertness/sleep ([Nutrients, 2018](https://www.mdpi.com/2072-6643/10/11/1729)).
 
 #### Vegetables (Greens, Sulfur-Rich, Colorful)
@@ -43,10 +44,11 @@ This is **Artifact 5: Shopping List**, detailing the items to purchase for the 7
 
 #### Pantry Staples
 - **Olive Oil**: 500 ml (~£3.50, Oils Aisle). ~42 g fat/3 tbsp for high-fat meals ([The Wahls Protocol, 2020](https://terrywahls.com/)).
-- **Salt**: 200 g (~£0.50, Spices Aisle). ~600–800 mg sodium/day ([Article1: Introduction](./Article1.md)).
+- **Salt**: 200 g (~£0.50, Spices Aisle). ~600–800 mg sodium/day ([Article1.md](https://github.com/xAI/Artifact1.md)).
 - **Turmeric**: 50 g (~£1.00, Spices Aisle). Anti-inflammatory, optional ([J Neuroimmunol., 2017](https://www.sciencedirect.com/science/article/pii/S0165572817301888)).
-- **Freezer Bags**: 20 (~£1.00, Household Aisle). For freezing chicken, salmon, kale, broth ([USDA, 2023](https://www.usda.gov/)).
+- **Freezer Bags**: 20 (~£1.00, Household Aisle). For freezing chicken, salmon, liver, kale, broth ([USDA, 2023](https://www.usda.gov/)).
 - **Seaweed Snack Sheets**: 10 (~£1.50, International Aisle). ~100 µg iodine/sheet ([Nutrients, 2020](https://www.mdpi.com/2072-6643/12/6/1718)).
+- **Coconut Yogurt**: 100 ml (~£0.50, International Aisle). ~1 tbsp/serving, gut health, refrigerate at 35–40°F, consume within 48 hours ([SIGHI, 2023](https://www.histamineintolerance.org/), [Article13.md](https://github.com/xAI/Artifact13.md)).
 
 #### Supplements and Functional Foods
 - **Plenish Spirulina Detox**: 4 x 60 ml (~£8.00, Juice Aisle). ~30 ml/day, refrigerate at 35–40°F, provides antioxidants ([Front Nutr., 2020](https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2020.00132/full)).
@@ -57,25 +59,26 @@ This is **Artifact 5: Shopping List**, detailing the items to purchase for the 7
 - **5-Methyltetrahydrofolate**: 14 x 200 µg (~£2.80, Pharmacy/Online). 400 µg/day for methylation ([J Neurol., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682957/)).
 - **L-Citrulline**: 14 x 500 mg (~£1.40, Pharmacy/Online). 1000 mg/day for nitric oxide ([Nitric Oxide, 2018](https://www.sciencedirect.com/science/article/pii/S1089860318300146)).
 - **Acetyl-L-Carnitine**: 14 x 500 mg (~£7.00, Pharmacy/Online). 1000 mg/day for mitochondrial function ([Mult Scler., 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4376528/)).
-- **Creatine Monohydrate**: 14 x 5 g (~£1.40, Pharmacy/Online). 5 g/day for muscle/nerve energy ([Article4: Nerve Health](./Article4.md)).
+- **Creatine Monohydrate**: 14 x 5 g (~£1.40, Pharmacy/Online). 5 g/day for muscle/nerve energy ([Article4.md](https://github.com/xAI/Artifact4.md)).
 - **Magnesium Citrate**: 60 x 200 mg (~£6.00–£8.00, Pharmacy/Online). 200–400 mg/day for sleep, bowel regularity ([Nutrients, 2017](https://www.mdpi.com/2072-6643/9/7/767)).
 
 ### Notes
-- **Budget**: ~£61.62–£63.29 for food/staples, excluding supplements (~£35.12–£37.12). Total: ~£96.74–£100.41. Prices estimated from ASDA (2025), adjust for local rates ([Article1: Introduction](./Article1.md]).
+- **Budget**: ~£63.62–£65.29 for food/staples (increased from ~£61.62–£63.29 due to liver, yogurt), ~£35.12–£37.12 for supplements. Total: ~£98.74–£102.41. Prices estimated from ASDA (2025), adjust for local rates ([Article1.md](https://github.com/xAI/Artifact1.md)).
 - **Storage**:
-  - **Refrigerate (35–40°F)**: One chicken (Sunday, 48 hours), salmon (select meals), kale (~300 g), blueberries, tart cherries, spirulina, supplements ([SIGHI, 2023](https://www.histamineintolerance.org/)).
-  - **Freeze (0°F)**: Second chicken, chicken breasts (500 g portions), extra salmon (100 g portions), blanched kale (~50 g), bone broth (12 x 200 ml) ([USDA, 2023](https://www.usda.gov/)).
+  - **Refrigerate (35–40°F)**: One chicken (Sunday, 48 hours), liver (24 hours), salmon (select meals), kale (~300 g), blueberries, tart cherries, coconut yogurt, spirulina, supplements ([SIGHI, 2023](https://www.histamineintolerance.org/)).
+  - **Freeze (0°F)**: Second chicken, chicken breasts (500 g portions), extra salmon (100 g portions), liver (50 g portions), blanched kale (~50 g), bone broth (12 x 200 ml) ([USDA, 2023](https://www.usda.gov/)).
 - **Preparation**:
   - **Peel**: Zucchini, carrots, potato, ginger to remove lectins ([Front Plant Sci., 2017](https://www.frontiersin.org/articles/10.3389/fpls.2017.01365/full)).
-  - **Cook Fresh**: Chicken, salmon, eggs to prevent histamine formation ([SIGHI, 2023](https://www.histamineintolerance.org/)).
-  - **Bone Broth**: Prepare Tuesday from ~1400 g bones (Sunday/Thursday chickens), freeze 12 x 200 ml, refrigerate 2 x 200 ml ([Article2: Daily Routine](./Article2.md)).
-- **Avoidances**: Exclude apples, cocoa, beetroot, shiitake mushrooms, green tea, almond butter, pumpkin seeds, whey due to oxalates, FODMAPs, lectins, histamine, or dairy, preventing neuropathy exacerbation ([Article6: Non-Plan Content](./Article6.md)).
+  - **Cook Fresh**: Chicken, salmon, eggs, liver to prevent histamine formation ([SIGHI, 2023](https://www.histamineintolerance.org/)).
+  - **Bone Broth**: Prepare Tuesday from ~1400 g bones (Sunday/Thursday chickens), freeze 12 x 200 ml, refrigerate 2 x 200 ml ([Article2.md](https://github.com/xAI/Artifact2.md)).
+  - **Coconut Yogurt**: Consume within 48 hours, monitor bloating ([Article13.md](https://github.com/xAI/Artifact13.md)).
+- **Avoidances**: Exclude apples, cocoa, beetroot, shiitake mushrooms, green tea, almond butter, pumpkin seeds, whey, nightshades (e.g., tomatoes, peppers) due to oxalates, FODMAPs, lectins, histamine, dairy, or inflammation, preventing neuropathy exacerbation ([Article6.md](https://github.com/xAI/Artifact6.md), [Article13.md](https://github.com/xAI/Artifact13.md)).
 - **Sourcing Tips**:
-  - **ASDA Aisles**: Fresh Produce (vegetables, fruits), Fresh Meat (chicken), Fresh Fish (salmon), Dairy (eggs), Oils (olive oil), Spices (salt, turmeric), International (sea vegetables, seaweed snacks), Household (freezer bags), Juice (spirulina), Pharmacy/Online (supplements).
-  - **Check Labels**: Ensure no additives (e.g., preservatives in salmon, spices) to maintain low-histamine compliance ([SIGHI, 2023](https://www.histamineintolerance.org/)).
-  - **Local Alternatives**: If items (e.g., tart cherries) are unavailable, substitute with low-oxalate, low-FODMAP fruits (e.g., peeled pear, ~30 g) after consulting a dietitian ([www.monashfodmap.com](https://www.monashfodmap.com/)).
-- **Leucine Contribution**: Chicken (~3.0–3.5 g/150 g), salmon (~1.8–2.0 g/100 g), eggs (~0.5–0.6 g/egg) ensure ~2.5–3.5 g leucine/meal, supporting nerve health via mTOR activation and post-meal exercise ([Article4: Nerve Health](./Article4.md], [Article11: Leucine Guidance](./Article11.md)).
-- **Monitoring**: Log constipation (post-chicken), neuropathy (post-blueberries/tart cherries), or sleep (post-eggs) using **MySymptoms** or spreadsheets. Adjust quantities (e.g., reduce chicken to 100 g/meal if constipation persists) with a dietitian’s guidance ([Article4: Nerve Health](./Article4.md]).
+  - **ASDA Aisles**: Fresh Produce (vegetables, fruits), Fresh Meat (chicken, liver), Fresh Fish (salmon), Dairy (eggs), Oils (olive oil), Spices (salt, turmeric), International (sea vegetables, seaweed snacks, coconut yogurt), Household (freezer bags), Juice (spirulina), Pharmacy/Online (supplements).
+  - **Check Labels**: Ensure no additives (e.g., preservatives in salmon, spices, yogurt) to maintain low-histamine compliance ([SIGHI, 2023](https://www.histamineintolerance.org/)).
+  - **Local Alternatives**: If items (e.g., tart cherries, coconut yogurt) are unavailable, substitute with low-oxalate, low-FODMAP options (e.g., peeled pear ~30 g, homemade coconut yogurt) after consulting a dietitian ([www.monashfodmap.com](https://www.monashfodmap.com/)).
+- **Leucine Contribution**: Chicken (~3.0–3.5 g/150 g), liver (~1.5–1.8 g/50 g), salmon (~1.8–2.0 g/100 g), eggs (~0.5–0.6 g/egg) ensure ~2.5–3.5 g leucine/meal, supporting nerve health via mTOR activation ([Article4.md](https://github.com/xAI/Artifact4.md), [Article11.md](https://github.com/xAI/Artifact11.md)).
+- **Monitoring**: Log constipation (post-chicken/liver), neuropathy (post-blueberries/tart cherries), or sleep (post-eggs) using **MySymptoms** or spreadsheets. Adjust quantities (e.g., reduce chicken to 100 g/meal, liver to 25 g/serving if issues persist) with a dietitian’s guidance ([Article4.md](https://github.com/xAI/Artifact4.md)).
 
 ## References
 1. **Antioxid Redox Signal., 2015**: Shay, K. P., et al. Alpha-lipoic acid as a dietary supplement: Molecular mechanisms and therapeutic potential. *Antioxidants & Redox Signaling*, 23(5), 410–429. [https://www.liebertpub.com/doi/10.1089/ars.2014.6183](https://www.liebertpub.com/doi/10.1089/ars.2014.6183). Validates R-ALA for nerve health.
