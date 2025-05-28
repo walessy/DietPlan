@@ -1,7 +1,7 @@
 ```yaml
 ---
 title: Artifact 2: MS-Supportive Weekly Meal Plan - Daily Routine and Defrosting and Cooking Schedule
-date: May 28, 2025, 08:36 AM BST
+date: May 28, 2025, 11:54 AM BST
 author: Your Name
 geometry: margin=1in
 toc: false
@@ -12,113 +12,204 @@ toc: false
 
 ## Daily Routine and Defrosting and Cooking Schedule
 
-This is **Artifact 2: Daily Routine and Defrosting and Cooking Schedule**, detailing the daily schedule and food preparation tasks for the 7-day meal plan (June 15–21, 2025), tailored for a 54-year-old male with MS weighing 71.8 kg. The plan aligns with **The Wahls Protocol** (Wahls Paleo level) and incorporates **Autoimmune Protocol (AIP)** elements, delivering ~115 g protein/day (~1.6 g/kg, ~57.5 g/meal) across two meals (12 PM lunch, 7:30–8:00 PM dinner) within a 16:8 intermittent fasting schedule, adhering to **low-histamine**, **lectin-free**, **oxalate-free** (<10 mg/100g), **low-FODMAP**, **leaky gut**, and **MS-supportive** constraints. User observations highlight eggs (4–5/day, ~500–625 mg choline) improving alertness and sleep, chronic constipation from chicken and kale (mitigated with tinned fish, avocados, and flavonoid-rich foods), and neuropathy from apples/cocoa. The plan targets ~2.5–3.5 g leucine/meal for mTOR activation, supported by 30-minute post-meal exercise (10 sets of MS-adjusted compound movements) at 12:30 PM and 8:00–8:30 PM ([Article12.md](https://github.com/xAI/Artifact12.md)). This artifact schedules meal preparation, defrosting, and cooking to align with the updated menu, incorporating tinned fish, avocados, blueberries, tart cherries, and pear to address constipation, while maintaining chicken liver, coconut yogurt, and nightshade elimination ([Article13.md](https://github.com/xAI/Artifact13.md)). Foods are cooked fresh and consumed immediately to maintain low-histamine properties ([SIGHI, 2023](https://www.histamineintolerance.org/)). For plan overview, see **Artifact 1** (./Article1.md); for menu details, see **Artifact 3** (./Article3.md); for shopping, see **Artifact 5** (./Article5.md); for food compatibility, see **Artifact 6** (./Article6.md); for AIP integration, see **Artifact 13** (./Article13.md). Use Markdown Reader (https://markdownreader.github.io/) to view ([Physiother Res Int., 2024](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087)).
+This is **Artifact 2: Daily Routine and Defrosting and Cooking Schedule**, detailing the daily schedule, including defrosting, cooking, exercise, and stress management tasks for the 7-day meal plan (June 15–21, 2025), tailored for a 54-year-old male with multiple sclerosis (MS) weighing 71.8 kg, with weaker digestive motility impacting gut function. The plan aligns with **The Wahls Protocol** (Wahls Paleo level) and **Autoimmune Protocol (AIP)** principles, delivering ~115 g protein/day (~57.5 g/meal) across two meals (12 PM lunch, 7:30–8:00 PM dinner) within a 16:8 intermittent fasting schedule, adhering to **low-histamine**, **lectin-free**, **oxalate-free** (<10 mg/100g), **low-FODMAP**, **leaky gut**, and **MS-supportive** constraints. User observations highlight eggs (4–5/day, ~500–625 mg choline) improving alertness and sleep, chronic constipation from chicken and kale (mitigated by reducing intake and adding tinned fish, avocados, and flavonoid-rich foods), neuropathy from apples/cocoa (excluded), and the use of whole chickens (2 x 1.45 kg) to source bones for bone broth. This artifact provides a consolidated daily timeline, incorporating defrosting, cooking, exercise (10 sets of MS-adjusted compound movements at 12:30 PM and 8:00–8:30 PM), yoga, and meditation, using the simplified menu from **Artifact 15** (./Article15.md) (eggs, tinned fish, chicken, zucchini, lettuce, avocados, blueberries, pear, liver, yogurt, bone broth). It prioritizes gut-healing and high-fiber foods (~30–35 g fiber/day) to support impaired digestion, with shopping ordered online at ASDA on **Tuesday, June 10, 2025**, and delivery on **Friday evening, June 13, 2025**. For menu, see **Artifact 15** (./Article15.md); for shopping, see **Artifact 5** (./Article5.md); for food compatibility, see **Artifact 6** (./Article6.md); for tracking, see **Artifact 10** (./Article10.md); for exercise details, see **Artifact 12** (./Article12.md); for AIP, see **Artifact 13** (./Article13.md). Use Markdown Reader (https://markdownreader.github.io/) to view ([Physiother Res Int., 2024](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087)).
 
-### Daily Routine
-- **6:30 AM**: Wake, hydrate (300 ml water).
-- **7:00 AM**: Seated yoga (5 min, e.g., cat-cow stretch: sit, inhale to arch back, exhale to round spine, 8 reps) to reduce stress and spasticity ([Article13.md](https://github.com/xAI/Artifact13.md)).
-- **7:30–8:00 AM**: Morning exercise (20–30 min, resistance bands, walking, MS-adjusted) to support circulation and circadian rhythm ([Article12.md](https://github.com/xAI/Artifact12.md)).
-- **8:00 AM–12:00 PM**: Fasting (16:8, hydrate with 1.5 L water, sipped), perform light activities (e.g., reading, stretching).
-- **11:30 AM**: Morning cooking prep (see daily tasks below).
-- **12:00 PM**: Lunch (~57.5 g protein, ~2.5–3.5 g leucine, e.g., tinned fish, eggs, avocado) ([Article3.md](https://github.com/xAI/Artifact3.md)).
-- **12:30 PM**: Post-meal exercise (30 min, 10 sets compound movements, e.g., band squats, chair push-ups) ([Article12.md](https://github.com/xAI/Artifact12.md)).
-- **1:00–6:00 PM**: Hydrate (1.2 L water, sipped), light activities, evening defrosting (see daily tasks).
-- **6:00 PM**: Limit water to reduce nocturia.
-- **7:00 PM**: Evening cooking prep (see daily tasks).
-- **7:30–8:00 PM**: Dinner (~57.5 g protein, ~2.5–3.5 g leucine, e.g., chicken, eggs, blueberries) ([Article3.md](https://github.com/xAI/Artifact3.md)).
-- **8:00–8:30 PM**: Post-meal exercise (30 min, 10 sets compound movements) ([Article12.md](https://github.com/xAI/Artifact12.md)).
-- **9:30–10:00 PM**: Evening routine: dim lights, avoid screens to boost melatonin ([Article8.md](https://github.com/xAI/Artifact8.md)).
-- **10:00 PM**: Mindfulness meditation (5 min, e.g., guided body scan via Calm app) ([Article13.md](https://github.com/xAI/Artifact13.md)).
-- **10:00–10:30 PM**: Diaphragmatic breathing (5 min, 4 sec inhale, 6 sec exhale), bathroom visit.
-- **10:30 PM**: Bedtime, dark, quiet, cool room (~60–67°F) for ~7–8 hours sleep ([Article8.md](https://github.com/xAI/Artifact8.md)).
-- **Hydration Total**: 3 L/day water, sipped, limited post-6:00 PM to prevent sleep disruption ([Article2.md](https://github.com/xAI/Artifact2.md)).
-- **Note**: Routine supports fasting, leucine-driven mTOR activation, and constipation relief via tinned fish, avocados, and flavonoids. Monitor fatigue, adjust exercise to 8 sets if needed ([Article12.md](https://github.com/xAI/Artifact12.md)).
+### Daily Routine and Schedule
 
-### Defrosting and Cooking Schedule
+**Notes**:
+- **Whole Chickens**: Two 1.45 kg chickens yield ~1800 g meat (~450 g protein, ~1100 g used for 11 meals, ~700 g excess frozen) and ~1400 g bones for ~2000 ml bone broth (10 x 200 ml), supporting gut health ([Article5.md](https://github.com/xAI/Artifact5.md)).
+- **Digestive Support**: Bone broth (200 ml/meal), avocados, blueberries, pear, and yogurt address weaker intestinal motility, with yoga/exercise enhancing gut function ([Nutr Rev., 2021](https://academic.oup.com/nutritionreviews/article/79/6/672/5897345)).
+- **Prep Simplicity**: Meals use minimal ingredients, cooked fresh to maintain low-histamine properties ([Article15.md](https://github.com/xAI/Artifact15.md)).
+- **Exercise**: 10 sets of MS-adjusted movements (e.g., seated band squats, chair push-ups) post-meal to support mTOR activation and mobility ([Article12.md](https://github.com/xAI/Artifact12.md)).
+- **Monitoring**: Log constipation (Bristol Stool Chart), sleep, neuropathy, bloating in **MySymptoms**; track nutrients in **Cronometer** ([Article10.md](https://github.com/xAI/Artifact10.md)).
+- **Hydration**: 3 L/day water, sipped, limited post-6:00 PM to reduce nocturia ([Article8.md](https://github.com/xAI/Artifact8.md)).
 
-#### Thursday, June 12, 2025 (Shopping and Pre-Week Prep)
-- **Shopping (ASDA)**:
-  - Purchase: 2 x 1.45 kg whole chickens (~£8.96), 700 g chicken breasts (~£4.30), 100 g chicken liver (~£1.50), 3 x 125 g tinned sardines/mackerel (~£4.50, Wild Planet), 15 eggs (~£3.38), 175 g kale (~£0.75), 1050 g zucchini (~£1.80), 400 g carrots (~£0.40), 150 g celery (~£0.30), 700 g butter leaf lettuce (~£2.80), 200 g bok choy (~£0.80), 400 g white potatoes (~£0.70), 100 g radishes (~£0.30), 35 g garlic (~£0.35), 15 g ginger (~£0.15), 80 g sea vegetables (~£1.60), 15 g parsley (~£0.15), 225 g blueberries (~£2.25), 135 g tart cherries (~£1.80), 50 g pears (~£0.20), 3 medium avocados (~£2.10), 100 ml coconut yogurt (~£0.50), 500 ml olive oil (~£3.50), spices, supplements (~£35.12–£37.12) ([Article5.md](https://github.com/xAI/Artifact5.md)).
-  - Total Budget: ~£70.27–£71.94 (food/staples), ~£105.39–£109.06 (with supplements).
-- **Storage**:
-  - Refrigerate: 1 chicken (Sunday, 48 hours), 100 g chicken liver (24 hours), 175 g kale, 700 g lettuce, 200 g bok choy, 225 g blueberries, 135 g tart cherries, 50 g pear, 3 avocados (ripen at room temp, then refrigerate), 100 ml coconut yogurt (35–40°F), 4 x 60 ml spirulina, supplements.
-  - Room Temperature: Tinned fish (3 cans), unripe avocados.
-  - Freeze: 1 chicken, 700 g chicken breasts (300 g portions), excess kale (~25 g).
-- **Defrost**:
-  - Chicken breasts (300 g) for Monday lunch in refrigerator (24 hours).
-- **Prep**:
-  - Wash/peel vegetables (zucchini, carrots, ginger, potatoes) to remove lectins, store in airtight containers ([Article6.md](https://github.com/xAI/Artifact6.md)).
-  - Check tinned fish labels for no nightshade additives (e.g., paprika) ([Article13.md](https://github.com/xAI/Artifact13.md)).
+#### Tuesday, June 10, 2025 (Shopping)
+
+- **9:00 AM – Shopping (ASDA Online)**:
+  - **Items**: 2 x 1.45 kg whole chickens (~£8.97), 50 g chicken liver (~£0.76), 3 x 125 g tinned sardines/mackerel (~£3.75, Wild Planet), 30 eggs (~£6.76, 2 x 15), 1400 g zucchini (~£2.40), 700 g butter leaf lettuce (~£2.80), 3 medium avocados (~£2.10), 225 g blueberries (~£2.25), 150 g pears (~£0.50), 100 ml coconut yogurt (~£0.50), 500 ml olive oil (~£3.50), 35 g ginger (~£0.35), supplements (~£35.00–£36.67) ([Article5.md](https://github.com/xAI/Artifact5.md)).
+  - **Total Budget**: ~£65.95–£67.62 (food/staples), ~£100.95–£104.62 (with supplements).
+  - **Order Delivery**: Schedule for Friday evening, June 13, 2025.
+
+#### Friday, June 13, 2025 (Delivery and Pre-Week Prep)
+
+- **Evening – Delivery and Storage**:
+  - **Refrigerate (35–40°F)**: 1 chicken (Sunday, 48 hours), liver (24 hours), zucchini, lettuce, avocados (ripen, then refrigerate), yogurt, supplements.
+  - **Room Temperature**: Tinned fish, unripe avocados.
+  - **Freeze**: 1 chicken (Monday–Saturday).
+- **Evening – Prep**:
+  - **Defrost**: 1 whole chicken in refrigerator for Sunday (48 hours).
+  - **Wash/Peel**: Zucchini, ginger, store in airtight containers to remove lectins ([Article6.md](https://github.com/xAI/Artifact6.md)).
+  - **Check Labels**: Ensure tinned fish, yogurt are nightshade-free ([Article13.md](https://github.com/xAI/Artifact13.md)).
 
 #### Sunday, June 15
-- **Morning (11:30 AM)**:
-  - Cook Lunch: Boil 4 eggs (8 min, cool in ice water), drain 100 g tinned sardines, steam 25 g kale, 150 g zucchini, 80 g carrots, 50 g celery (10 min, 212°F/100°C), sauté 5 g garlic (2 min), prepare 100 g lettuce, 45 g tart cherries, 3 tbsp olive oil, 30 ml spirulina, supplements.
-  - Prep Dinner: Boil 4 eggs, cook 100 g chicken breast (sauté, 165°F/74°C, 10 min), steam 25 g kale, 150 g zucchini (10 min), sauté 5 g garlic, 5 g ginger, prepare 100 g lettuce, 3 tbsp olive oil, supplements.
-- **Evening (6:00 PM)**:
-  - Defrost: 100 g chicken liver, 300 g chicken breasts for Monday in refrigerator (24 hours).
-  - Prep: Prepare bone broth from Sunday chicken bones (~700 g, simmer 6–8 hours, strain, refrigerate 2 x 200 ml, freeze 6 x 200 ml).
+
+- **6:30 AM**: Wake, hydrate (300 ml water).
+- **7:00 AM**: 5 min seated yoga (cat-cow stretch, 8 reps) ([Article13.md](https://github.com/xAI/Artifact13.md)).
+- **11:30 AM**:
+  - **Defrost**: 1 whole chicken in refrigerator for Monday (24 hours).
+  - **Cook Lunch**: Boil 4 eggs (8 min, cool in ice water), drain 100 g tinned sardines, steam 200 g peeled zucchini (10 min, 212°F/100°C), heat 200 ml bone broth (165°F/74°C, once), prepare 100 g lettuce, 30 g avocado (peel), 3 tbsp olive oil, 5 g peeled ginger, supplements (R-ALA 300 mg, Creatine 5 g, etc.).
+- **12:00 PM**: Lunch (~57 g protein, ~3.8–4.4 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **12:30 PM**: Exercise (5 min warm-up: seated arm circles, leg swings; 25 min workout: 2 sets each, 8–12 reps, 60–90 sec rest: band squats, chair push-ups, seated band rows, seated leg lifts, seated knee extensions) ([Article12.md](https://github.com/xAI/Artifact12.md)).
+- **1:00–6:00 PM**: Hydrate (1.2 L water, sipped), light activities.
+- **6:00 PM**: Limit water to reduce nocturia.
+- **7:00 PM**:
+  - **Cook Dinner**: Boil 4 eggs, sauté 100 g chicken (from Sunday whole chicken, 165°F/74°C, 10 min), steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 50 g peeled pear, 3 tbsp olive oil, 5 g ginger, supplements (R-ALA 300 mg, Magnesium Citrate 200–400 mg, etc.).
+- **7:30–8:00 PM**: Dinner (~57 g protein, ~4.0–4.7 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **8:00–8:30 PM**: Exercise (same as 12:30 PM).
+- **9:30–10:00 PM**: Dim lights, avoid screens to boost melatonin ([Article8.md](https://github.com/xAI/Artifact8.md)).
+- **10:00 PM**: 5 min meditation (Calm app body scan) ([Article13.md](https://github.com/xAI/Artifact13.md)).
+- **10:30 PM**: Bedtime, dark, quiet, cool room (~60–67°F) for ~7–8 hours sleep ([Article8.md](https://github.com/xAI/Artifact8.md)).
 
 #### Monday, June 16
-- **Morning (11:30 AM)**:
-  - Cook Lunch: Boil 4 eggs, sauté 50 g chicken liver (5 min, 165°F/74°C), cook 100 g chicken breast (sauté, 10 min), steam 25 g kale, 150 g zucchini, 80 g carrots, 50 g celery, sauté 5 g garlic, prepare 100 g lettuce, 3 tbsp olive oil, 30 ml spirulina, supplements.
-  - Prep Dinner: Boil 4 eggs, cook 100 g chicken breast, steam 25 g kale, 150 g zucchini, 20 g sea vegetables, prepare 100 g lettuce, 30 g avocado (peel, slice), 2 tbsp olive oil, 1 seaweed snack sheet, supplements.
-- **Evening (6:00 PM)**:
-  - Defrost: 300 g chicken breasts for Tuesday in refrigerator (24 hours).
-  - Prep: Reheat bone broth (200 ml, 165°F/74°C, do not boil), check coconut yogurt freshness.
+
+- **6:30 AM**: Wake, hydrate.
+- **7:00 AM**: 5 min yoga.
+- **11:30 AM**:
+  - **Defrost**: 100 g chicken (from whole chicken) in refrigerator for Tuesday (24 hours).
+  - **Cook Lunch**: Boil 4 eggs, sauté 50 g chicken liver (5 min, 165°F/74°C), sauté 100 g chicken, steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 1 tbsp coconut yogurt, 3 tbsp olive oil, 5 g ginger, supplements.
+- **12:00 PM**: Lunch (~58 g protein, ~3.3–4.2 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **12:30 PM**: Exercise (same as Sunday).
+- **1:00–6:00 PM**: Hydrate, light activities.
+- **6:00 PM**: Limit water.
+- **7:00 PM**:
+  - **Cook Dinner**: Boil 4 eggs, sauté 100 g chicken, steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 30 g avocado, 3 tbsp olive oil, 5 g ginger, supplements.
+- **7:30–8:00 PM**: Dinner (~57 g protein, ~4.0–4.7 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **8:00–8:30 PM**: Exercise (same as Sunday).
+- **9:30–10:00 PM**: Dim lights, avoid screens.
+- **10:00 PM**: 5 min meditation.
+- **10:30 PM**: Bedtime.
 
 #### Tuesday, June 17
-- **Morning (11:30 AM)**:
-  - Cook Lunch: Boil 4 eggs, cook 100 g chicken breast, steam 25 g kale, 150 g zucchini, 80 g carrots, 100 g bok choy, sauté 5 g garlic, 5 g ginger, prepare 1 tbsp coconut yogurt, 200 ml bone broth, 3 tbsp olive oil, 30 ml spirulina, supplements.
-  - Prep Dinner: Boil 4 eggs, drain 100 g tinned mackerel, steam 25 g kale, 150 g zucchini, 20 g sea vegetables, prepare 100 g lettuce, 45 g tart cherries, 200 ml bone broth, 3 tbsp olive oil, 5 g parsley, supplements.
-- **Evening (6:00 PM)**:
-  - Defrost: 100 g chicken liver, 300 g chicken breasts for Wednesday in refrigerator (24 hours).
-  - Prep: Check avocado ripeness for Thursday.
+
+- **6:30 AM**: Wake, hydrate.
+- **7:00 AM**: 5 min yoga.
+- **11:30 AM**:
+  - **Defrost**: 100 g chicken in refrigerator for Wednesday (24 hours).
+  - **Cook Lunch**: Boil 4 eggs, drain 100 g tinned fish, steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 1 tbsp coconut yogurt, 3 tbsp olive oil, 5 g ginger, supplements.
+  - **Prep Bone Broth**: Simmer 700 g bones (from Sunday chicken, 6–8 hours), strain, refrigerate 2 x 400 ml, freeze 6 x 200 ml.
+- **12:00 PM**: Lunch (~57 g protein, ~3.8–4.4 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **12:30 PM**: Exercise (same as Sunday).
+- **1:00–6:00 PM**: Hydrate, light activities.
+- **6:00 PM**: Limit water.
+- **7:00 PM**:
+  - **Cook Dinner**: Boil 4 eggs, sauté 100 g chicken, steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 50 g pear, 3 tbsp olive oil, 5 g ginger, supplements.
+- **7:30–8:00 PM**: Dinner (~57 g protein, ~4.0–4.7 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **8:00–8:30 PM**: Exercise (same as Sunday).
+- **9:30–10:00 PM**: Dim lights, avoid screens.
+- **10:00 PM**: 5 min meditation.
+- **10:30 PM**: Bedtime.
 
 #### Wednesday, June 18
-- **Morning (11:30 AM)**:
-  - Cook Lunch: Boil 4 eggs, sauté 50 g chicken liver, cook 100 g chicken breast, steam 25 g kale, 150 g zucchini, sauté 5 g garlic, 5 g ginger, prepare 100 g radishes, 100 g lettuce, 200 ml bone broth, 3 tbsp olive oil, 30 ml spirulina, supplements.
-  - Prep Dinner: Boil 4 eggs, cook 100 g chicken breast, steam 25 g kale, 150 g zucchini, prepare 100 g lettuce, 75 g blueberries, 200 ml bone broth, 3 tbsp olive oil, supplements.
-- **Evening (6:00 PM)**:
-  - Defrost: 300 g chicken breasts for Thursday in refrigerator (24 hours).
-  - Prep: Reheat bone broth (200 ml), check tart cherries freshness.
+
+- **6:30 AM**: Wake, hydrate.
+- **7:00 AM**: 5 min yoga.
+- **11:30 AM**:
+  - **Defrost**: 100 g chicken in refrigerator for Thursday (24 hours).
+  - **Cook Lunch**: Boil 4 eggs, sauté 100 g chicken, steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 3 tbsp olive oil, 5 g ginger, supplements.
+- **12:00 PM**: Lunch (~57 g protein, ~4.0–4.7 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **12:30 PM**: Exercise (same as Sunday).
+- **1:00–6:00 PM**: Hydrate, light activities.
+- **6:00 PM**: Limit water.
+- **7:00 PM**:
+  - **Cook Dinner**: Boil 4 eggs, sauté 100 g chicken, steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 75 g blueberries, 3 tbsp olive oil, 5 g ginger, supplements.
+- **7:30–8:00 PM**: Dinner (~57 g protein, ~4.0–4.7 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **8:00–8:30 PM**: Exercise (same as Sunday).
+- **9:30–10:00 PM**: Dim lights, avoid screens.
+- **10:00 PM**: 5 min meditation.
+- **10:30 PM**: Bedtime.
 
 #### Thursday, June 19
-- **Morning (11:30 AM)**:
-  - Cook Lunch: Boil 4 eggs, cook 100 g chicken breast, steam 25 g kale, 150 g zucchini, 100 g bok choy, sauté 5 g garlic, 5 g ginger, prepare 100 g lettuce, 30 g avocado, 1 tbsp coconut yogurt, 200 ml bone broth, 2 tbsp olive oil, 30 ml spirulina, supplements.
-  - Prep Dinner: Boil 4 eggs, cook 100 g chicken breast, steam 25 g kale, 150 g zucchini, prepare 100 g lettuce, 45 g tart cherries, 200 ml bone broth, 3 tbsp olive oil, supplements.
-- **Evening (6:00 PM)**:
-  - Defrost: 300 g chicken breasts for Friday in refrigerator (24 hours).
-  - Prep: Check tinned sardines for Friday lunch.
+
+- **6:30 AM**: Wake, hydrate.
+- **7:00 AM**: 5 min yoga.
+- **11:30 AM**:
+  - **Defrost**: 100 g chicken in refrigerator for Friday (24 hours).
+  - **Cook Lunch**: Boil 4 eggs, sauté 100 g chicken, steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 30 g avocado, 3 tbsp olive oil, 5 g ginger, supplements.
+- **12:00 PM**: Lunch (~57 g protein, ~4.0–4.7 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **12:30 PM**: Exercise (same as Sunday).
+- **1:00–6:00 PM**: Hydrate, light activities.
+- **6:00 PM**: Limit water.
+- **7:00 PM**:
+  - **Cook Dinner**: Boil 4 eggs, sauté 100 g chicken, steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 50 g pear, 3 tbsp olive oil, 5 g ginger, supplements.
+- **7:30–8:00 PM**: Dinner (~57 g protein, ~4.0–4.7 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **8:00–8:30 PM**: Exercise (same as Sunday).
+- **9:30–10:00 PM**: Dim lights, avoid screens.
+- **10:00 PM**: 5 min meditation.
+- **10:30 PM**: Bedtime.
 
 #### Friday, June 20
-- **Morning (11:30 AM)**:
-  - Cook Lunch: Boil 3 eggs, drain 100 g tinned sardines, steam 25 g kale, 150 g zucchini, 100 g bok choy, 50 g celery, sauté 5 g garlic, prepare 100 g lettuce, 75 g blueberries, 200 ml bone broth, 3 tbsp olive oil, 30 ml spirulina, 5 g parsley, supplements.
-  - Prep Dinner: Boil 3 eggs, cook 100 g chicken breast, steam 25 g kale, 150 g zucchini, 20 g sea vegetables, prepare 100 g lettuce, 200 ml bone broth, 3 tbsp olive oil, 5 g garlic, supplements.
-- **Evening (6:00 PM)**:
-  - Defrost: 300 g chicken breasts for Saturday in refrigerator (24 hours).
-  - Prep: Check avocado and blueberries for Saturday lunch.
+
+- **6:30 AM**: Wake, hydrate.
+- **7:00 AM**: 5 min yoga.
+- **11:30 AM**:
+  - **Defrost**: 100 g chicken in refrigerator for Saturday (24 hours).
+  - **Cook Lunch**: Boil 4 eggs, drain 100 g tinned fish, steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 75 g blueberries, 3 tbsp olive oil, 5 g ginger, supplements.
+- **12:00 PM**: Lunch (~57 g protein, ~3.8–4.4 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **12:30 PM**: Exercise (same as Sunday).
+- **1:00–6:00 PM**: Hydrate, light activities.
+- **6:00 PM**: Limit water.
+- **7:00 PM**:
+  - **Cook Dinner**: Boil 4 eggs, sauté 100 g chicken, steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 30 g avocado, 3 tbsp olive oil, 5 g ginger, supplements.
+- **7:30–8:00 PM**: Dinner (~57 g protein, ~4.0–4.7 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **8:00–8:30 PM**: Exercise (same as Sunday).
+- **9:30–10:00 PM**: Dim lights, avoid screens.
+- **10:00 PM**: 5 min meditation.
+- **10:30 PM**: Bedtime.
 
 #### Saturday, June 21
-- **Morning (11:30 AM)**:
-  - Cook Lunch: Boil 4 eggs, cook 100 g chicken breast, steam 25 g kale, 150 g zucchini, 400 g peeled white potatoes, 80 g carrots, 50 g celery, sauté 5 g garlic, prepare 30 g avocado, 75 g blueberries, 200 ml bone broth, 2 tbsp olive oil, 30 ml spirulina, supplements.
-  - Prep Dinner: Boil 4 eggs, cook 100 g chicken breast, steam 25 g kale, 150 g zucchini, 20 g sea vegetables, prepare 100 g lettuce, 50 g peeled pear, 200 ml bone broth, 3 tbsp olive oil, 5 g garlic, supplements.
-- **Evening (6:00 PM)**:
-  - Prep: Discard unused perishables (e.g., kale, lettuce), plan next week’s shopping ([Article5.md](https://github.com/xAI/Artifact5.md)).
+
+- **6:30 AM**: Wake, hydrate.
+- **7:00 AM**: 5 min yoga.
+- **11:30 AM**:
+  - **Cook Lunch**: Boil 4 eggs, sauté 100 g chicken, steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 75 g blueberries, 3 tbsp olive oil, 5 g ginger, supplements.
+- **12:00 PM**: Lunch (~57 g protein, ~4.0–4.7 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **12:30 PM**: Exercise (same as Sunday).
+- **1:00–6:00 PM**: Hydrate, light activities.
+- **6:00 PM**: Limit water.
+- **7:00 PM**:
+  - **Cook Dinner**: Boil 4 eggs, sauté 100 g chicken, steam 200 g zucchini, heat 200 ml bone broth, prepare 100 g lettuce, 50 g pear, 3 tbsp olive oil, 5 g ginger, supplements.
+  - **Clean-Up**: Discard unused perishables (e.g., lettuce, zucchini), plan next week’s shopping ([Article5.md](https://github.com/xAI/Artifact5.md)).
+- **7:30–8:00 PM**: Dinner (~57 g protein, ~4.0–4.7 g leucine, ~15 g fiber, ~1850 mg potassium).
+- **8:00–8:30 PM**: Exercise (same as Sunday).
+- **9:30–10:00 PM**: Dim lights, avoid screens.
+- **10:00 PM**: 5 min meditation.
+- **10:30 PM**: Bedtime.
+
+### Monitoring and Adjustments
+
+- **Track**:
+  - **Cronometer**: Log protein (~115 g/day), leucine (~5–7 g/day), fiber (~30–35 g/day), potassium (~3,700–4,300 mg/day), choline (~500–625 mg/day) ([Article10.md](https://github.com/xAI/Artifact10.md)).
+  - **MySymptoms**: Log:
+    - **Constipation**: Stool consistency (Bristol Stool Chart, Type 3–4 ideal) post-tinned fish, avocado, pear.
+    - **Sleep**: Hours, quality (1–10 scale) post-eggs, blueberries.
+    - **Neuropathy**: Tingling (1–10 scale) post-blueberries.
+    - **Bloating**: Discomfort (1–10 scale) post-avocado, yogurt.
+    - **Inflammation**: Fatigue, spasticity (1–10 scale) post-liver, yoga ([Article10.md](https://github.com/xAI/Artifact10.md)).
+- **Adjust**:
+  - **Constipation**: Increase avocado to 50 g/serving, pear to 100 g/serving, or magnesium citrate to 400 mg ([Article15.md](https://github.com/xAI/Artifact15.md)).
+  - **Sleep**: Add blueberries (75 g) to Monday/Thursday dinner, extend meditation to 10 min ([Article8.md](https://github.com/xAI/Artifact8.md)).
+  - **Neuropathy**: Reduce blueberries to 50 g (~12.3 mg oxalates), ensure nightshade-free diet ([Article6.md](https://github.com/xAI/Artifact6.md)).
+  - **Bloating**: Reduce avocado to 20 g/serving, discontinue yogurt, substitute pear ([www.monashfodmap.com](https://www.monashfodmap.com/)).
+  - **Inflammation**: Increase liver to 75 g/serving (once/week), extend yoga to 10 min ([Article13.md](https://github.com/xAI/Artifact13.md)).
+- **Consult**: Share **Cronometer**/**MySymptoms** data with dietitian/neurologist after 1–2 weeks ([J Neurol., 2019](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682957/)).
 
 ### Notes
-- **Constipation Management**: Tinned fish, avocados, blueberries, tart cherries, and pear enhance fiber (~30–35 g/day) and gut motility, replacing high-constipation chicken/kale. Monitor stool consistency with **MySymptoms** (e.g., Bristol Stool Chart) to confirm improvements ([Article3.md](https://github.com/xAI/Artifact3.md)).
-- **Histamine/FODMAP Monitoring**: Check tinned fish (use low-histamine brands, e.g., Wild Planet), avocados (limit to 30 g), and berries (monitor oxalates) for tolerance. Log symptoms (e.g., flushing, bloating) with **Cronometer** to adjust quantities if needed (e.g., reduce fish to 50 g/serving) ([Article6.md](https://github.com/xAI/Artifact6.md]).
-- **Leucine/Exercise Synergy**: Cooking supports leucine-rich meals (e.g., tinned fish ~1.8–2.0 g/100 g, eggs ~2.0–2.4 g/4 eggs) for 12:30 PM/8:00–8:30 PM exercise, enhancing mTOR activation ([Article11.md](https://github.com/xAI/Artifact11.md)).
-- **AIP Compliance**: Includes liver, coconut yogurt, nightshade-free prep, and meditation/yoga, aligning with **Article13.md** for inflammation reduction ([Article13.md](https://github.com/xAI/Artifact13.md)).
-- **Accessibility**: Simplified tasks and clear timing accommodate MS cognitive/physical needs, ensuring ease of preparation ([Mult Scler., 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5405816/)).
+
+- **Digestive Support**: Bone broth, avocados, blueberries, pear, and yogurt address weaker intestinal motility, with yoga/exercise enhancing gut function ([Nutr Rev., 2021](https://academic.oup.com/nutritionreviews/article/79/6/672/5897345)).
+- **Whole Chickens**: Two 1.45 kg chickens provide meat (~1100 g for 11 meals, ~700 g excess frozen) and bones (~2000 ml bone broth) ([Article5.md](https://github.com/xAI/Artifact5.md)).
+- **AIP Compliance**: Nightshade-free, includes liver (once/week), yogurt (twice/week), bone broth, meditation, yoga ([Article13.md](https://github.com/xAI/Artifact13.md)).
+- **Accessibility**: Simplified tasks and clear timeline accommodate MS cognitive/physical needs ([Mult Scler., 2017](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5405816/)).
+- **Flavonoids**: Blueberries reduce inflammation, monitored for oxalates (~18.5 mg/75 g) ([News-Medical, 2025](https://www.news-medical.net/news/20250326/Flavonoids-help-regulate-gut-hormones-and-show-promise-in-managing-type-2-diabetes.aspx)).
 
 ## References
-1. **J Neurol., 2019**: Fitzgerald, K. C., et al. Diet and disease progression in multiple sclerosis: A review. *Journal of Neurology*, 266(8), 1933–1942. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682957/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682957/). Supports tinned fish benefits for MS.
-2. **Mult Scler., 2017**: Sand, I. K., et al. Nutrition and lifestyle interventions in multiple sclerosis. *Multiple Sclerosis Journal*, 23(7), 887–897. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5405816/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5405816/). Supports routine accessibility for MS.
-3. **News-Medical, 2025**: Flavonoids help regulate gut hormones and show promise in managing type 2 diabetes. [https://www.news-medical.net/news/20250326/Flavonoids-help-regulate-gut-hormones-and-show-promise-in-managing-type-2-diabetes.aspx](https://www.news-medical.net/news/20250326/Flavonoids-help-regulate-gut-hormones-and-show-promise-in-managing-type-2-diabetes.aspx). Supports flavonoids in blueberries and tart cherries.
-4. **Nutr Rev., 2021**: Bongiovanni, T., et al. Dietary fiber and gut microbiota: Impact on gastrointestinal health. *Nutrition Reviews*, 79(6), 672–689. [https://academic.oup.com/nutritionreviews/article/79/6/672/5897345](https://academic.oup.com/nutritionreviews/article/79/6/672/5897345). Supports fiber from avocados, pear, and berries.
-5. **Physiother Res Int., 2024**: Coote, S., et al. Exercise and physical activity in multiple sclerosis: A systematic review. *Physiotherapy Research International*, 29(1), e2087. [https://onlinelibrary.wiley.com/doi/10.1002/pri.2087](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087). Supports MS-safe exercise timing.
-6. **SIGHI, 2023**: Swiss Interest Group Histamine Intolerance Food Compatibility List. [https://www.histamineintolerance.org/](https://www.histamineintolerance.org/). Guides low-histamine preparation.
-7. **The Wahls Protocol, 2020**: Wahls, T. L. *The Wahls Protocol: A Radical New Way to Treat All Chronic Autoimmune Conditions Using Paleo Principles*. Avery Publishing. [https://terrywahls.com/](https://terrywahls.com/). Guides dietary framework.
-8. **Monash University, 2023**: Monash University FODMAP Diet App. [https://www.monashfodmap.com/](https://www.monashfodmap.com/). Guides FODMAP limits for avocados and berries.
-9. **The Kidney Dietitian**: Mitchell, M. Low oxalate fruit guide. [https://www.thekidneydietitian.org/low-oxalate-fruit/](https://www.thekidneydietitian.org/low-oxalate-fruit/). Informs oxalate content in berries.
+1. **J Neuroimmunol., 2017**: Riccio, P., & Rossano, R. Nutrition facts in multiple sclerosis. *Journal of Neuroimmunology*, 304, 3–10. [https://www.sciencedirect.com/science/article/pii/S0165572817301888](https://www.sciencedirect.com/science/article/pii/S0165572817301888).
+2. **J Neurol., 2019**: Fitzgerald, K. C., et al. Diet and disease progression in multiple sclerosis. *Journal of Neurology*, 266(8), 1933–1942. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682957/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682957/).
+3. **Mult Scler., 2017**: Sand, I. K., et al. Nutrition and lifestyle interventions in multiple sclerosis. *Multiple Sclerosis Journal*, 23(7), 887–897. [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5405816/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5405816/).
+4. **News-Medical, 2025**: Flavonoids help regulate gut hormones and show promise in managing type-2 diabetes. [https://www.news-medical.net/news/20250326/Flavonoids-help-regulate-gut-hormones-and-show-promise-in-managing-type-2-diabetes.aspx](https://www.news-medical.net/news/20250326/Flavonoids-help-regulate-gut-hormones-and-show-promise-in-managing-type-2-diabetes.aspx).
+5. **Nutr Rev., 2021**: Bongiovanni, T., et al. Dietary fiber and gut microbiota: Impact on gastrointestinal health. *Nutrition Reviews*, 79(6), 672–689. [https://academic.oup.com/nutritionreviews/article/79/6/672/5897345](https://academic.oup.com/nutritionreviews/article/79/6/672/5897345).
+6. **Physiother Res Int., 2024**: Coote, S., et al. Exercise and physical activity in multiple sclerosis: A systematic review. *Physiotherapy Research International*, 29(1), e2087. [https://onlinelibrary.wiley.com/doi/10.1002/pri.2087](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087).
+7. **SIGHI, 2023**: Swiss Interest Group Histamine Intolerance Food Compatibility List. [https://www.histamineintolerance.org/](https://www.histamineintolerance.org/).
+8. **The Wahls Protocol, 2020**: Wahls, T. L. *The Wahls Protocol: A Radical New Way to Treat All Chronic Autoimmune Conditions Using Paleo Principles*. Avery Publishing. [https://terrywahls.com/](https://terrywahls.com/).
+9. **Monash University, 2023**: Monash University FODMAP Diet App. [https://www.monashfodmap.com/](https://www.monashfodmap.com/).
+10. **The Kidney Dietitian**: Mitchell, M. Low oxalate fruit guide. [https://www.thekidneydietitian.org/low-oxalate-fruit/](https://www.thekidneydietitian.org/low-oxalate-fruit/).
