@@ -1,7 +1,7 @@
 ```yaml
 ---
 title: Artifact 01A: Table of Contents - MS-Supportive Weekly Meal Plan (Plan A: Foundation)
-date: June 5, 2025, 8:23 AM BST
+date: June 5, 2025, 11:18 AM BST
 author: Your Name
 geometry: margin=1in
 toc: false
@@ -12,7 +12,7 @@ toc: false
 
 ## Introduction
 
-This is **Artifact 01A: Table of Contents (Plan A: Foundation)**, outlining the structure of a 7-day meal plan (June 25–July 1, 2025) tailored for a 54-year-old male with multiple sclerosis (MS) weighing 71.8 kg, focusing on **mitochondrial health** to support energy, mobility, cognitive function, and symptom management. Plan A, the foundation plan, delivers ~115 g/day protein, ~9.6–12.2 g/day leucine, and ~249.14–480.78 mg/day flavonoids, with **circadian alignment** to optimize **ADP/ATP cycles**, **NAD/NADH** and **FAD/FADH2 cycles**, **mitophagy**, **sirtuins**, **telomeres**, **mTOR activity**, and **sleep regulation**, while maintaining **low-histamine**, **low-oxalate**, and **low-antinutrient** preferences, and addressing user needs (eggs for alertness/sleep, tinned fish for gut health, no apples/cocoa due to neuropathy, minimal chicken). This document lists all articles for Plan A, including nutritional standards, menu details, and supplementary strategies. Plan B is a separate derivative plan (see **Artifact_01B_ToC_PlanB.md**). Use Markdown Reader (https://markdownreader.github.io/) to view ([Physiother Res Int., 2024](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087)).
+This is **Artifact 01A: Table of Contents (Plan A: Foundation)**, outlining the structure of a 7-day meal plan (June 25–July 1, 2025) tailored for a 54-year-old male with multiple sclerosis (MS) weighing 71.8 kg, focusing on **mitochondrial health** to support energy, mobility, cognitive function, and symptom management. Plan A, the foundation plan, delivers ~115 g/day protein, ~9.6–12.2 g/day leucine, and ~249.14–480.78 mg/day flavonoids, with **circadian alignment** to optimize **ADP/ATP cycles**, **NAD/NADH** and **FAD/FADH2 cycles**, **mitophagy**, **sirtuins**, **telomeres**, **mTOR activity**, and **sleep regulation**, while maintaining **low-histamine**, **low-oxalate**, and **low-antinutrient** preferences, addressing user needs (eggs for alertness/sleep, tinned fish for gut health, no apples/cocoa due to neuropathy, minimal chicken). This document lists all articles for Plan A, including nutritional standards, menu details, and supplementary strategies. Plan B is a separate derivative plan (see **Artifact_01B_ToC_PlanB.md**). Use Markdown Reader (https://markdownreader.github.io/) to view ([Physiother Res Int., 2024](https://onlinelibrary.wiley.com/doi/10.1002/pri.2087)).
 
 ## Table of Contents
 
@@ -52,6 +52,8 @@ This is **Artifact 01A: Table of Contents (Plan A: Foundation)**, outlining the 
     - Optimizes sleep via meal timing and light management.
 18. **Artifact_18A_MIND_Diet_PlanA.md**: MIND Diet
     - Summarizes MIND diet principles, weekly meal plan, and daily breakdowns, adapted for MS.
+19. **Artifact_19A_LDL_Lipoproteins_MS_PlanA.md**: LDL, Lipoproteins, and MS
+    - Explains LDL, HDL, and LDL subtypes’ impact on MS and cardiovascular health, with dietary influences.
 
 ## Notes
 - **Plan A Scope**: Comprehensive menu (18 foods) with detailed strategies for MS symptom management, suitable for users seeking variety and robust nutrient delivery.
