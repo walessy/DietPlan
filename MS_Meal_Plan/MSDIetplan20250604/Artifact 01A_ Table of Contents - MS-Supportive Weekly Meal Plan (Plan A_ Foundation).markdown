@@ -1,7 +1,7 @@
 ```yaml
 ---
 title: Artifact 01A: Table of Contents - MS-Supportive Weekly Meal Plan (Plan A: Foundation)
-date: June 5, 2025, 11:18 AM BST
+date: June 5, 2025, 12:24 PM BST
 author: Your Name
 geometry: margin=1in
 toc: false
@@ -53,7 +53,9 @@ This is **Artifact 01A: Table of Contents (Plan A: Foundation)**, outlining the 
 18. **Artifact_18A_MIND_Diet_PlanA.md**: MIND Diet
     - Summarizes MIND diet principles, weekly meal plan, and daily breakdowns, adapted for MS.
 19. **Artifact_19A_LDL_Lipoproteins_MS_PlanA.md**: LDL, Lipoproteins, and MS
-    - Explains LDL, HDL, and LDL subtypes’ impact on MS and cardiovascular health, with dietary influences.
+    - Explains LDL, HDL, and LDL subtypes’ impact on MS and cardiovascular health.
+20. **Artifact_20A_Dietary_Fats_MS_PlanA.md**: Dietary Fats and MS
+    - Details saturated, monounsaturated, polyunsaturated, and trans fats, their health impacts, and management in MS.
 
 ## Notes
 - **Plan A Scope**: Comprehensive menu (18 foods) with detailed strategies for MS symptom management, suitable for users seeking variety and robust nutrient delivery.
