@@ -9,22 +9,22 @@ This ADHD-friendly guide summarizes the 4-week diet plan (Articles 01–11), act
   - **Articles 04–11**: Weekly meal schedules (04, 06, 08, 10) and shopping lists (05, 07, 09, 11).
 - **Key Features**:
   - **Fasting**: 16:8 (10 AM–6 PM) or 12:12 (8 AM–8 PM) for autophagy, AMPK (Article 01).
-  - **Fiber**: ~25g/day (~30% soluble: berries, chia; 70% insoluble: vegetables, seeds).
+  - **Fiber**: ~25g/day (~30% soluble: berries, chia; 70% insoluble: frozen vegetables, seeds).
   - **Antinutrients**: Managed via boiling (7–10 min, ~40% oxalate, ~50% goitrogen reduction), soaking (8h, ~50% phytate, ~60% saponin reduction), and low-tannin foods (Article 02).
-  - **Dexterity**: No peeling (e.g., bananas, blueberries), no chopping (canned/frozen vegetables).
+  - **Dexterity**: No peeling (e.g., bananas, blueberries), no chopping (frozen vegetables).
   - **Psychological**: **Colorful** plates (**purple** blueberries, **green** broccoli), **creamy** kefir, **crunchy** seeds, comfort foods (salmon, eggs).
 
 ## Weekly Breakdown
 | **Week** | **Meal Schedule** | **Shopping List** | **Vegetables** | **Proteins** | **Fiber Highlights** |
 |----------|-------------------|-------------------|----------------|--------------|----------------------|
-| 1        | Article 04     | Article 05     | Canned zucchini, frozen broccoli, canned sweet potato, frozen asparagus | Mackerel, salmon, cod, eggs | Zucchini (~3g/300g), chia (~5g/15g) |
-| 2        | Article 06     | Article 07    | Canned parsnip, frozen Brussels sprouts, canned turnip, canned fennel, frozen carrots | Tuna, shrimp, turkey, tempeh | Parsnip (~6g/300g), quinoa (~2.8g/100g) |
-| 3        | Article 08     | Article 09   | Canned summer squash, frozen cabbage, canned kohlrabi, frozen green beans, canned celery root | Sardines, scallops, chicken, tofu | Cabbage (~3g/300g), blueberries (~1.4g/100g) |
-| 4        | Article 10    | Article 11    | Canned cauliflower, canned daikon, canned artichoke hearts, canned pattypan squash | Salmon, cod, tempeh | Artichokes (~4g/300g), chia (~5g/15g) |
+| 1        | Article 04        | Article 05        | Frozen zucchini, broccoli, sweet potato, asparagus | Mackerel, salmon, cod, eggs | Zucchini (~3g/300g), chia (~5g/15g) |
+| 2        | Article 06        | Article 07        | Frozen parsnip, Brussels sprouts, turnip, celery root, carrots | Tuna, shrimp, turkey, tempeh | Parsnip (~6g/300g), quinoa (~2.8g/100g) |
+| 3        | Article 08        | Article 09        | Frozen summer squash, cabbage, kohlrabi, green beans, celery root | Sardines, scallops, chicken, tofu | Cabbage (~3g/300g), blueberries (~1.4g/100g) |
+| 4        | Article 10        | Article 11        | Frozen cauliflower, radish, artichoke hearts, pattypan squash | Salmon, cod, tempeh | Artichokes (~4g/300g), chia (~5g/15g) |
 
 ## Implementation Tips
 1. **Batch Prep (1h 10m, Sunday)**:
-   - **Boil Vegetables**: Use canned/frozen (e.g., cauliflower, parsnip); boil 7–10 min, store in labeled easy-open containers (“Cauliflower – Lunch Day 1”).
+   - **Boil Vegetables**: Use frozen (e.g., cauliflower, parsnip); boil 7–10 min, store in labeled easy-open containers (“Cauliflower – Lunch Day 1”).
    - **Soak Nuts/Seeds**: Soak walnuts, chia (8h), drain, store (“Chia – Lunch Day 1”).
    - **Bake Proteins**: Bake fish, tofu (375°F, 15 min), store.
    - **Cook Carbs**: Boil rice, soaked quinoa (15 min), store.
@@ -49,9 +49,9 @@ This ADHD-friendly guide summarizes the 4-week diet plan (Articles 01–11), act
 
 ## Sustained Adherence
 - **Cycle Plan**: Repeat Weeks 1–4 every month, adjusting vegetables/proteins for variety (Article 03).
-- **Budget Tips**: Buy canned fish (e.g., sardines), frozen vegetables (e.g., broccoli) for cost savings (Articles 05, 07, 09, 11).
-- **Flexibility**: Swap proteins (e.g., tofu for tempeh) or vegetables (e.g., canned zucchini for summer squash) based on availability.
-- **Energy Saving**: Use pre-cooked options (e.g., canned artichokes) if fatigued.
+- **Budget Tips**: Buy frozen vegetables (e.g., broccoli), canned fish (e.g., sardines) for cost savings (Articles 05, 07, 09, 11).
+- **Flexibility**: Swap proteins (e.g., tofu for tempeh) or vegetables (e.g., frozen zucchini for summer squash) based on availability.
+- **Energy Saving**: Use frozen pre-cooked options (e.g., artichokes) if fatigued.
 - **Feedback**: Adjust fiber (~30g/day with flaxseeds) or fasting (12:12) based on MS/ADHD symptoms.
 
 ## Why It Works

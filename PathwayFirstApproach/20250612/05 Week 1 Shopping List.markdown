@@ -8,10 +8,10 @@ This ADHD-friendly shopping list for Week 1 supports the meal schedule (Article 
 | Salmon                       | 500g         | Canned salmon (500g)               | No added salt in canned.                   |
 | Cod                          | 200g         | Tilapia (200g)                     | Similar white fish.                        |
 | Eggs                         | 6 large      | None                               | Organic if possible.                       |
-| Zucchini (canned)            | 1.5kg        | Canned green beans (1.5kg)         | Drain/rinse, low oxalates; boil 7 min.     |
-| Broccoli (frozen)            | 750g         | Frozen cauliflower (750g)          | Boil 7–10 min to reduce oxalates/goitrogens. |
-| Sweet Potato (canned)        | 750g         | Canned yam (750g)                  | Drain/rinse, low lectins; boil 10 min.     |
-| Asparagus (frozen)           | 750g         | Frozen green beans (750g)          | Boil 7–10 min for low oxalates.            |
+| Zucchini (frozen)            | 1.5kg        | Frozen green beans (1.5kg)         | Boil 7 min, low oxalates; fiber ~3g/300g.  |
+| Broccoli (frozen)            | 750g         | Frozen cauliflower (750g)          | Boil 7–10 min for oxalates/goitrogens; fiber ~4.5g/300g. |
+| Sweet Potato (frozen)        | 750g         | Frozen yam (750g)                  | Boil 10 min, low lectins; fiber ~4g/200g.  |
+| Asparagus (frozen)           | 750g         | Frozen green beans (750g)          | Boil 7–10 min for oxalates; fiber ~6g/300g. |
 | Blueberries                  | 500g         | Strawberries (500g)                | Pre-washed, low tannins; fiber ~1.4g/100g. |
 | Raspberries                  | 300g         | Blackberries (300g)                | Pre-washed, low tannins; fiber ~3g/100g.   |
 | Banana                       | 600g         | None                               | No peeling needed; soluble fiber ~3g/120g. |

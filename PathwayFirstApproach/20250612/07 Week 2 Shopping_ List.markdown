@@ -9,10 +9,10 @@ This ADHD-friendly shopping list for Week 2 supports the meal schedule (Article 
 | Turkey (breast)              | 200g         | Chicken breast (200g)              | Lean protein; fiber 0g.                    |
 | Tempeh                       | 200g         | Tofu (200g, firm)                  | Fermented, low lectins; fiber 0g.          |
 | Eggs                         | 6 large      | None                               | Organic if possible; fiber 0g.             |
-| Parsnip (canned)             | 1.5kg        | Canned carrots (1.5kg)             | Drain/rinse, low oxalates; boil 7 min; fiber ~6g/300g. |
+| Parsnip (frozen)             | 1.5kg        | Frozen carrots (1.5kg)             | Boil 7 min, low oxalates; fiber ~6g/300g.  |
 | Brussels Sprouts (frozen)    | 750g         | Frozen cabbage (750g)              | Boil 7–10 min for oxalates/goitrogens; fiber ~4g/300g. |
-| Turnip (canned)              | 750g         | Canned radish (750g)               | Drain/rinse, low lectins; fiber ~2g/200g.  |
-| Fennel (canned)              | 750g         | Canned celery root (750g)          | Drain/rinse, low oxalates; fiber ~3g/300g. |
+| Turnip (frozen)              | 750g         | Frozen radish (750g)               | Boil 10 min, low lectins; fiber ~2g/200g.  |
+| Celery Root (frozen)         | 750g         | Frozen cauliflower (750g)          | Boil 7–10 min, low oxalates; fiber ~3g/300g. |
 | Carrots (frozen)             | 750g         | Frozen butternut squash (750g)     | Boil 7–10 min; fiber ~3g/300g.             |
 | Blueberries                  | 500g         | Strawberries (500g)                | Pre-washed, low tannins; fiber ~1.4g/100g. |
 | Raspberries                  | 300g         | Blackberries (300g)                | Pre-washed, low tannins; fiber ~3g/100g.   |
