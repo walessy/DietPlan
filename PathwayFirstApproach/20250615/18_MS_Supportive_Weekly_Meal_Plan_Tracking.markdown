@@ -8,11 +8,11 @@ author:
 
 # Tracking
 
-This ADHD-friendly guide outlines strategies for tracking symptoms, nutrient intake, and progress in the MS-Supportive Weekly Meal Plan, enabling users to monitor and adjust the 4-week diet plan for optimal MS and ADHD management. Tracking supports adherence to 16:8 fasting (10 AM–6 PM, flexible to 12:12 at 8 AM–8 PM), ~25g/day fiber (~30% soluble, 70% insoluble), and low-antinutrient goals, enhancing nerve health (**5 - MS-Supportive Weekly Meal Plan - Nerve Health**), mitochondrial function (**3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**), and focus. It integrates with **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, and **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule**.
+This ADHD-friendly guide outlines strategies for tracking symptoms, nutrient intake, and progress in the MS-Supportive Weekly Meal Plan, enabling users to monitor and adjust the 4-week diet plan for optimal MS and ADHD management. Tracking supports adherence to 16:8 fasting (10 AM–6 PM, flexible to 12:12 at 8 AM–8 PM), ~25g/day fiber (~30% soluble, 70% insoluble), and low-antinutrient goals, enhancing nerve health (**5 - MS-Supportive Weekly Meal Plan - Nerve Health**), mitochondrial function (**3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**), and neuromuscular signaling (**19 - MS-Supportive Weekly Meal Plan - Neuromuscular Signaling**). It integrates with **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, and **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule**.
 
 ## Why Tracking Matters
 
-- **MS**: Monitoring symptoms (e.g., fatigue, numbness) and nutrients (e.g., DHA, fiber) helps identify improvements and adjust for flares, supporting nerve repair, per **5 - MS-Supportive Weekly Meal Plan - Nerve Health**.
+- **MS**: Monitoring symptoms (e.g., fatigue, numbness) and nutrients (e.g., DHA, fiber, magnesium) helps identify improvements and adjust for flares, supporting nerve repair, per **5 - MS-Supportive Weekly Meal Plan - Nerve Health**.
 - **ADHD**: Tracking focus, energy, and routine adherence reinforces habits, improving cognitive outcomes, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
 - **Goal**: Use simple tracking to optimize the 16 pathways (e.g., neuroprotection, circadian rhythm) and personalize the plan, as outlined in **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
 
@@ -25,10 +25,10 @@ This ADHD-friendly guide outlines strategies for tracking symptoms, nutrient int
    - **Implementation**: Note changes after meals, fasting, or exercise (**2 - MS-Supportive Weekly Meal Plan - Exercise Routine**), linking to foods (e.g., blueberries, flaxseeds).
 
 2. **Nutrient Tracking**:
-   - **Purpose**: Ensure ~25g/day fiber, ~115 g/day protein (Plan A, ~2.5–3.5 g leucine/meal), ~100 g/day (Plan B, ~2.0–3.0 g leucine/meal), and ~1.5–2.0 mg/day thiamine (Plan A) or ~1.0–1.5 mg/day (Plan B).
-   - **Method**: Use an app (e.g., “Cronometer”) or manual log to track fiber (e.g., 300g cauliflower ~3g, 15g flaxseeds ~4g), protein (e.g., 100g salmon ~25g), and thiamine (e.g., 10g nutritional yeast ~0.5mg).
+   - **Purpose**: Ensure ~25g/day fiber, ~115 g/day protein (Plan A, ~2.5–3.5 g leucine/meal), ~100 g/day (Plan B, ~2.0–3.0 g leucine/meal), ~1.5–2.0 mg/day thiamine (Plan A), ~1.0–1.5 mg/day (Plan B), ~350–400 mg/day magnesium, ~2200–2800 mg/day potassium, and ~600–700 IU/day vitamin D.
+   - **Method**: Use an app (e.g., “Cronometer”) or manual log to track fiber (e.g., 300g cauliflower ~3g, 15g flaxseeds ~4g), protein (e.g., 100g salmon ~25g), thiamine (e.g., 1 tsp Vegemite ~0.43mg), magnesium (e.g., 30g pumpkin seeds ~160 mg), potassium (e.g., 100g avocado ~485 mg), and vitamin D (e.g., 100g salmon ~570 IU).
    - **Frequency**: Weekly summary (Sunday, post-batch prep) or daily if adjusting portions.
-   - **Implementation**: Compare intake to targets in **8 - MS-Supportive Weekly Meal Plan - Leucine/Protein Timing**, increase vegetable portions (e.g., +100g) if fiber <25g/day.
+   - **Implementation**: Compare intake to targets in **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**, increase vegetable portions (e.g., +100g) if fiber <25g/day or nutrients fall short.
 
 3. **Fasting and Routine Tracking**:
    - **Purpose**: Confirm adherence to 16:8 (10 AM–6 PM) or 12:12 (8 AM–8 PM) fasting and meal timing.
@@ -43,7 +43,7 @@ This ADHD-friendly guide outlines strategies for tracking symptoms, nutrient int
    - **Implementation**: Link sleep improvements to tart cherry juice or mindfulness, per **7 - MS-Supportive Weekly Meal Plan - Sleep/Recovery**.
 
 5. **Budget and Shopping Tracking**:
-   - **Purpose**: Ensure cost-effectiveness (Plan A: ~$130.93–$136.60, Plan B: ~$81.59–$92.39).
+   - **Purpose**: Ensure cost-effectiveness (Plan A: ~$135.93–$141.60, Plan B: ~$84.59–$95.39).
    - **Method**: Record purchases and compare to **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List**.
    - **Frequency**: Weekly, post-shopping (e.g., July 5, 2025 for Week 3).
    - **Implementation**: Note savings from canned options (Plan B) or bulk buys.
@@ -52,32 +52,35 @@ This ADHD-friendly guide outlines strategies for tracking symptoms, nutrient int
 
 ### Daily Log
 - **Date**: [Insert Date, e.g., June 15, 2025]
-- **Symptoms**: [E.g., “Less numbness after salmon, focus steady post-walk”]
+- **Symptoms**: [E.g., “Less spasticity after salmon, focus steady post-walk”]
 - **Nutrients**:
   - Fiber: [E.g., 300g zucchini (3g), 15g flaxseeds (4g), total 25g]
   - Protein: [E.g., 100g salmon (25g), 2 eggs (12g), total 115g]
-  - Thiamine: [E.g., 10g nutritional yeast (0.5mg), total 1.5mg]
+  - Thiamine: [E.g., 1 tsp Vegemite (0.43mg), total 1.5mg]
+  - Magnesium: [E.g., 30g pumpkin seeds (160 mg), 15g almonds (40 mg), total 350 mg]
+  - Potassium: [E.g., 100g avocado (485 mg), 300g broccoli (948 mg), total 2500 mg]
+  - Vitamin D: [E.g., 100g salmon (570 IU), 100 ml almond milk (100 IU), total 670 IU]
 - **Fasting/Meals**: [E.g., “16:8, Breakfast 10 AM, Dinner 5 PM”]
 - **Sleep/Recovery**: [E.g., “7.5 hours sleep, 15 min nap”]
-- **Notes**: [E.g., “Added 100g cauliflower for fiber, felt energized”]
+- **Notes**: [E.g., “Added avocado for potassium, felt energized”]
 
 ### Weekly Summary
 - **Week**: [Insert Week, e.g., Week 1]
 - **Progress**: [E.g., “Fatigue reduced, focus improved by Day 5”]
 - **Adjustments**: [E.g., “Increase green beans for fiber, switch to 12:12 fasting”]
-- **Budget**: [E.g., “Plan A: $132, used canned salmon to save $3”]
+- **Budget**: [E.g., “Plan A: $137, used canned salmon to save $3”]
 
 ## Integration with the Plan
 
 - **Meal Schedules**: Tracks adherence to **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule**, adjusting portions (e.g., +100g vegetables).
 - **Shopping**: Monitors budgets and purchases from **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List**.
-- **Customization**: Informs adjustments using **17 - MS-Supportive Weekly Meal Plan - Customizable Template** (e.g., swap raspberries for strawberries).
+- **Customization**: Informs adjustments using **17 - MS-Supportive Weekly Meal Plan - Customizable Template** (e.g., swap raspberries for strawberries, add avocado for potassium).
 - **Fasting and Antinutrients**: Ensures fasting compliance (**1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**) and low-antinutrient prep (**6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**).
 - **Lifestyle**: Tracks exercise (**2 - MS-Supportive Weekly Meal Plan - Exercise Routine**) and sleep (**7 - MS-Supportive Weekly Meal Plan - Sleep/Recovery**) for holistic progress.
 
 ## Why It Works
 
-Tracking symptoms, nutrients, and routines empowers users to optimize the plan, supporting MS nerve repair (**5 - MS-Supportive Weekly Meal Plan - Nerve Health**), mitochondrial function (**3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**), and ADHD focus. Simple logs reinforce adherence and personalize the 16 pathways. For guidance, see:
+Tracking symptoms, nutrients, and routines empowers users to optimize the plan, supporting MS nerve repair (**5 - MS-Supportive Weekly Meal Plan - Nerve Health**), mitochondrial function (**3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**), neuromuscular signaling (**19 - MS-Supportive Weekly Meal Plan - Neuromuscular Signaling**), and ADHD focus. Simple logs reinforce adherence and personalize the 16 pathways. For guidance, see:
 - **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**
 - **2 - MS-Supportive Weekly Meal Plan - Exercise Routine**
 - **3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**
@@ -88,6 +91,7 @@ Tracking symptoms, nutrients, and routines empowers users to optimize the plan, 
 - **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule**
 - **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List**
 - **17 - MS-Supportive Weekly Meal Plan - Customizable Template**
+- **19 - MS-Supportive Weekly Meal Plan - Neuromuscular Signaling**
 
 ## References
 
