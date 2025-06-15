@@ -14,6 +14,7 @@ This ADHD-friendly guide outlines strategies for tracking symptoms, nutrient int
 
 - **MS**: Monitoring symptoms (e.g., fatigue, numbness) and nutrients (e.g., DHA, fiber, magnesium) helps identify improvements and adjust for flares, supporting nerve repair, per **5 - MS-Supportive Weekly Meal Plan - Nerve Health**.
 - **ADHD**: Tracking focus, energy, and routine adherence reinforces habits, improving cognitive outcomes, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+- **Personalization**: Tracking ensures nutrient targets match sex, age, and life cycle needs (e.g., higher magnesium for males, increased folate for pregnant women), detailed in **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
 - **Goal**: Use simple tracking to optimize the 16 pathways (e.g., neuroprotection, circadian rhythm) and personalize the plan, as outlined in **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
 
 ## Tracking Strategies
@@ -25,10 +26,11 @@ This ADHD-friendly guide outlines strategies for tracking symptoms, nutrient int
    - **Implementation**: Note changes after meals, fasting, or exercise (**2 - MS-Supportive Weekly Meal Plan - Exercise Routine**), linking to foods (e.g., blueberries, flaxseeds).
 
 2. **Nutrient Tracking**:
-   - **Purpose**: Ensure ~25g/day fiber, ~115 g/day protein (Plan A, ~2.5–3.5 g leucine/meal), ~100 g/day (Plan B, ~2.0–3.0 g leucine/meal), ~1.5–2.0 mg/day thiamine (Plan A), ~1.0–1.5 mg/day (Plan B), ~350–400 mg/day magnesium, ~2200–2800 mg/day potassium, and ~600–700 IU/day vitamin D.
-   - **Method**: Use an app (e.g., “Cronometer”) or manual log to track fiber (e.g., 300g cauliflower ~3g, 15g flaxseeds ~4g), protein (e.g., 100g salmon ~25g), thiamine (e.g., 1 tsp Vegemite ~0.43mg), magnesium (e.g., 30g pumpkin seeds ~160 mg), potassium (e.g., 100g avocado ~485 mg), and vitamin D (e.g., 100g salmon ~570 IU).
+   - **Purpose**: Ensure ~25g/day fiber, ~115 g/day protein (Plan A, ~2.5–3.5 g leucine/meal), ~100 g/day (Plan B, ~2.0–3.0 g leucine/meal), ~1.5–2.0 mg/day thiamine (Plan A), ~1.0–1.5 mg/day (Plan B), ~350–400 mg/day magnesium, ~2200–2800 mg/day potassium, ~600–700 IU/day vitamin D, and, for pregnant and lactating women, ~600–500 mcg/day folate, ~27–10 mg/day iron, ~1000–1300 mg/day calcium.
+   - **Method**: Use an app (e.g., “Cronometer”) or manual log to track fiber, protein, thiamine, magnesium, potassium, vitamin D, folate (e.g., 100g lentils ~181 mcg), iron (e.g., 100g sardines ~2.9 mg), and calcium (e.g., 150 ml kefir ~180 mg).
    - **Frequency**: Weekly summary (Sunday, post-batch prep) or daily if adjusting portions.
    - **Implementation**: Compare intake to targets in **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**, increase vegetable portions (e.g., +100g) if fiber <25g/day or nutrients fall short.
+   - **Personalize for Your Needs**: Adjust nutrient targets based on your sex, age, and life cycle stage. For example, pregnant and lactating women should track folate, iron, and calcium to meet their increased needs. Consult with a healthcare provider for personalized advice.
 
 3. **Fasting and Routine Tracking**:
    - **Purpose**: Confirm adherence to 16:8 (10 AM–6 PM) or 12:12 (8 AM–8 PM) fasting and meal timing.
@@ -60,9 +62,12 @@ This ADHD-friendly guide outlines strategies for tracking symptoms, nutrient int
   - Magnesium: [E.g., 30g pumpkin seeds (160 mg), 15g almonds (40 mg), total 350 mg]
   - Potassium: [E.g., 100g avocado (485 mg), 300g broccoli (948 mg), total 2500 mg]
   - Vitamin D: [E.g., 100g salmon (570 IU), 100 ml almond milk (100 IU), total 670 IU]
+  - Folate: [E.g., 100g lentils (181 mcg), 100g broccoli (63 mcg), total 600 mcg, pregnant]
+  - Iron: [E.g., 100g sardines (2.9 mg), 100g tofu (2.7 mg), total 27 mg, pregnant]
+  - Calcium: [E.g., 150 ml kefir (180 mg), 100g sardines (383 mg), total 1300 mg, pregnant teen]
 - **Fasting/Meals**: [E.g., “16:8, Breakfast 10 AM, Dinner 5 PM”]
 - **Sleep/Recovery**: [E.g., “7.5 hours sleep, 15 min nap”]
-- **Notes**: [E.g., “Added avocado for potassium, felt energized”]
+- **Notes**: [E.g., “Added lentils for folate, felt energized, pregnant”]
 
 ### Weekly Summary
 - **Week**: [Insert Week, e.g., Week 1]
@@ -92,9 +97,10 @@ Tracking symptoms, nutrients, and routines empowers users to optimize the plan, 
 - **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List**
 - **17 - MS-Supportive Weekly Meal Plan - Customizable Template**
 - **19 - MS-Supportive Weekly Meal Plan - Neuromuscular Signaling**
+- **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**
 
 ## References
 
-For references on tracking benefits and dietary support, see **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+For references on tracking benefits and dietary support, see **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips** and **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
 
 ---

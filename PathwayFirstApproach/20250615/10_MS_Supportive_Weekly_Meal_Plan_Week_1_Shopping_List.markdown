@@ -8,7 +8,7 @@ author:
 
 # Week 1 Shopping List
 
-This ADHD-friendly guide provides the Week 1 shopping list for the MS-Supportive Weekly Meal Plan, designed to support MS and ADHD with 16:8 fasting (10 AM–6 PM, flexible to 12:12 at 8 AM–8 PM), ~25g/day fiber (~30% soluble, 70% insoluble), and low-antinutrient foods. The list supports **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, ensuring nutrient-dense, dexterity-friendly ingredients (no peeling/chopping) for Plan A (~$135.93–$141.60) and Plan B (~$84.59–$95.39). Items are sourced for Sunday batch prep (1h 10m) and daily meals (2–5 min prep), per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+This ADHD-friendly guide provides the Week 1 shopping list for the MS-Supportive Weekly Meal Plan, designed to support MS and ADHD with 16:8 fasting (10 AM–6 PM, flexible to 12:12 at 8 AM–8 PM), ~25g/day fiber (~30% soluble, 70% insoluble), and low-antinutrient foods. The list supports **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, ensuring nutrient-dense, dexterity-friendly ingredients (no peeling/chopping) for Plan A (~$135.93–$141.60) and Plan B (~$84.59–$95.39). It can be personalized for individual needs, such as increased nutrients for pregnant and lactating women, per **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
 
 ## Shopping Guidelines
 
@@ -18,6 +18,7 @@ This ADHD-friendly guide provides the Week 1 shopping list for the MS-Supportive
 - **Plan B**: Use canned vegetables/fish, bulk quinoa, sweet potato, and omit lemon water, almonds, almond milk to reduce costs.
 - **Prep**: Buy easy-open containers and pre-soaked seeds/nuts to support dexterity ease, per **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**.
 - **Tracking**: Log purchases and symptoms in **18 - MS-Supportive Weekly Meal Plan - Tracking** to refine future lists.
+- **Personalization**: Adjust quantities for sex, age, and life cycle. For example, add lentils for folate, sardines for iron, and increase kefir for calcium for pregnant and lactating women, including teenagers. See **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle** for details.
 
 ## Week 1 Shopping List
 
@@ -55,6 +56,7 @@ This ADHD-friendly guide provides the Week 1 shopping list for the MS-Supportive
   - Frozen vegetables reduce prep time, boiled 7–10 min for antinutrient reduction (**6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**).
   - Ensure fortified almond milk provides ~100 IU vitamin D/100 ml.
   - Protein sources (salmon, mackerel, eggs) provide ~115 g/day, ~2.5–3.5 g leucine/meal (**8 - MS-Supportive Weekly Meal Plan - Leucine/Protein Timing**).
+  - Adjust quantities for individual needs per **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
 
 ### Plan B (~$84.59–$95.39)
 - **Vegetables**:
@@ -82,6 +84,14 @@ This ADHD-friendly guide provides the Week 1 shopping list for the MS-Supportive
   - Increased sweet potato for potassium (~2200–2800 mg/day); salmon and pumpkin seeds unchanged due to budget constraints; rely on sun exposure (10–15 min/day) for vitamin D.
   - Canned vegetables/fish reduce prep and cost, boiled 7–10 min for antinutrient reduction.
   - Quinoa substitutes rice for thiamine (~1.0–1.5 mg/day), protein ~100 g/day, ~2.0–3.0 g leucine/meal (**8 - MS-Supportive Weekly Meal Plan - Leucine/Protein Timing**).
+  - Adjust quantities for individual needs per **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
+
+## Optional Items for Personalization
+- Dried lentils (for folate)
+- Canned sardines (for iron and calcium)
+- Additional kefir (for calcium)
+- Additional fortified almond milk (for vitamin D)
+- Other items as needed per **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**
 
 ## Integration with the Plan
 
@@ -90,6 +100,7 @@ This ADHD-friendly guide provides the Week 1 shopping list for the MS-Supportive
 - **Antinutrients**: Frozen/canned vegetables and soaked seeds/nuts minimize oxalates/phytates, per **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**.
 - **Tracking**: Log purchases and budget in **18 - MS-Supportive Weekly Meal Plan - Tracking** to ensure cost-effectiveness.
 - **Customization**: Adjust quantities or swap items (e.g., raspberries for blueberries, Vegemite for nutritional yeast) using **17 - MS-Supportive Weekly Meal Plan - Customizable Template**.
+- **Sleep Support**: Tart cherry juice in Plan A aids sleep, per **7 - MS-Supportive Weekly Meal Plan - Sleep/Recovery**.
 
 ## Why It Works
 
@@ -99,14 +110,16 @@ The Week 1 shopping list ensures nutrient-dense, low-antinutrient ingredients fo
 - **4 - MS-Supportive Weekly Meal Plan - Simplified Menu**
 - **5 - MS-Supportive Weekly Meal Plan - Nerve Health**
 - **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**
+- **7 - MS-Supportive Weekly Meal Plan - Sleep/Recovery**
 - **8 - MS-Supportive Weekly Meal Plan - Leucine/Protein Timing**
 - **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**
 - **17 - MS-Supportive Weekly Meal Plan - Customizable Template**
 - **18 - MS-Supportive Weekly Meal Plan - Tracking**
 - **19 - MS-Supportive Weekly Meal Plan - Neuromuscular Signaling**
+- **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**
 
 ## References
 
-For references on nutrient sources, budgets, and dietary support, see **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+For references on nutrient sources, budgets, and dietary support, see **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips** and **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
 
 ---

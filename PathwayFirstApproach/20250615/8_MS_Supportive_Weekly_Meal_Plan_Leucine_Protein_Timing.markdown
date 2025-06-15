@@ -8,61 +8,55 @@ author:
 
 # Leucine/Protein Timing
 
-This ADHD-friendly guide outlines strategies for optimizing leucine and protein intake timing in the 4-week diet plan to support muscle maintenance and neurological health for MS and ADHD. Proper protein distribution enhances nerve repair, energy, and focus, complementing the plan’s 16:8 fasting (10 AM–6 PM, flexible to 12:12 at 8 AM–8 PM), ~25g/day fiber (~30% soluble, 70% insoluble), and low-antinutrient framework.
+This ADHD-friendly guide explains the role of leucine and protein timing in the MS-Supportive Weekly Meal Plan, designed to support MS and ADHD with 16:8 fasting (10 AM–6 PM, flexible to 12:12 at 8 AM–8 PM), ~25g/day fiber (~30% soluble, 70% insoluble), and low-antinutrient foods. By optimizing leucine and protein intake, the plan supports muscle protein synthesis, nerve health (**5 - MS-Supportive Weekly Meal Plan - Nerve Health**), mitochondrial function (**3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**), and neuromuscular signaling (**19 - MS-Supportive Weekly Meal Plan - Neuromuscular Signaling**).
 
 ## Why Leucine and Protein Timing Matter
 
-- **MS**: Muscle preservation and nerve repair require adequate protein and leucine, an essential amino acid that stimulates muscle protein synthesis. Optimal timing reduces fatigue and supports mobility, as noted in **5 - MS-Supportive Weekly Meal Plan - Nerve Health**.
-- **ADHD**: Protein supports neurotransmitter production (e.g., dopamine), improving focus and reducing brain fog, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
-- **Goal**: Distribute protein and leucine intake evenly across meals to maximize absorption and support the 16 pathways (e.g., mTOR, neuroprotection) outlined in **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+- **MS**: Adequate protein supports muscle maintenance and nerve repair, reducing fatigue and spasticity, per **5 - MS-Supportive Weekly Meal Plan - Nerve Health**.
+- **ADHD**: Protein supports neurotransmitter production and focus, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+- **Personalization**: Protein needs vary by sex, age, and life cycle. For pregnant and lactating women, including teenagers, protein requirements are higher (~125–140 g/day) to support fetal development and milk production. Tailor protein intake and timing to individual needs, as detailed in **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
+- **Goal**: Optimize leucine and protein timing to activate pathways like mTOR and muscle protein synthesis, supporting the 16 pathways in **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
 
 ## Strategies for Leucine and Protein Timing
 
-1. **Protein Distribution**:
-   - **Target**: 
-     - **Plan A**: ~115 g protein/day, ~2.5–3.5 g leucine/meal, spread across 4 meals (Breakfast, Lunch, Snack, Dinner).
-     - **Plan B**: ~100 g protein/day, ~2.0–3.0 g leucine/meal, spread across 4 meals.
-   - **Timing**: Consume protein every 3–4 hours within the eating window (10 AM–6 PM for 16:8, 8 AM–8 PM for 12:12) to maintain muscle synthesis and neurotransmitter support.
-   - **Sources**: High-leucine foods include salmon (100g, ~2.5g leucine), eggs (2, ~1.2g leucine), tofu (100g, ~2.0g leucine), and tempeh (100g, ~2.2g leucine).
-   - **Implementation**: Meals in **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule** provide balanced protein (e.g., salmon at lunch, eggs at dinner).
+1. **Leucine-Rich Proteins**:
+   - **Sources**: Include proteins with ~2.5–3.5 g leucine/meal (Plan A) or ~2.0–3.0 g (Plan B), such as salmon (100g, ~2.5g leucine), tofu (100g, ~2.0g), and eggs (2, ~1.2g).
+   - **For Pregnant/Lactating Women (including teenagers)**: Increase protein to ~125–140 g/day by adding extra portions (e.g., +50g salmon or +100g tofu) to meals. Ensure leucine-rich proteins are distributed across all meals to support continuous muscle protein synthesis.
 
-2. **Leucine Threshold**:
-   - **Purpose**: Achieve ~2.0–3.5 g leucine per meal to trigger muscle protein synthesis, critical for MS muscle preservation and ADHD neurological health.
-   - **Method**: Include 100–150g of high-leucine protein (e.g., salmon, tofu) per meal, supplemented by seeds (e.g., pumpkin, ~0.3g leucine/20g) for snacks.
-   - **Implementation**: Leucine-rich foods are timed at 10 AM, 1 PM, 3 PM, and 5 PM (16:8) or 8 AM, 11 AM, 3 PM, and 7 PM (12:12), per **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule**.
+2. **Protein Distribution**:
+   - **Timing**: Consume protein in 4 meals within the eating window (e.g., 10 AM, 1 PM, 3 PM, 5 PM for 16:8 fasting). For pregnant and lactating women, consider an additional protein-rich snack (e.g., 150 ml kefir, ~5g protein) to meet higher needs.
+   - **Implementation**: Use meal schedules in **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule** as a guide.
 
-3. **Antinutrient Management**:
-   - **Purpose**: Minimize phytates and oxalates to enhance protein and leucine absorption, supporting nerve and muscle function.
-   - **Method**: Soak seeds (8h, ~50% phytate reduction) and boil vegetables (7–10 min, ~40% oxalate reduction), per **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**.
-   - **Implementation**: Soaked seeds and boiled vegetables accompany protein sources in meals, per **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule**.
+3. **Fasting Considerations**:
+   - **16:8 Fasting**: Ensure protein intake is sufficient during the eating window to support muscle maintenance. Pregnant and lactating women should prioritize protein-rich meals to meet increased demands.
+   - **12:12 Option**: On high-fatigue days, use the extended eating window to space out protein intake, ensuring consistent nutrient supply.
 
-4. **Fasting Alignment**:
-   - **Purpose**: Time protein intake within fasting windows to optimize mTOR activation for muscle and nerve repair.
-   - **Method**: Distribute protein across 4 meals within 10 AM–6 PM (16:8) or 8 AM–8 PM (12:12), avoiding late-night intake to support circadian rhythms.
-   - **Implementation**: Meal schedules align with fasting, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**, with lemon water (7:30 AM) aiding morning hydration.
+4. **Nutrient Synergy**:
+   - **Pairing**: Combine protein with fiber-rich vegetables (e.g., 300g zucchini, ~3g fiber) to support digestion and satiety. For pregnant women, include folate-rich vegetables like broccoli (300g, ~189 mcg folate) to meet daily needs.
 
 ## Integration with the Plan
 
-- **Weekly Meals**: **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule** include high-leucine proteins (e.g., salmon, tofu, eggs) and flaxseeds (15g/day, ~4g fiber, soluble) to support protein goals (~115 g/day Plan A, ~100 g/day Plan B).
-- **Shopping**: **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List** provide salmon, tofu, eggs, seeds, and lemons (500 ml juice or 7 lemons/week) for Plan A, with canned options for Plan B (~$130.93–$136.60 Plan A, ~$81.59–$92.39 Plan B).
-- **Tracking**: Monitor muscle strength and focus (e.g., “Less fatigue after salmon lunch”) with **18 - MS-Supportive Weekly Meal Plan - Tracking**, adjusting protein portions if needed.
-- **Customization**: Swap protein sources (e.g., sardines for salmon) using **17 - MS-Supportive Weekly Meal Plan - Customizable Template** while maintaining leucine thresholds.
-- **Sleep/Recovery**: Protein timing supports recovery, complementing **7 - MS-Supportive Weekly Meal Plan - Sleep/Recovery**.
+- **Weekly Meals**: **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule** include leucine-rich proteins like salmon and tofu, with adjustments for pregnant and lactating women (e.g., +50g salmon).
+- **Shopping**: **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List** provide protein sources for Plan A (~$135.93–$141.60) and Plan B (~$84.59–$95.39).
+- **Customization**: Adjust protein portions (e.g., +100g tofu for pregnant teens) using **17 - MS-Supportive Weekly Meal Plan - Customizable Template** and **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
+- **Tracking**: Monitor protein intake (e.g., “140 g protein, pregnant, improved energy”) in **18 - MS-Supportive Weekly Meal Plan - Tracking** to ensure needs are met.
 
 ## Why It Works
 
-Optimizing leucine and protein timing supports muscle preservation and nerve repair for MS, while enhancing dopamine production for ADHD focus. Integrated with fasting and antinutrient management, it activates mTOR and neuroprotection pathways, ensuring sustained benefits. For detailed guidance, see:
+By optimizing leucine and protein timing, the plan supports muscle maintenance, nerve repair, and focus. Tailored for sex, age, and life cycle, including pregnant teenagers, it activates mTOR and muscle protein synthesis pathways, complementing the 16 pathways. For guidance, see:
 - **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**
+- **3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**
 - **5 - MS-Supportive Weekly Meal Plan - Nerve Health**
-- **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**
-- **7 - MS-Supportive Weekly Meal Plan - Sleep/Recovery**
 - **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule**
 - **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List**
 - **17 - MS-Supportive Weekly Meal Plan - Customizable Template**
 - **18 - MS-Supportive Weekly Meal Plan - Tracking**
+- **19 - MS-Supportive Weekly Meal Plan - Neuromuscular Signaling**
+- **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**
 
 ## References
-
-For references on leucine, protein timing, and dietary support, see **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+- Gropper, S. S., et al. (2021). *Advanced Nutrition and Human Metabolism* (8th ed.). Cengage Learning. ISBN: 978-0357449813.
+- USDA FoodData Central. (2018). [https://fdc.nal.usda.gov/](https://fdc.nal.usda.gov/).
+For additional references on leucine, protein timing, and nutritional needs, see **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips** and **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
 
 ---

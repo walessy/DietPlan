@@ -8,64 +8,60 @@ author:
 
 # Sleep/Recovery
 
-This ADHD-friendly guide outlines strategies to enhance sleep and recovery for MS and ADHD within the 4-week diet plan. Quality sleep and effective recovery reduce fatigue, support nerve repair, and improve focus, complementing the plan’s 16:8 fasting (10 AM–6 PM, flexible to 12:12 at 8 AM–8 PM), ~25g/day fiber (~30% soluble, 70% insoluble), and low-antinutrient framework.
+This ADHD-friendly guide explains the role of sleep and recovery in the MS-Supportive Weekly Meal Plan, designed to support MS and ADHD with 16:8 fasting (10 AM–6 PM, flexible to 12:12 at 8 AM–8 PM), ~25g/day fiber (~30% soluble, 70% insoluble), and low-antinutrient foods. By optimizing sleep and recovery, the plan enhances nerve repair, reduces fatigue, and improves focus, complementing nerve health (**5 - MS-Supportive Weekly Meal Plan - Nerve Health**), mitochondrial function (**3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**), and neuromuscular signaling (**19 - MS-Supportive Weekly Meal Plan - Neuromuscular Signaling**).
 
 ## Why Sleep and Recovery Matter
 
-- **MS**: Poor sleep exacerbates fatigue and hinders nerve repair, impacting quality of life. Adequate sleep supports myelin regeneration, as noted in **5 - MS-Supportive Weekly Meal Plan - Nerve Health**.
-- **ADHD**: Sleep disturbances disrupt dopamine regulation, worsening focus and impulsivity. Consistent sleep improves cognitive function, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
-- **Goal**: Optimize sleep and recovery to support the 16 pathways (e.g., circadian rhythm, neuroprotection) outlined in **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+- **MS**: Sleep supports myelin repair, reduces inflammation, and mitigates fatigue, which is critical for managing MS symptoms, per **5 - MS-Supportive Weekly Meal Plan - Nerve Health**.
+- **ADHD**: Quality sleep improves focus, impulse control, and cognitive function, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+- **Personalization**: Sleep needs vary by sex, age, and life cycle. For pregnant and lactating women, including teenagers, adequate sleep (8–10 hours) is essential for recovery, fetal development, and managing increased nutrient demands (e.g., folate, iron, calcium). Tailor sleep strategies to individual needs, as detailed in **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
+- **Goal**: Enhance sleep quality and recovery through diet, fasting, and lifestyle to activate pathways like circadian rhythm, neuroprotection, and autophagy, supporting the 16 pathways in **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
 
-## Strategies to Enhance Sleep and Recovery
+## Strategies for Sleep and Recovery
 
-1. **Dietary Support**:
-   - **Key Nutrients**:
-     - **Magnesium**: Found in pumpkin seeds (20g, ~150mg), promotes relaxation and sleep quality. Included daily in **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly_Meal_Plan_Week_2_Meal_Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule**.
-     - **Tryptophan**: Found in turkey (Week 2) and eggs, supports serotonin production for sleep. Included in **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule** and other weeks.
-     - **Antioxidants**: Blueberries (100g, ~1.4g fiber, soluble) and raspberries (100g, ~3g fiber, soluble) reduce oxidative stress, aiding recovery, included in snacks.
-     - **Melatonin Precursors**: Tart cherry juice (100 ml, diluted 1:1, circadian support) enhances melatonin production, included in snacks (e.g., Week 2, Day 2).
-   - **Implementation**: Use **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List** to source seeds, berries, eggs, and tart cherry juice.
+1. **Sleep Hygiene**:
+   - **Duration**: Aim for 7–8 hours of sleep nightly. Pregnant and lactating women, especially teenagers, may need 8–10 hours to support recovery and fetal growth.
+   - **Environment**: Use a dark, quiet room with comfortable bedding. Avoid screens 1 hour before bed to reduce blue light exposure.
+   - **Routine**: Set a consistent bedtime (e.g., 10 PM) and wake time (e.g., 6 AM), aligning with fasting windows (e.g., 16:8 or 12:12).
 
-2. **Fasting**:
-   - **16:8 Fasting (10 AM–6 PM)**: Aligns eating with circadian rhythms, improving sleep quality. Breakfast at 10 AM (e.g., green tea, banana), per **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule**.
-   - **12:12 Option (8 AM–8 PM)**: Used on high-fatigue days, still supports circadian alignment. Breakfast at 8 AM, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
-   - **Morning Routine**: Drink lemon water (1 tbsp pre-squeezed juice in 250 ml water, 7:30 AM) to promote hydration and morning alertness, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
-   - **Implementation**: Set phone alarms for 10 AM or 8 AM breakfast to maintain fasting schedule.
+2. **Dietary Support**:
+   - **Tryptophan-Rich Foods**: Include pumpkin seeds (30g, ~160 mg magnesium, tryptophan source) in dinners to promote melatonin production.
+   - **Magnesium**: Found in pumpkin seeds and almonds (15g, ~40 mg, Plan A), supports muscle relaxation and sleep quality.
+   - **Tart Cherry Juice**: Add 100 ml diluted tart cherry juice (Plan A) to snacks for melatonin and sleep support.
+   - **For Pregnant/Lactating Women (including teenagers)**: Ensure adequate calcium (1000–1300 mg/day) from kefir (150 ml, ~180 mg) and sardines (100g, ~383 mg) to support bone health and sleep. Folate (600–500 mcg/day) from lentils (100g, ~181 mcg) and iron (27–10 mg/day) from sardines (100g, ~2.9 mg) also aid recovery and energy, per **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
 
-3. **Sleep Hygiene**:
-   - **Routine**: Aim for 7–8 hours nightly, with a consistent bedtime (e.g., 10 PM–6 AM). Avoid screens 1 hour before bed to reduce blue light exposure.
-   - **Environment**: Use a dark, quiet bedroom with comfortable bedding to enhance sleep quality.
-   - **Mindfulness**: Practice 2-min deep breathing or meditation post-dinner (e.g., 5:30 PM) to reduce stress, aiding sleep onset.
-   - **Implementation**: Log sleep duration/quality (e.g., “Slept 7 hours, felt rested”) in **18 - MS-Supportive Weekly Meal Plan - Tracking**.
+3. **Fasting Alignment**:
+   - **16:8 Fasting (10 AM–6 PM)**: Supports circadian rhythm and autophagy, enhancing sleep quality. Avoid late-night eating to prevent sleep disruption.
+   - **12:12 Option (8 AM–8 PM)**: Used on high-fatigue days, still aligns with sleep needs. Pregnant women should ensure nutrient intake during eating windows, tracked in **18 - MS-Supportive Weekly Meal Plan - Tracking**.
 
 4. **Recovery Practices**:
-   - **Light Activity**: 5–10 min daily stretching or walking supports muscle recovery and reduces MS fatigue, per **2 - MS-Supportive Weekly Meal Plan - Exercise Routine**.
-   - **Rest Periods**: Take short naps (15–20 min) or rest breaks on high-fatigue days to manage MS symptoms.
-   - **Implementation**: Schedule rest post-lunch (e.g., 1:30 PM) if needed, log recovery in **18 - MS-Supportive Weekly Meal Plan - Tracking**.
+   - **Rest Breaks**: Take 15–20 min naps or rest breaks during the day to manage MS fatigue. Pregnant women may need longer rest periods (30–45 min) to support energy levels.
+   - **Mindfulness**: Use 5-min breathing exercises or meditation to reduce stress and improve sleep onset.
 
 ## Integration with the Plan
 
-- **Weekly Meals**: **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule** include magnesium-rich seeds, tryptophan-rich proteins (e.g., eggs, turkey), and antioxidants (e.g., blueberries) to support sleep, with flaxseeds (15g/day, ~4g fiber, soluble) aiding gut health.
-- **Shopping**: **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List** provide seeds, berries, tart cherry juice, and lemons (500 ml juice or 7 lemons/week) for Plan A, with budget options for Plan B (~$130.93–$136.60 Plan A, ~$81.59–$92.39 Plan B).
-- **Antinutrients**: Soaking seeds (8h) and boiling vegetables (7–10 min) ensure nutrient bioavailability for sleep support, per **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**.
-- **Tracking**: Monitor sleep and fatigue (e.g., “Better sleep after tart cherry juice”) with **18 - MS-Supportive Weekly Meal Plan - Tracking**, adjusting routines as needed.
-- **Customization**: Adapt sleep-friendly foods (e.g., strawberries for blueberries) using **17 - MS-Supportive Weekly Meal Plan - Customizable Template**.
+- **Weekly Meals**: **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule** include tryptophan-rich pumpkin seeds, magnesium-rich almonds, and calcium-rich kefir to support sleep and recovery, especially for pregnant teenagers.
+- **Shopping**: **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List** provide ingredients for Plan A (~$135.93–$141.60) and Plan B (~$84.59–$95.39), including tart cherry juice and kefir for sleep support.
+- **Customization**: Adjust sleep aids (e.g., +100 ml tart cherry juice for older adults, +150 ml kefir for pregnant teens) using **17 - MS-Supportive Weekly Meal Plan - Customizable Template** and **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
+- **Tracking**: Log sleep quality (e.g., “8 hours, less fatigue”) and recovery practices in **18 - MS-Supportive Weekly Meal Plan - Tracking** to adjust strategies (e.g., increase rest breaks for pregnant women).
 
 ## Why It Works
 
-Enhancing sleep and recovery through magnesium, tryptophan, and circadian-aligned fasting reduces MS fatigue and improves ADHD focus. Combined with mindfulness and low-impact exercise, it supports nerve repair (**5 - MS-Supportive Weekly Meal Plan - Nerve Health**) and mitochondrial function (**3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**). For detailed guidance, see:
+By optimizing sleep hygiene, dietary support, and recovery practices, the plan enhances nerve repair, reduces fatigue, and improves focus. Tailored for sex, age, and life cycle, including pregnant teenagers, it activates circadian rhythm and neuroprotection pathways, complementing the 16 pathways. For guidance, see:
 - **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**
 - **2 - MS-Supportive Weekly Meal Plan - Exercise Routine**
 - **3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**
 - **5 - MS-Supportive Weekly Meal Plan - Nerve Health**
-- **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**
 - **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule**
 - **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List**
 - **17 - MS-Supportive Weekly Meal Plan - Customizable Template**
 - **18 - MS-Supportive Weekly Meal Plan - Tracking**
+- **19 - MS-Supportive Weekly Meal Plan - Neuromuscular Signaling**
+- **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**
 
 ## References
-
-For references on sleep, recovery, and dietary support, see **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+- Gropper, S. S., et al. (2021). *Advanced Nutrition and Human Metabolism* (8th ed.). Cengage Learning. ISBN: 978-0357449813.
+- USDA FoodData Central. (2018). [https://fdc.nal.usda.gov/](https://fdc.nal.usda.gov/).
+For additional references on sleep, recovery, and nutritional needs, see **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips** and **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
 
 ---

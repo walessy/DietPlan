@@ -8,57 +8,46 @@ author:
 
 # Simplified Menu
 
-This ADHD-friendly guide provides a simplified menu for the 4-week diet plan, offering Plan A (standard) and Plan B (budget-friendly) options to support MS and ADHD. The menus streamline meal planning while maintaining 16:8 fasting (10 AM–6 PM, flexible to 12:12 at 8 AM–8 PM), ~25g/day fiber (~30% soluble, 70% insoluble), and low antinutrients, ensuring neuroprotection, dopamine support, and dexterity ease. This article complements the detailed schedules in **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, and **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule**.
+This ADHD-friendly guide provides a simplified menu for the MS-Supportive Weekly Meal Plan, designed to support MS and ADHD with 16:8 fasting (10 AM–6 PM, flexible to 12:12 at 8 AM–8 PM), ~25g/day fiber (~30% soluble, 70% insoluble), and low-antinutrient foods. The menu ensures nutrient density, dexterity ease, and budget-friendliness, aligning with **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips** and supporting nerve health (**5 - MS-Supportive Weekly Meal Plan - Nerve Health**), mitochondrial function (**3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**), and neuromuscular signaling (**19 - MS-Supportive Weekly Meal Plan - Neuromuscular Signaling**).
 
-## Why a Simplified Menu Matters
+## Simplified Menu Overview
 
-- **MS**: Simplified menus reduce cognitive load, supporting energy management and nerve health through DHA-rich foods, as outlined in **5 - MS-Supportive Weekly Meal Plan - Nerve Health**.
-- **ADHD**: Streamlined meal plans enhance routine adherence, boosting focus via dopamine-supportive foods, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
-- **Goal**: Provide easy-to-follow menus that activate the 16 pathways (e.g., mitochondrial function, neuroprotection), supporting MS/ADHD with minimal prep, as detailed in **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+- **Goal**: Offer a streamlined, cost-effective menu with minimal variety for users preferring simplicity or facing budget constraints, while maintaining ~25g/day fiber, ~100 g/day protein (Plan B), ~1.0–1.5 mg/day thiamine, ~350–400 mg/day magnesium, ~2200–2800 mg/day potassium, and ~600–700 IU/day vitamin D.
+- **Personalization**: Adjust the menu for sex, age, and life cycle. For pregnant and lactating women, especially teenagers, increase protein (~125–140 g/day), fiber (~28–29 g/day), folate (600–500 mcg/day), iron (27–10 mg/day), and calcium (1000–1300 mg/day) by incorporating foods like lentils, sardines, and kefir. See **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle** for detailed guidance.
+- **Structure**: Repeat a fixed daily menu for 7 days, using canned/frozen options for cost savings (~$84.59–$95.39/week, Plan B). For variety, swap proteins or vegetables weekly.
 
-## Simplified Menus
+## Meal Structure
 
-### Plan A: Standard Menu
-- **Overview**: Uses fresh, frozen, and minimally processed foods, prioritizing variety and nutrient density (~115 g protein/day, ~2.5–3.5 g leucine/meal, ~1.5–2.0 mg/day thiamine via nutritional yeast). Budget: ~$130.93–$136.60/week.
-- **Weekly Structure**:
-  - **Week 1**: Zucchini, broccoli, mackerel, salmon, eggs; daily green tea, bananas, blueberries, flaxseeds (15g, ~4g fiber).
-  - **Week 2**: Parsnip, Brussels sprouts, tuna, shrimp, tempeh; daily green tea, bananas, raspberries, flaxseeds.
-  - **Week 3**: Summer squash, cabbage, sardines, tofu; daily green tea, bananas, blueberries, flaxseeds.
-  - **Week 4**: Cauliflower, radish, salmon, oyster mushrooms; daily green tea, bananas, raspberries, flaxseeds.
-- **Daily Example (Week 1, Day 1)**:
-  - **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, ~3g fiber, soluble), lemon water (1 tbsp juice, 250 ml, **refreshing**).
-  - **Lunch (1 PM)**: Zucchini (300g, boiled, ~3g fiber), mackerel (100g, DHA), white rice (100g, ~0.4g fiber), pumpkin seeds (20g, ~150mg magnesium).
-  - **Snack (3 PM)**: Blueberries (100g, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health).
-  - **Dinner (5 PM)**: Broccoli (300g, boiled, ~5g fiber), eggs (2, ~12g protein), chia seeds (15g, soaked, ~5g fiber).
-- **Prep**: Sunday batch prep (1h 10m) for boiling vegetables, baking proteins, soaking seeds, portioning lemon slices; daily microwave reheating (2–5 min), per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
-- **Shopping**: See **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List** for frozen vegetables, fish, seeds, and lemons.
+### Daily Menu (Plan B)
+- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*
+- **Lunch (1 PM)**: Canned zucchini (300g, boiled, **green**, ~3g fiber, insoluble), canned salmon (100g, DHA, ~2.5g leucine, ~570 IU vitamin D), quinoa (100g, soaked, ~2.8g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*
+- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health). *Prep: 2 min.*
+- **Dinner (5 PM)**: Canned broccoli (300g, boiled, **green**, ~5g fiber, insoluble), tofu (100g, ~2.0g leucine), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*
+- **For Pregnant/Lactating Women (including teenagers)**:
+  - **Breakfast**: Add 150 ml kefir (~180 mg calcium).
+  - **Lunch**: Replace zucchini with 100g lentils (soaked, ~181 mcg folate, ~3.5 mg iron) and use canned sardines (100g, ~2.9 mg iron, ~383 mg calcium) instead of salmon 3–4 times/week.
+  - **Snack**: Add 15g almonds (~40 mg magnesium, Plan A if budget allows).
+  - **Dinner**: Add 100g broccoli (~63 mcg folate) or 100g sweet potato (~694 mg potassium) for variety.
+  - **Note**: Track folate (600–500 mcg/day), iron (27–10 mg/day), and calcium (1000–1300 mg/day) in **18 - MS-Supportive Weekly Meal Plan - Tracking**.
 
-### Plan B: Budget-Friendly Menu
-- **Overview**: Uses canned and bulk ingredients to reduce costs (~$81.59–$92.39/week), maintaining ~100 g protein/day, ~2.0–3.0 g leucine/meal, ~1.0–1.5 mg/day thiamine (quinoa/seeds). Lemon water optional to lower costs.
-- **Weekly Structure**:
-  - **Week 1**: Canned zucchini, broccoli, mackerel, eggs; daily bananas, bulk quinoa, chia seeds (15g, ~5g fiber).
-  - **Week 2**: Canned parsnip, Brussels sprouts, tuna, tempeh; daily bananas, bulk quinoa, chia seeds.
-  - **Week 3**: Canned summer squash, cabbage, sardines, tofu; daily bananas, bulk quinoa, chia seeds.
-  - **Week 4**: Canned cauliflower, radish, salmon, tempeh; daily bananas, bulk quinoa, chia seeds.
-- **Daily Example (Week 1, Day 1)**:
-  - **Breakfast (10 AM)**: Banana (120g, ~3g fiber, soluble), water (250 ml).
-  - **Lunch (1 PM)**: Canned zucchini (300g, ~3g fiber), canned mackerel (100g, DHA), quinoa (100g, soaked, ~2.8g fiber).
-  - **Snack (3 PM)**: Chia seeds (15g, soaked, ~5g fiber, soluble), water.
-  - **Dinner (5 PM)**: Canned broccoli (300g, ~5g fiber), eggs (2, ~12g protein).
-- **Prep**: Sunday batch prep (1h) for soaking quinoa/chia, portioning canned vegetables; daily microwave reheating (2–3 min).
-- **Shopping**: Bulk quinoa, canned fish/vegetables, eggs reduce costs; see **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List**.
+### Weekly Variations
+- **Week 1**: Use zucchini, salmon, broccoli, tofu as above.
+- **Week 2**: Swap zucchini for canned parsnip, salmon for canned tuna, broccoli for canned Brussels sprouts.
+- **Week 3**: Swap zucchini for canned summer squash, salmon for canned sardines, broccoli for canned green beans.
+- **Week 4**: Swap zucchini for canned cauliflower, salmon for canned cod, broccoli for canned radish.
+- **Personalization**: Adjust swaps for nutrient needs (e.g., sardines for iron/calcium in pregnancy, lentils for folate).
 
 ## Integration with the Plan
 
-- **Fasting**: Both plans align with 16:8 (10 AM–6 PM) or 12:12 (8 AM–8 PM) fasting for autophagy and AMPK, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
-- **Antinutrients**: Canned/frozen vegetables boiled (7–10 min) and seeds soaked (8h) minimize oxalates/phytates, per **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**.
-- **Tracking**: Monitor energy, focus, and digestion with **18 - MS-Supportive Weekly Meal Plan - Tracking**, adjusting portions (e.g., +100g vegetables for fiber).
-- **Customization**: Swap ingredients (e.g., strawberries for blueberries in Plan A) using **17 - MS-Supportive Weekly Meal Plan - Customizable Template**.
-- **MIND Diet**: Incorporates berries, fish, and nuts for cognitive health, as noted in **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+- **Budget**: Plan B (~$84.59–$95.39/week) uses canned vegetables/fish, bulk quinoa, and omits lemon water, nutritional yeast/Marmite/Vegemite, almonds, almond milk, and dark chocolate. For pregnancy, add lentils and sardines within budget, or use Plan A (~$135.93–$141.60) for almonds and almond milk, per **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List**.
+- **Fasting**: Aligns with 16:8 (10 AM–6 PM) or 12:12 (8 AM–8 PM) fasting, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+- **Antinutrients**: Canned vegetables (boiled 7–10 min) and soaked quinoa minimize oxalates/phytates, per **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**.
+- **Tracking**: Log symptoms and nutrients (e.g., “600 mcg folate, pregnant, less fatigue”) in **18 - MS-Supportive Weekly Meal Plan - Tracking** to adjust portions (e.g., +100g lentils for folate).
+- **Customization**: Tailor menu for sex, age, life cycle (e.g., +100g sardines for calcium in pregnant teens) using **17 - MS-Supportive Weekly Meal Plan - Customizable Template** and **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
 
 ## Why It Works
 
-The simplified menus reduce planning effort while delivering ~25g/day fiber, supporting mitochondrial function (**3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**), nerve health (**5 - MS-Supportive Weekly Meal Plan - Nerve Health**), and ADHD focus through dopamine-rich foods. Plan B ensures affordability without compromising benefits. For detailed guidance, see:
+The simplified menu delivers ~25g/day fiber, ~100 g/day protein, ~1.0–1.5 mg/day thiamine, ~350–400 mg/day magnesium, ~2200–2800 mg/day potassium, ~600–700 IU/day vitamin D, and can be adjusted for folate, iron, and calcium needs of pregnant/lactating women, supporting MS nerve repair (**5 - MS-Supportive Weekly Meal Plan - Nerve Health**), mitochondrial function (**3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**), and ADHD focus. For guidance, see:
 - **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**
 - **3 - MS-Supportive Weekly Meal Plan - Mitochondrial Health**
 - **5 - MS-Supportive Weekly Meal Plan - Nerve Health**
@@ -67,9 +56,10 @@ The simplified menus reduce planning effort while delivering ~25g/day fiber, sup
 - **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List**
 - **17 - MS-Supportive Weekly Meal Plan - Customizable Template**
 - **18 - MS-Supportive Weekly Meal Plan - Tracking**
+- **19 - MS-Supportive Weekly Meal Plan - Neuromuscular Signaling**
+- **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**
 
 ## References
-
-For references on dietary strategies, pathways, and MIND diet benefits, see **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+For references on nutrient needs and budget-friendly options, see **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips** and **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
 
 ---

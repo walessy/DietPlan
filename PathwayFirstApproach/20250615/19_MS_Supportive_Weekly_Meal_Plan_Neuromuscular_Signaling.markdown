@@ -33,6 +33,7 @@ This ADHD-friendly guide explains neuromuscular signaling and its importance for
      - **Potassium**: Found in avocado (100g, ~485 mg, Plan A) and sweet potato (200g, ~694 mg), supports nerve function and muscle contraction. Included 3–4 times/week in **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule**.
      - **Vitamin D**: Found in salmon (100g, ~570 IU) and fortified almond milk (100 ml, ~100 IU, Plan A), supports nerve health and immune modulation. Daily in Plan A, per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
      - **Antioxidants**: Blueberries (100g, ~1.4g fiber, soluble) and raspberries (100g, ~3g fiber, soluble) reduce oxidative stress on nerves and muscles, included in snacks.
+     - **For Pregnant/Lactating Women (including teenagers)**: Folate (600 mcg/day pregnant, 500 mcg/day lactating), iron (27–10 mg/day), and calcium (1000–1300 mg/day) are crucial for nerve function and fetal development. Add 100g lentils (soaked, ~181 mcg folate), 100g sardines (~2.9 mg iron, ~383 mg calcium), and 150 ml kefir (~180 mg calcium) daily, per **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**.
    - **Foods to Avoid**: Nightshades (e.g., tomatoes) and high-sugar foods are excluded to minimize inflammation, per **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**.
    - **Implementation**: Source frozen vegetables (e.g., cauliflower), pre-washed berries, proteins (e.g., salmon, tofu), almonds, avocado, and fortified almond milk from **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List**. Add 1–2 tsp Marmite/Vegemite to meals (e.g., rice) for thiamine if replacing nutritional yeast.
 
@@ -43,7 +44,8 @@ This ADHD-friendly guide explains neuromuscular signaling and its importance for
    - **Implementation**: Set phone alarms for 10 AM or 8 AM breakfast to maintain fasting schedule.
 
 3. **Exercise**:
-   - **Low-Impact Activity**: 5–10 min daily stretching or walking strengthens nerve-muscle connections, reducing MS spasticity and improving ADHD motor control, per **2 - MS-Supportive Weekly Meal Plan - Exercise Routine**.
+   - **Low-Impact Activity**: 5–10 min daily stretching or walking strengthens
+ strengthens nerve-muscle connections, reducing MS spasticity and improving ADHD motor control, per **2 - MS-Supportive Weekly Meal Plan - Exercise Routine**.
    - **Timing**: Post-breakfast (e.g., 10:30 AM) to leverage energy from meals (e.g., bananas, ~3g fiber).
    - **Implementation**: Log exercise effects (e.g., “Less stiffness post-stretch”) in **18 - MS-Supportive Weekly Meal Plan - Tracking**.
 
@@ -57,7 +59,7 @@ This ADHD-friendly guide explains neuromuscular signaling and its importance for
 
 ## Integration with the Plan
 
-- **Weekly Meals**: **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule** include DHA-rich salmon, magnesium-rich pumpkin seeds and almonds, potassium-rich avocado and sweet potato, vitamin D-rich almond milk, and fiber-rich flaxseeds (15g/day, ~4g fiber, soluble) to support neuromuscular signaling.
+- **Weekly Meals**: **9 - MS-Supportive Weekly Meal Plan - Week 1 Meal Schedule**, **11 - MS-Supportive Weekly Meal Plan - Week 2 Meal Schedule**, **13 - MS-Supportive Weekly Meal Plan - Week 3 Meal Schedule**, **15 - MS-Supportive Weekly Meal Plan - Week 4 Meal Schedule** include DHA-rich salmon, magnesium-rich pumpkin seeds and almonds, potassium-rich avocado and sweet potato, vitamin D-rich almond milk, and enhanced fiber-rich flaxseeds (15g/day, ~4g fiber, soluble) to support neuromuscular signaling.
 - **Shopping**: **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**, **12 - MS-Supportive Weekly Meal Plan - Week 2 Shopping List**, **14 - MS-Supportive Weekly Meal Plan - Week 3 Shopping List**, **16 - MS-Supportive Weekly Meal Plan - Week 4 Shopping List** provide frozen vegetables, proteins, seeds, nuts, avocado, almond milk, and lemons (500 ml juice or 7 lemons/week) for Plan A (~$135.93–$141.60), with canned options for Plan B (~$84.59–$95.39). Add Marmite (250g, ~$5–7) or Vegemite (220g, ~$5–6) for thiamine if preferred over nutritional yeast (100g, ~$4).
 - **Customization**: Swap foods (e.g., strawberries for blueberries, Marmite for nutritional yeast) using **17 - MS-Supportive Weekly Meal Plan - Customizable Template** while preserving signaling benefits.
 - **Tracking**: Monitor neuromuscular symptoms (e.g., spasticity, coordination) and nutrient intake (e.g., “2 tsp Vegemite, ~0.86 mg thiamine; 30g pumpkin seeds, ~160 mg magnesium”) daily with **18 - MS-Supportive Weekly Meal Plan - Tracking**, adjusting portions or fasting as needed.

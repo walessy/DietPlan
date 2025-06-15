@@ -13,6 +13,7 @@ This ADHD-friendly guide provides the Week 1 meal schedule for the MS-Supportive
 ## Week 1 Overview
 
 - **Goal**: Deliver ~115 g protein/day (Plan A, ~2.5–3.5 g leucine/meal), ~100 g/day (Plan B, ~2.0–3.0 g leucine/meal), ~1.5–2.0 mg/day thiamine (Plan A), ~1.0–1.5 mg/day (Plan B), ~25g/day fiber, ~350–400 mg/day magnesium, ~2200–2800 mg/day potassium, and ~600–700 IU/day vitamin D, activating 16 pathways (e.g., autophagy, neuroprotection) with no-chicken proteins.
+- **Personalization**: Adjust portions for sex, age, and life cycle. For pregnant and lactating women, including teenagers, increase protein (~125–140 g/day), fiber (~28–29 g/day), folate (600–500 mcg/day), iron (27–10 mg/day), and calcium (1000–1300 mg/day). See **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle** for detailed guidance.
 - **Key Foods**: Zucchini, broccoli, sweet potato, asparagus; mackerel, salmon, cod, eggs; blueberries, bananas, avocado, flaxseeds, pumpkin seeds, almonds; white rice, kefir, fortified almond milk, lemon water.
 - **Prep**: Sunday batch prep (1h 10m) boils vegetables (7–10 min, ~40% oxalate reduction), soaks seeds/nuts (8h, ~50% phytate reduction), bakes proteins, portions lemon slices; daily microwave reheating (2–5 min), per **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**.
 - **Fasting**: 16:8 (10 AM–6 PM) default; 12:12 (8 AM–8 PM) for high-fatigue days, with alarms for meal timing.
@@ -64,6 +65,12 @@ This ADHD-friendly guide provides the Week 1 meal schedule for the MS-Supportive
 ## Notes
 - **Plan B**: Substitute canned vegetables (e.g., zucchini, broccoli, sweet potato), canned fish (e.g., mackerel), and quinoa (100g, ~2.8g fiber) for rice to reduce costs (~$84.59–$95.39). Omit almond milk, almonds, reduce salmon (3 times/week), rely on sun exposure (10–15 min/day) for vitamin D.
 - **Nutrient Boost**: Increased salmon (5 times/week), pumpkin seeds (30g/day), added almonds (Plan A, 4 times/week), sweet potato (3 times/week), fortified almond milk (Plan A) for magnesium (~350–400 mg/day), potassium (~2200–2800 mg/day), vitamin D (~600–700 IU/day), per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+- **For Pregnant/Lactating Women (including teenagers)**:
+  - Increase protein by adding +50g salmon or +100g tofu to lunches/dinners.
+  - Add 100g lentils (soaked, ~181 mcg folate) or 100g broccoli (~63 mcg folate) to lunches for folate.
+  - Include 100g sardines (~2.9 mg iron, ~383 mg calcium) 3–4 times/week.
+  - Add 150 ml kefir (~180 mg calcium) to snacks or breakfast.
+  - Track in **18 - MS-Supportive Weekly Meal Plan - Tracking** (e.g., “600 mcg folate, 27 mg iron, pregnant teen”).
 - **Fasting Flexibility**: For 12:12, shift meals to 8 AM (Breakfast), 11 AM (Lunch), 3 PM (Snack), 7 PM (Dinner), maintaining protein/leucine timing (**8 - MS-Supportive Weekly Meal Plan - Leucine/Protein Timing**).
 - **Tracking**: Log symptoms (e.g., “Less fatigue today”) and digestion in **18 - MS-Supportive Weekly Meal Plan - Tracking** to adjust portions (e.g., +100g vegetables for fiber).
 - **Customization**: Swap berries (e.g., raspberries for blueberries) or thiamine sources (e.g., Marmite/Vegemite for nutritional yeast) using **17 - MS-Supportive Weekly Meal Plan - Customizable Template**.
@@ -81,6 +88,7 @@ The Week 1 schedule delivers ~25g/day fiber, high-leucine proteins, thiamine-ric
 - **17 - MS-Supportive Weekly Meal Plan - Customizable Template**
 - **18 - MS-Supportive Weekly Meal Plan - Tracking**
 - **19 - MS-Supportive Weekly Meal Plan - Neuromuscular Signaling**
+- **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle**
 
 ## References
 - Bongiovanni, T., et al. (2021). Dietary fiber and gut microbiota. *Nutrition Reviews*, 79(6), 672–689. [https://academic.oup.com/nutritionreviews/article/79/6/672/5897345](https://academic.oup.com/nutritionreviews/article/79/6/672/5897345).
