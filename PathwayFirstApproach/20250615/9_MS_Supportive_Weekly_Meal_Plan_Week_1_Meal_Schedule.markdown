@@ -20,71 +20,100 @@ This ADHD-friendly guide provides the Week 1 meal schedule for the MS-Supportive
 ## Week 1 Meal Schedule
 
 ### Day 1
-- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min, boil water, pour juice/milk.*
-- **Lunch (1 PM)**: Zucchini (300g, boiled, **green**, ~3g fiber, insoluble), salmon (100g, DHA, ~2.5g leucine, ~570 IU vitamin D), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*
-- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health), almonds (15g, **crunchy**, ~40 mg magnesium, Plan A). *Prep: 2 min, pour.*
-- **Dinner (5 PM)**: Broccoli (300g, boiled, **green**, ~5g fiber, insoluble), eggs (2, ~12g protein, ~87 IU vitamin D), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*
+- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min, boil water, pour juice/milk.*  
+  - *Plan B*: Omit almond milk and lemon water; use water or green tea.  
+- **Lunch (1 PM)**: Zucchini (300g, boiled, **green**, ~3g fiber, insoluble), salmon (100g, DHA, ~2.5g leucine, ~570 IU vitamin D), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned zucchini, canned salmon, quinoa (100g, ~2.8g fiber) instead of rice.  
+- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health), almonds (15g, **crunchy**, ~40 mg magnesium, Plan A). *Prep: 2 min, pour.*  
+  - *Plan B*: Omit almonds; increase kefir to 200 ml.  
+- **Dinner (5 PM)**: Broccoli (300g, boiled, **green**, ~5g fiber, insoluble), eggs (2, ~12g protein, ~87 IU vitamin D), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned broccoli.
 
 ### Day 2
-- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*
-- **Lunch (1 PM)**: Sweet potato (200g, boiled, **orange**, ~4g fiber, insoluble, ~694 mg potassium), salmon (100g, DHA, ~2.5g leucine, ~570 IU vitamin D), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*
-- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health). *Prep: 2 min.*
-- **Dinner (5 PM)**: Asparagus (200g, boiled, **green**, ~2g fiber, insoluble), cod (100g, ~2.3g leucine), white rice (100g, ~0.4g fiber), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*
+- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*  
+  - *Plan B*: Omit almond milk and lemon water; use water or green tea.  
+- **Lunch (1 PM)**: Sweet potato (200g, boiled, **orange**, ~4g fiber, insoluble, ~694 mg potassium), salmon (100g, DHA, ~2.5g leucine, ~570 IU vitamin D), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned sweet potato, canned salmon, quinoa (100g, ~2.8g fiber).  
+- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health). *Prep: 2 min.*  
+- **Dinner (5 PM)**: Asparagus (200g, boiled, **green**, ~2g fiber, insoluble), cod (100g, ~2.3g leucine), white rice (100g, ~0.4g fiber), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned asparagus, canned cod, quinoa (100g, ~2.8g fiber).
 
 ### Day 3
-- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*
-- **Lunch (1 PM)**: Broccoli (300g, boiled, **green**, ~5g fiber, insoluble), salmon (100g, DHA, ~2.5g leucine, ~570 IU vitamin D), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*
-- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health), almonds (15g, **crunchy**, ~40 mg magnesium, Plan A). *Prep: 2 min.*
-- **Dinner (5 PM)**: Zucchini (300g, boiled, **green**, ~3g fiber, insoluble), eggs (2, ~12g protein, ~87 IU vitamin D), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*
+- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*  
+  - *Plan B*: Omit almond milk and lemon water; use water or green tea.  
+- **Lunch (1 PM)**: Broccoli (300g, boiled, **green**, ~5g fiber, insoluble), salmon (100g, DHA, ~2.5g leucine, ~570 IU vitamin D), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned broccoli, canned salmon, quinoa (100g, ~2.8g fiber).  
+- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health), almonds (15g, **crunchy**, ~40 mg magnesium, Plan A). *Prep: 2 min.*  
+  - *Plan B*: Omit almonds; increase kefir to 200 ml.  
+- **Dinner (5 PM)**: Zucchini (300g, boiled, **green**, ~3g fiber, insoluble), eggs (2, ~12g protein, ~87 IU vitamin D), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned zucchini.
 
 ### Day 4
-- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*
-- **Lunch (1 PM)**: Sweet potato (200g, boiled, **orange**, ~4g fiber, insoluble, ~694 mg potassium), mackerel (100g, DHA, ~2.5g leucine), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*
-- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health). *Prep: 2 min.*
-- **Dinner (5 PM)**: Asparagus (200g, boiled, **green**, ~2g fiber, insoluble), cod (100g, ~2.3g leucine), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*
+- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*  
+  - *Plan B*: Omit almond milk and lemon water; use water or green tea.  
+- **Lunch (1 PM)**: Sweet potato (200g, boiled, **orange**, ~4g fiber, insoluble, ~694 mg potassium), mackerel (100g, DHA, ~2.5g leucine), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned sweet potato, canned mackerel, quinoa (100g, ~2.8g fiber).  
+- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health). *Prep: 2 min.*  
+- **Dinner (5 PM)**: Asparagus (200g, boiled, **green**, ~2g fiber, insoluble), cod (100g, ~2.3g leucine), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned asparagus, canned cod, quinoa (100g, ~2.8g fiber).
 
 ### Day 5
-- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*
-- **Lunch (1 PM)**: Zucchini (300g, boiled, **green**, ~3g fiber, insoluble), salmon (100g, DHA, ~2.5g leucine, ~570 IU vitamin D), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*
-- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health), almonds (15g, **crunchy**, ~40 mg magnesium, Plan A). *Prep: 2 min.*
-- **Dinner (5 PM)**: Broccoli (300g, boiled, **green**, ~5g fiber, insoluble), eggs (2, ~12g protein, ~87 IU vitamin D), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*
+- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*  
+  - *Plan B*: Omit almond milk and lemon water; use water or green tea.  
+- **Lunch (1 PM)**: Zucchini (300g, boiled, **green**, ~3g fiber, insoluble), salmon (100g, DHA, ~2.5g leucine, ~570 IU vitamin D), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned zucchini, canned salmon, quinoa (100g, ~2.8g fiber).  
+- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health), almonds (15g, **crunchy**, ~40 mg magnesium, Plan A). *Prep: 2 min.*  
+  - *Plan B*: Omit almonds; increase kefir to 200 ml.  
+- **Dinner (5 PM)**: Broccoli (300g, boiled, **green**, ~5g fiber, insoluble), eggs (2, ~12g protein, ~87 IU vitamin D), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned broccoli.
 
 ### Day 6
-- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*
-- **Lunch (1 PM)**: Sweet potato (200g, boiled, **orange**, ~4g fiber, insoluble, ~694 mg potassium), cod (100g, ~2.3g leucine), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*
-- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), dark chocolate (20g, **comfort**, dopamine). *Prep: 2 min.*
-- **Dinner (5 PM)**: Asparagus (200g, boiled, **green**, ~2g fiber, insoluble), mackerel (100g, DHA, ~2.5g leucine), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*
+- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*  
+  - *Plan B*: Omit almond milk and lemon water; use water or green tea.  
+- **Lunch (1 PM)**: Sweet potato (200g, boiled, **orange**, ~4g fiber, insoluble, ~694 mg potassium), cod (100g, ~2.3g leucine), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned sweet potato, canned cod, quinoa (100g, ~2.8g fiber).  
+- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), dark chocolate (20g, **comfort**, dopamine). *Prep: 2 min.*  
+  - *Plan B*: Omit dark chocolate; use 100g blueberries or 150 ml kefir.  
+- **Dinner (5 PM)**: Asparagus (200g, boiled, **green**, ~2g fiber, insoluble), mackerel (100g, DHA, ~2.5g leucine), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned asparagus, canned mackerel, quinoa (100g, ~2.8g fiber).
 
 ### Day 7
-- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*
-- **Lunch (1 PM)**: Broccoli (300g, boiled, **green**, ~5g fiber, insoluble), salmon (100g, DHA, ~2.5g leucine, ~570 IU vitamin D), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*
-- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health), almonds (15g, **crunchy**, ~40 mg magnesium, Plan A). *Prep: 2 min.*
-- **Dinner (5 PM)**: Zucchini (300g, boiled, **green**, ~3g fiber, insoluble), eggs (2, ~12g protein, ~87 IU vitamin D), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*
+- **Breakfast (10 AM)**: Green tea (1 cup, **calming**, FOXO3), banana (120g, **sweet**, ~3g fiber, soluble), fortified almond milk (100 ml, **creamy**, ~100 IU vitamin D, Plan A), lemon water (1 tbsp juice, 250 ml, **refreshing**, rinse mouth). *Prep: 2 min.*  
+  - *Plan B*: Omit almond milk and lemon water; use water or green tea.  
+- **Lunch (1 PM)**: Broccoli (300g, boiled, **green**, ~5g fiber, insoluble), salmon (100g, DHA, ~2.5g leucine, ~570 IU vitamin D), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned broccoli, canned salmon, quinoa (100g, ~2.8g fiber).  
+- **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health), almonds (15g, **crunchy**, ~40 mg magnesium, Plan A). *Prep: 2 min.*  
+  - *Plan B*: Omit almonds; increase kefir to 200 ml.  
+- **Dinner (5 PM)**: Zucchini (300g, boiled, **green**, ~3g fiber, insoluble), eggs (2, ~12g protein, ~87 IU vitamin D), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*  
+  - *Plan B*: Use canned zucchini.
 
 ## Daily Prep Guide
 
 To ensure food safety and nutrient quality, follow these daily preparation tasks, tailored to fit your fasting schedule (e.g., 16:8 with 10 AM–6 PM eating window):
 
 - **During Fasting Hours (e.g., before 10 AM)**:  
-  - **Grains**: Cook 100–150g white rice for the day’s meals (10–15 min).  
-  - **Vegetables**: Boil 200–300g vegetables (e.g., zucchini, broccoli, sweet potato, asparagus) for 7–10 minutes to reduce antinutrients.  
+  - **Grains**: Cook 100–150g white rice (Plan A) or quinoa (Plan B) for the day’s meals (10–15 min).  
+  - **Vegetables**: Boil 200–300g vegetables (e.g., zucchini, broccoli, sweet potato, asparagus; use canned for Plan B) for 7–10 minutes to reduce antinutrients.  
   - **Seeds/Nuts**: Soak 15g flaxseeds or 30g pumpkin seeds for 8 hours if not pre-soaked (start early morning).  
 
 - **Just Before Eating Window (e.g., 9:30 AM)**:  
-  - **Proteins**: Cook fresh fish (e.g., 100g salmon, mackerel, or cod) or eggs by baking, sautéing, or boiling (10–15 min). For canned fish (e.g., mackerel), open only on the day of use.  
-  - **Delicate Items**: Slice 100g avocado and lemon (for 1 tbsp juice) fresh to avoid oxidation (~5 min).  
+  - **Proteins**: Cook fresh fish (e.g., 100g salmon, mackerel, cod; use canned for Plan B) or eggs by baking, sautéing, or boiling (10–15 min).  
+  - **Delicate Items (Plan A only)**: Slice 100g avocado and lemon (for 1 tbsp juice) fresh to avoid oxidation (~5 min).  
 
 - **Storage Tips**:  
   - Store all prepped items in airtight containers and refrigerate within 2 hours of cooking.  
   - Label containers with the date (e.g., “Zucchini – June 15”) to track freshness.  
 
 - **Nutrient Preservation and Safety**:  
-  - Prepare fish fresh daily to avoid reheating risks.  
-  - Slice delicate items (e.g., avocado, lemon) daily for maximum nutrient retention.  
-  - If using canned fish, open only when needed to prevent oxidation.  
+  - Prepare fish fresh daily (Plan A) or use freshly opened canned fish (Plan B) to avoid reheating risks.  
+  - Slice delicate items (avocado, lemon) daily for Plan A; Plan B omits these.  
+  - If using canned fish (Plan B), open only when needed to prevent oxidation.  
 
 ## Notes
-- **Plan B**: Substitute canned vegetables (e.g., zucchini, broccoli, sweet potato), canned fish (e.g., mackerel), and quinoa (100g, ~2.8g fiber) for rice to reduce costs (~$84.59–$95.39). Omit almond milk, almonds, reduce salmon (3 times/week), rely on sun exposure (10–15 min/day) for vitamin D.
+- **Plan B Adjustments**:
+  - **Substitutions**: Use canned vegetables (zucchini, broccoli, sweet potato, asparagus), canned fish (salmon, mackerel, cod), and quinoa instead of rice, per **10 - MS-Supportive Weekly Meal Plan - Week 1 Shopping List**.
+  - **Omissions**: Plan B excludes avocado, almonds, fortified almond milk, lemon water, and dark chocolate. Replace almond milk and lemon water with water or green tea; increase kefir or blueberries for snacks.
+  - **Cost**: ~$84.59–$95.39, compared to Plan A’s ~$135.93–$141.60.
 - **Nutrient Boost**: Increased salmon (5 times/week), pumpkin seeds (30g/day), added almonds (Plan A, 4 times/week), sweet potato (3 times/week), fortified almond milk (Plan A) for magnesium (~350–400 mg/day), potassium (~2200–2800 mg/day), vitamin D (~600–700 IU/day), per **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
 - **For Pregnant/Lactating Women (including teenagers)**:
   - Increase protein by adding +50g salmon or +100g tofu to lunches/dinners.
