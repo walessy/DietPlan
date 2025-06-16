@@ -15,7 +15,6 @@ This ADHD-friendly guide provides the Week 1 meal schedule for the MS-Supportive
 - **Goal**: Deliver ~115 g protein/day (Plan A, ~2.5–3.5 g leucine/meal), ~100 g/day (Plan B, ~2.0–3.0 g leucine/meal), ~1.5–2.0 mg/day thiamine (Plan A), ~1.0–1.5 mg/day (Plan B), ~25g/day fiber, ~350–400 mg/day magnesium, ~2200–2800 mg/day potassium, and ~600–700 IU/day vitamin D, activating 16 pathways (e.g., autophagy, neuroprotection) with no-chicken proteins.
 - **Personalization**: Adjust portions for sex, age, and life cycle. For pregnant and lactating women, including teenagers, increase protein (~125–140 g/day), fiber (~28–29 g/day), folate (600–500 mcg/day), iron (27–10 mg/day), and calcium (1000–1300 mg/day). See **20 - MS-Supportive Weekly Meal Plan - Nutritional Needs by Sex, Age, and Life Cycle** for detailed guidance.
 - **Key Foods**: Zucchini, broccoli, sweet potato, asparagus; mackerel, salmon, cod, eggs; blueberries, bananas, avocado, flaxseeds, pumpkin seeds, almonds; white rice, kefir, fortified almond milk, lemon water.
-- **Prep**: Sunday batch prep (1h 10m) boils vegetables (7–10 min, ~40% oxalate reduction), soaks seeds/nuts (8h, ~50% phytate reduction), bakes proteins, portions lemon slices; daily microwave reheating (2–5 min), per **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**.
 - **Fasting**: 16:8 (10 AM–6 PM) default; 12:12 (8 AM–8 PM) for high-fatigue days, with alarms for meal timing.
 
 ## Week 1 Meal Schedule
@@ -61,6 +60,28 @@ This ADHD-friendly guide provides the Week 1 meal schedule for the MS-Supportive
 - **Lunch (1 PM)**: Broccoli (300g, boiled, **green**, ~5g fiber, insoluble), salmon (100g, DHA, ~2.5g leucine, ~570 IU vitamin D), white rice (100g, ~0.4g fiber), pumpkin seeds (30g, **crunchy**, ~160 mg magnesium). *Prep: 3 min, microwave.*
 - **Snack (3 PM)**: Blueberries (100g, **purple**, ~1.4g fiber, soluble), kefir (150 ml, **creamy**, gut health), almonds (15g, **crunchy**, ~40 mg magnesium, Plan A). *Prep: 2 min.*
 - **Dinner (5 PM)**: Zucchini (300g, boiled, **green**, ~3g fiber, insoluble), eggs (2, ~12g protein, ~87 IU vitamin D), flaxseeds (15g, soaked, ~4g fiber, soluble). *Prep: 3 min, microwave.*
+
+## Daily Prep Guide
+
+To ensure food safety and nutrient quality, follow these daily preparation tasks, tailored to fit your fasting schedule (e.g., 16:8 with 10 AM–6 PM eating window):
+
+- **During Fasting Hours (e.g., before 10 AM)**:  
+  - **Grains**: Cook 100–150g white rice for the day’s meals (10–15 min).  
+  - **Vegetables**: Boil 200–300g vegetables (e.g., zucchini, broccoli, sweet potato, asparagus) for 7–10 minutes to reduce antinutrients.  
+  - **Seeds/Nuts**: Soak 15g flaxseeds or 30g pumpkin seeds for 8 hours if not pre-soaked (start early morning).  
+
+- **Just Before Eating Window (e.g., 9:30 AM)**:  
+  - **Proteins**: Cook fresh fish (e.g., 100g salmon, mackerel, or cod) or eggs by baking, sautéing, or boiling (10–15 min). For canned fish (e.g., mackerel), open only on the day of use.  
+  - **Delicate Items**: Slice 100g avocado and lemon (for 1 tbsp juice) fresh to avoid oxidation (~5 min).  
+
+- **Storage Tips**:  
+  - Store all prepped items in airtight containers and refrigerate within 2 hours of cooking.  
+  - Label containers with the date (e.g., “Zucchini – June 15”) to track freshness.  
+
+- **Nutrient Preservation and Safety**:  
+  - Prepare fish fresh daily to avoid reheating risks.  
+  - Slice delicate items (e.g., avocado, lemon) daily for maximum nutrient retention.  
+  - If using canned fish, open only when needed to prevent oxidation.  
 
 ## Notes
 - **Plan B**: Substitute canned vegetables (e.g., zucchini, broccoli, sweet potato), canned fish (e.g., mackerel), and quinoa (100g, ~2.8g fiber) for rice to reduce costs (~$84.59–$95.39). Omit almond milk, almonds, reduce salmon (3 times/week), rely on sun exposure (10–15 min/day) for vitamin D.
