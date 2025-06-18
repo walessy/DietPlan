@@ -1,67 +1,69 @@
 ---
 title: 10.A - MS-Supportive Weekly Meal Plan - Week 1 Plan A Shopping List
-date: June 16, 2025
-Time: 10:43 AM BST
-author:
-  Amos Wales
+date: June 18, 2025
+Time: 04:08 PM BST
+author: Amos Wales
 ---
 
 # Week 1 Plan A Shopping List
 
-This shopping list provides the ingredients needed for the Week 1 Plan A meal schedule (**9.A - MS-Supportive Weekly Meal Plan - Week 1 Plan A**) of the MS-Supportive Weekly Meal Plan, designed to support MS and ADHD with 16:8 fasting, ~25g/day fiber, and low-antinutrient foods. The list ensures you have all items for simple, dexterity-friendly meals with **colorful** plates and **creamy/crunchy** textures. Quantities are calculated for one person for one week, based on the meal schedule in **9.A**.
+This shopping list provides ingredients for the Week 1 Plan A meal schedule (**9.A**), designed for MS and ADHD with 16:8 fasting, ~115g/day protein, ~31g/day fiber, and low-antinutrient foods. Quantities are for one person, adjusted to supermarket unit sizes to minimize waste.
 
 ## Shopping List
 
 ### Vegetables
-- **Zucchini (frozen)**: 1.5 kg (5 meals × 300g)
-- **Broccoli (frozen)**: 1.5 kg (5 meals × 300g)
-- **Sweet potato**: 1.4 kg (3 meals × 200g + extra for spoilage)
-- **Asparagus (frozen)**: 1 kg (3 meals × 200g + extra)
+- **Zucchini (fresh or frozen)**: 1500g (3 × 500g packs, ~200g/meal)
+- **Broccoli (fresh or frozen)**: 1000g (2 × 500g packs, ~300g/meal)
+- **Asparagus (fresh or frozen)**: 1000g (2 × 500g packs, ~300g/meal)
+- **Green beans (fresh or frozen)**: 500g (1 × 500g pack, ~300g/meal)
+- **Sweet potato**: 500g (2 × 250g units, ~200g/meal)
 
 ### Proteins
-- **Salmon (fresh or frozen)**: 900g (5 meals × 100g + extra)
-- **Mackerel (fresh or frozen)**: 500g (2 meals × 100g + extra)
-- **Cod (fresh or frozen)**: 500g (2 meals × 100g + extra)
-- **Eggs**: 12 (5 meals × 2 eggs)
+- **Salmon (fresh or frozen)**: 600g (2 × 300g fillets, ~100g/meal)
+- **Shrimp (fresh or frozen)**: 400g (2 × 200g packs, ~100g/meal)
+- **Tempeh**: 600g (2 × 300g packs, ~100g/meal)
+- **Oyster mushrooms**: 300g (1 × 300g pack, ~100g/meal)
 
 ### Fruits
-- **Bananas**: 840g (7 breakfasts × 120g)
-- **Blueberries (fresh or frozen)**: 700g (7 snacks × 100g)
-- **Avocado**: 400g (3 lunches × 100g + extra for ripeness)
+- **Bananas**: 1000g (1 × 1kg bunch, ~120g/meal)
+- **Raspberries (fresh or frozen)**: 1500g (3 × 500g packs, ~214g/snack)
+- **Avocado**: 400g (2 × 200g units, ~100g/meal)
 
 ### Seeds/Nuts
-- **Flaxseeds**: 100g (5 dinners × 15g + extra for soaking)
-- **Pumpkin seeds**: 210g (7 meals × 30g)
-- **Almonds**: 105g (4 snacks × 15g + extra)
+- **Flaxseeds**: 250g (1 × 250g bag, ~35g/day)
+- **Almonds**: 250g (1 × 250g bag, ~30g/meal)
+- **Pumpkin seeds**: 100g (1 × 100g bag, ~15g/snack)
 
 ### Grains
-- **White rice**: 1 kg (7 meals × 100g + extra)
+- **White rice**: 1 kg (1 × 1kg bag, ~100g/meal)
 
 ### Dairy/Alternatives
-- **Kefir**: 1.05 L (7 snacks × 150 ml)
-- **Fortified almond milk**: 700 ml (7 breakfasts × 100 ml)
+- **Kefir**: 2 L (2 × 1L cartons, ~285 ml/snack)
+- **Fortified almond milk**: 1 L (1 × 1L carton, ~100 ml/meal)
 
 ### Beverages
-- **Green tea bags**: 20 (7 breakfasts × 1 bag + extra)
-- **Lemon juice (or 7 fresh lemons)**: 500 ml (7 breakfasts × 1 tbsp)
+- **Green tea bags**: 20 (1 × 20-bag box)
+- **Lemon juice (or 7 fresh lemons)**: 500 ml (1 × 500 ml bottle)
+- **Tart cherry juice**: 500 ml (1 × 500 ml bottle, ~100 ml/snack)
 
 ### Other
-- **Dark chocolate (70%+ cocoa)**: 20g (1 snack × 20g)
+- **Dark chocolate (70%+ cocoa)**: 100g (1 × 100g bar, ~20g/snack)
 
 ## Notes
-- **Cost Estimate**: ~$135.93–$141.60 for premium ingredients, depending on local prices and sourcing (fresh vs. frozen).
-- **Storage Tips**: Store perishable items (e.g., salmon, avocado) in the fridge or freezer. Keep dry goods (e.g., rice, seeds) in airtight containers in a cool, dry place.
-- **Sourcing Tips**: Opt for frozen vegetables and fish to reduce prep time and extend shelf life. Check for fortified almond milk with vitamin D.
-- **Customization**: Adjust quantities for multiple people or swap ingredients (e.g., raspberries for blueberries) using **17 - MS-Supportive Weekly Meal Plan - Customizable Template**.
-- **Prep Alignment**: Follow the **Daily Prep Guide** in **9.A** to prepare ingredients (e.g., boil vegetables, cook fish fresh daily, slice avocado/lemon).
+- **Cost Estimate**: ~$143.93–$152.60, reflecting kefir (2L, +$2–3), flaxseeds (250g, +$1–2), raspberries (1500g, +$4–5).
+- **Storage Tips**: Refrigerate kefir (use within 7–14 days), freeze extra raspberries (6–12 months). Store rice, seeds in airtight containers. Keep salmon, avocado in fridge/freezer (use within 3–5 days or 6 months).
+- **Sourcing Tips**: Choose frozen vegetables/seafood, fortified almond milk with vitamin D, unsweetened tart cherry juice, raw kefir.
+- **Bowel Health**: Kefir, flaxseeds, raspberries soften stools. Ensure 2000 ml/day water (**9.A**).
+- **Customization**: Swap raspberries for blueberries (1500g) using **17 - Customizable Template**. Track stool changes in **18 - Tracking**.
+- **Lactulose**: Purchase separately (prescription), take 15–30 ml at 7 PM (**9.A**).
 
-For detailed meal preparation, see **9.A - MS-Supportive Weekly Meal Plan - Week 1 Plan A**. For nutritional guidance, refer to:
-- **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**
-- **5 - MS-Supportive Weekly Meal Plan - Nerve Health**
-- **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**
+For meal prep, see **9.A**. For guidance, refer to:
+- **1 - Diet Plan Summary and Tips**
+- **5 - Nerve Health**
+- **19 - Neuromuscular Signaling**
 
 ## References
 - USDA FoodData Central. (2018). [https://fdc.nal.usda.gov/](https://fdc.nal.usda.gov/).
-For additional references, see **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+For additional references, see **1 - Diet Plan Summary and Tips**.
 
 ---

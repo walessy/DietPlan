@@ -1,61 +1,60 @@
 ---
 title: 12.B - MS-Supportive Weekly Meal Plan - Week 2 Plan B Shopping List
-date: June 16, 2025
-Time: 10:48 AM BST
-author:
-  Amos Wales
+date: June 18, 2025
+Time: 04:08 PM BST
+author: Amos Wales
 ---
 
 # Week 2 Plan B Shopping List
 
-This shopping list provides the ingredients needed for the Week 2 Plan B meal schedule (**11.B - MS-Supportive Weekly Meal Plan - Week 2 Plan B**) of the MS-Supportive Weekly Meal Plan, designed to support MS and ADHD with 16:8 fasting, ~25g/day fiber, and low-antinutrient foods. The list ensures you have all items for simple, dexterity-friendly meals with **colorful** plates and **creamy/crunchy** textures. Quantities are calculated for one person for one week, based on the meal schedule in **11.B**.
+This shopping list provides ingredients for the Week 2 Plan B meal schedule (**11.B**), designed for MS and ADHD with 16:8 fasting, ~100g/day protein, ~31g/day fiber, and low-antinutrient foods. Quantities are for one person, adjusted to supermarket unit sizes to minimize waste.
 
 ## Shopping List
 
 ### Vegetables
-- **Canned parsnip**: 1.5 kg (5 meals × 300g)
-- **Canned Brussels sprouts**: 1.5 kg (5 meals × 300g)
-- **Canned turnip**: 1 kg (2 meals × 300g + extra)
-- **Canned celery root**: 1 kg (2 meals × 300g + extra)
+- **Canned cauliflower**: 1600g (4 × 400g cans, ~200g drained/meal)
+- **Canned radish**: 1200g (3 × 400g cans, ~300g drained/meal)
+- **Canned pattypan squash**: 800g (2 × 400g cans, ~300g drained/meal)
+- **Canned artichoke hearts**: 400g (1 × 400g can, ~300g drained)
+- **Canned sweet potato**: 400g (1 × 400g can, ~200g drained)
 
 ### Proteins
-- **Canned salmon**: 500g (3 meals × 100g + extra)
-- **Canned shrimp**: 500g (2 meals × 100g + extra)
-- **Canned tuna**: 500g (2 meals × 100g + extra)
-- **Turkey (fresh or ground)**: 500g (2 meals × 100g + extra)
-- **Tempeh**: 500g (2 meals × 100g + extra)
+- **Canned tuna**: 400g (2 × 200g cans, ~100g drained/meal)
+- **Canned salmon**: 400g (2 × 200g cans, ~100g drained/meal)
+- **Tempeh**: 600g (2 × 300g packs, ~100g/meal)
 
 ### Fruits
-- **Bananas**: 840g (7 breakfasts × 120g)
-- **Raspberries (fresh or frozen)**: 700g (7 snacks × 100g)
+- **Bananas**: 1000g (1 × 1kg bunch, ~120g/meal)
+- **Raspberries (frozen)**: 1500g (3 × 500g bags, ~214g/snack)
 
 ### Seeds/Nuts
-- **Flaxseeds**: 100g (5 dinners × 15g + extra for soaking)
-- **Pumpkin seeds**: 140g (7 meals × 20g)
+- **Flaxseeds**: 250g (1 × 250g bag, ~35g/day)
+- **Pumpkin seeds**: 200g (1 × 200g bag, ~20g/meal)
 
 ### Grains
-- **Quinoa**: 1 kg (7 meals × 100g + extra)
+- **Quinoa**: 1 kg (1 × 1kg bag, ~100g/meal)
 
 ### Dairy/Alternatives
-- **Kefir**: 1.4 L (7 snacks × 200 ml)
+- **Kefir**: 2 L (2 × 1L cartons, ~285 ml/snack)
 
 ### Beverages
-- **Green tea bags**: 20 (7 breakfasts × 1 bag + extra)
+- **Green tea bags**: 20 (1 × 20-bag box)
 
 ## Notes
-- **Cost Estimate**: ~$84.59–$95.39 for budget-friendly ingredients, depending on local prices and sourcing (canned vegetables/fish, quinoa).
-- **Storage Tips**: Store canned goods in a cool, dry place. Refrigerate opened cans in airtight containers and use within 2–3 days. Keep dry goods (e.g., quinoa, seeds) in airtight containers.
-- **Sourcing Tips**: Choose low-sodium or no-added-salt canned vegetables/fish to reduce sodium intake. Opt for canned fish in water or olive oil.
-- **Customization**: Adjust quantities for multiple people or swap ingredients (e.g., blueberries for raspberries) using **17 - MS-Supportive Weekly Meal Plan - Customizable Template**.
-- **Prep Alignment**: Follow the **Daily Prep Guide** in **11.B** to prepare ingredients (e.g., heat canned vegetables briefly, open canned fish fresh daily).
+- **Cost Estimate**: ~$90.59–$106.39, reflecting kefir (2L, +$2–3), flaxseeds (250g, +$1–2), raspberries (1500g, ~$4–5).
+- **Storage Tips**: Refrigerate kefir (use within 7–14 days), freeze extra raspberries (6–12 months). Store canned goods, quinoa, seeds in cool, dry place. Use opened cans within 2–3 days (airtight containers).
+- **Sourcing Tips**: Choose low-sodium canned vegetables/fish, fish in water/olive oil, raw kefir for probiotics.
+- **Bowel Health**: Kefir, flaxseeds, raspberries soften stools. Ensure 2000 ml/day water (**11.B**).
+- **Customization**: Swap raspberries for blueberries (1500g) using **17 - Customizable Template**. Track stool changes in **18 - Tracking**.
+- **Lactulose**: Purchase separately (prescription), take 15–30 ml at 7 PM (**11.B**).
 
-For detailed meal preparation, see **11.B - MS-Supportive Weekly Meal Plan - Week 2 Plan B**. For nutritional guidance, refer to:
-- **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**
-- **5 - MS-Supportive Weekly Meal Plan - Nerve Health**
-- **6 - MS-Supportive Weekly Meal Plan - Managing Antinutrients for Optimal Nutrition**
+For meal prep, see **11.B**. For guidance, refer to:
+- **1 - Diet Plan Summary and Tips**
+- **5 - Nerve Health**
+- **19 - Neuromuscular Signaling**
 
 ## References
 - USDA FoodData Central. (2018). [https://fdc.nal.usda.gov/](https://fdc.nal.usda.gov/).
-For additional references, see **1 - MS-Supportive Weekly Meal Plan - Diet Plan Summary and Tips**.
+For additional references, see **1 - Diet Plan Summary and Tips**.
 
 ---
