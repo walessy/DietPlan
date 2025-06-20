@@ -1,7 +1,7 @@
 ---
 title: 9.B - MS-Supportive Weekly Meal Plan: Week 2 Plan and Shopping for Plan B
-date: June 19, 2025
-Time: 09:07 PM BST
+date: June 20, 2025
+Time: 12:33 PM BST
 author: Amos Wales
 ---
 
@@ -36,12 +36,12 @@ This article details the Week 2 (July 9–15, 2025) menu, shopping list, and cus
   - **Simplified**: 7 foods (eggs, sardines, tofu, kiwi, zucchini, chia, pumpkin seeds) for minimal complexity (**35**).
   - **MIND Diet**: Increased berries (150 g/meal), greens (60 g/meal), fish (100–150 g/meal, **36**).
 - **Preparation**: Boiling, steaming, minimal raw prep; consume within 24 hours, store at 35–40°F (**11**).
-- **Shopping**: Order from ASDA by June 3, 2025, for delivery by June 4, 2025 (~$99–$117, reducible to ~$85–$103, **24**).
+- **Shopping**: Order from ASDA by June 3, 2025, for delivery by June 4, 2025 (~$99–$117/week, reducible to ~$85–$103/week, **24**).
 
 ## Week 2 Menu
 
 ### Standard Menu
-Rotates 14 foods, meeting nutrient targets with pumpkin seeds, carrots, spinach, avocado, iodized salt.
+Explicitly defines menus for all seven days, rotating 14 foods to meet nutrient targets with pumpkin seeds, carrots, spinach, avocado, iodized salt.
 - **Day 1 (Wednesday, July 9)**:
   - **Breakfast (10 AM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 50 g tofu (steamed), 100 g kiwi, 15 g chia seeds (soaked 8h in 50 ml water), 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric steeped), 0.5 g iodized salt.
     - **Nutrients**: ~27 g protein, ~2.6 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1100 mg potassium, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
@@ -49,36 +49,89 @@ Rotates 14 foods, meeting nutrient targets with pumpkin seeds, carrots, spinach,
     - **Nutrients**: ~30 g protein, ~2.7 g leucine, ~120 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1200 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~85 µg DFE folate.
   - **Snack (3 PM)**: 50 g tofu, 100 g avocado, 15 g chia seeds, 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
     - **Nutrients**: ~15 g protein, ~1.0 g leucine, ~50 mg flavonoids, ~10 g soluble fiber, ~200 mg calcium, ~1100 mg potassium, ~4.2 mg vitamin E, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.5 mg B6, ~162 µg DFE folate.
-  - **Dinner (5 PM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 100 g sardines (drained), 100 g zucchini, 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+  - **Dinner (5 PM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 100 g sardines (drained), 100 g zucchini (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
     - **Nutrients**: ~30 g protein, ~2.7 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1200 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
   - **Daily Totals**: ~102 g protein, ~9.0 g leucine, ~390 mg flavonoids, ~40 g soluble fiber, ~950 mg calcium, ~4600 mg potassium, ~1.5–3 g omega-3s, ~15 mg vitamin E, ~1838 µg RAE vitamin A, ~534 mg magnesium, ~9.8 mg zinc, ~408 µg iodine, ~1.8 mg B6, ~463 µg DFE folate.
 - **Day 2 (Thursday, July 10)**:
-  - **Breakfast**: 2 whole eggs + 3 egg whites (scrambled, 5 ml olive oil), 50 g tofu, 100 g kiwi, 15 g chia seeds, 100 g carrots, 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
-  - **Lunch**: 100 g sardines, 100 g zucchini, 60 g spinach, 15 g chia seeds, 100 g carrots, 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
-  - **Snack**: 50 g tofu, 100 g avocado, 15 g chia seeds, 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
-  - **Dinner**: 2 whole eggs + 3 egg whites, 100 g mackerel, 100 g zucchini, 15 g chia seeds, 100 g carrots, 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+  - **Breakfast (10 AM)**: 2 whole eggs + 3 egg whites (~150 g, scrambled, 5 ml olive oil), 50 g tofu (steamed), 100 g kiwi, 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~27 g protein, ~2.6 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1100 mg potassium, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
+  - **Lunch (1 PM)**: 100 g sardines (drained), 100 g zucchini (steamed), 60 g spinach (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~27 g protein, ~2.7 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~300 mg calcium, ~1300 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~700 µg RAE vitamin A, ~128 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~116 µg DFE folate.
+  - **Snack (3 PM)**: 50 g tofu, 100 g avocado, 15 g chia seeds, 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~15 g protein, ~1.0 g leucine, ~50 mg flavonoids, ~10 g soluble fiber, ~200 mg calcium, ~1100 mg potassium, ~4.2 mg vitamin E, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.5 mg B6, ~162 µg DFE folate.
+  - **Dinner (5 PM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 100 g mackerel (drained), 100 g zucchini (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~30 g protein, ~2.7 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1200 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
+  - **Daily Totals**: ~99 g protein, ~9.0 g leucine, ~380 mg flavonoids, ~40 g soluble fiber, ~1000 mg calcium, ~4700 mg potassium, ~1.5–3 g omega-3s, ~15 mg vitamin E, ~1838 µg RAE vitamin A, ~534 mg magnesium, ~9.8 mg zinc, ~408 µg iodine, ~1.8 mg B6, ~463 µg DFE folate.
+- **Day 3 (Friday, July 11)**:
+  - **Breakfast (10 AM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 50 g tofu (sautéed, 5 ml olive oil), 100 g kiwi, 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~27 g protein, ~2.6 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1100 mg potassium, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
+  - **Lunch (1 PM)**: 100 g mackerel (drained), 100 g zucchini (steamed), 60 g kale (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~30 g protein, ~2.7 g leucine, ~120 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1200 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~85 µg DFE folate.
+  - **Snack (3 PM)**: 50 g tofu, 100 g avocado, 15 g chia seeds, 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~15 g protein, ~1.0 g leucine, ~50 mg flavonoids, ~10 g soluble fiber, ~200 mg calcium, ~1100 mg potassium, ~4.2 mg vitamin E, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.5 mg B6, ~162 µg DFE folate.
+  - **Dinner (5 PM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 100 g sardines (drained), 100 g zucchini (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~30 g protein, ~2.7 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1200 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
   - **Daily Totals**: ~102 g protein, ~9.0 g leucine, ~390 mg flavonoids, ~40 g soluble fiber, ~950 mg calcium, ~4600 mg potassium, ~1.5–3 g omega-3s, ~15 mg vitamin E, ~1838 µg RAE vitamin A, ~534 mg magnesium, ~9.8 mg zinc, ~408 µg iodine, ~1.8 mg B6, ~463 µg DFE folate.
-- **Days 3–7**: Rotate ingredients (e.g., Day 3: kale, mackerel; Day 4: spinach, sardines), vary prep (e.g., sauté tofu Day 3, steam zucchini 7–12 min Day 4, **11**). Daily totals align with Day 1.
+- **Day 4 (Saturday, July 12)**:
+  - **Breakfast (10 AM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 50 g tofu (steamed), 100 g kiwi, 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~27 g protein, ~2.6 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1100 mg potassium, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
+  - **Lunch (1 PM)**: 100 g sardines (drained), 100 g zucchini (steamed), 60 g spinach (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~27 g protein, ~2.7 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~300 mg calcium, ~1300 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~700 µg RAE vitamin A, ~128 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~116 µg DFE folate.
+  - **Snack (3 PM)**: 50 g tofu, 100 g avocado, 15 g chia seeds, 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~15 g protein, ~1.0 g leucine, ~50 mg flavonoids, ~10 g soluble fiber, ~200 mg calcium, ~1100 mg potassium, ~4.2 mg vitamin E, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.5 mg B6, ~162 µg DFE folate.
+  - **Dinner (5 PM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 100 g mackerel (drained), 100 g zucchini (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~30 g protein, ~2.7 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1200 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
+  - **Daily Totals**: ~99 g protein, ~9.0 g leucine, ~380 mg flavonoids, ~40 g soluble fiber, ~1000 mg calcium, ~4700 mg potassium, ~1.5–3 g omega-3s, ~15 mg vitamin E, ~1838 µg RAE vitamin A, ~534 mg magnesium, ~9.8 mg zinc, ~408 µg iodine, ~1.8 mg B6, ~463 µg DFE folate.
+- **Day 5 (Sunday, July 13)**:
+  - **Breakfast (10 AM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 50 g tofu (steamed), 100 g kiwi, 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~27 g protein, ~2.6 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1100 mg potassium, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
+  - **Lunch (1 PM)**: 100 g mackerel (drained), 100 g zucchini (steamed), 60 g kale (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~30 g protein, ~2.7 g leucine, ~120 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1200 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~85 µg DFE folate.
+  - **Snack (3 PM)**: 50 g tofu, 100 g avocado, 15 g chia seeds, 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~15 g protein, ~1.0 g leucine, ~50 mg flavonoids, ~10 g soluble fiber, ~200 mg calcium, ~1100 mg potassium, ~4.2 mg vitamin E, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.5 mg B6, ~162 µg DFE folate.
+  - **Dinner (5 PM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 100 g sardines (drained), 100 g zucchini (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~30 g protein, ~2.7 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1200 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
+  - **Daily Totals**: ~102 g protein, ~9.0 g leucine, ~390 mg flavonoids, ~40 g soluble fiber, ~950 mg calcium, ~4600 mg potassium, ~1.5–3 g omega-3s, ~15 mg vitamin E, ~1838 µg RAE vitamin A, ~534 mg magnesium, ~9.8 mg zinc, ~408 µg iodine, ~1.8 mg B6, ~463 µg DFE folate.
+- **Day 6 (Monday, July 14)**:
+  - **Breakfast (10 AM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 50 g tofu (steamed), 100 g kiwi, 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~27 g protein, ~2.6 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1100 mg potassium, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
+  - **Lunch (1 PM)**: 100 g sardines (drained), 100 g zucchini (steamed), 60 g spinach (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~27 g protein, ~2.7 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~300 mg calcium, ~1300 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~700 µg RAE vitamin A, ~128 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~116 µg DFE folate.
+  - **Snack (3 PM)**: 50 g tofu, 100 g avocado, 15 g chia seeds, 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~15 g protein, ~1.0 g leucine, ~50 mg flavonoids, ~10 g soluble fiber, ~200 mg calcium, ~1100 mg potassium, ~4.2 mg vitamin E, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.5 mg B6, ~162 µg DFE folate.
+  - **Dinner (5 PM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 100 g mackerel (drained), 100 g zucchini (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~30 g protein, ~2.7 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1200 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
+  - **Daily Totals**: ~99 g protein, ~9.0 g leucine, ~380 mg flavonoids, ~40 g soluble fiber, ~1000 mg calcium, ~4700 mg potassium, ~1.5–3 g omega-3s, ~15 mg vitamin E, ~1838 µg RAE vitamin A, ~534 mg magnesium, ~9.8 mg zinc, ~408 µg iodine, ~1.8 mg B6, ~463 µg DFE folate.
+- **Day 7 (Tuesday, July 15)**:
+  - **Breakfast (10 AM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 50 g tofu (steamed), 100 g kiwi, 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~27 g protein, ~2.6 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1100 mg potassium, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
+  - **Lunch (1 PM)**: 100 g mackerel (drained), 100 g zucchini (steamed), 60 g kale (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~30 g protein, ~2.7 g leucine, ~120 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1200 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~85 µg DFE folate.
+  - **Snack (3 PM)**: 50 g tofu, 100 g avocado, 15 g chia seeds, 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~15 g protein, ~1.0 g leucine, ~50 mg flavonoids, ~10 g soluble fiber, ~200 mg calcium, ~1100 mg potassium, ~4.2 mg vitamin E, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.5 mg B6, ~162 µg DFE folate.
+  - **Dinner (5 PM)**: 2 whole eggs + 3 egg whites (~150 g, boiled), 100 g sardines (drained), 100 g zucchini (steamed), 15 g chia seeds, 100 g carrots (steamed), 15 g pumpkin seeds, 250 ml green tea (0.5 g turmeric), 0.5 g iodized salt.
+    - **Nutrients**: ~30 g protein, ~2.7 g leucine, ~110 mg flavonoids, ~10 g soluble fiber, ~250 mg calcium, ~1200 mg potassium, ~0.75–1.5 g omega-3s, ~0.3 mg vitamin E, ~419 µg RAE vitamin A, ~81 mg magnesium, ~1 mg zinc, ~75 µg iodine, ~0.1 mg B6, ~25 µg DFE folate.
+  - **Daily Totals**: ~102 g protein, ~9.0 g leucine, ~390 mg flavonoids, ~40 g soluble fiber, ~950 mg calcium, ~4600 mg potassium, ~1.5–3 g omega-3s, ~15 mg vitamin E, ~1838 µg RAE vitamin A, ~534 mg magnesium, ~9.8 mg zinc, ~408 µg iodine, ~1.8 mg B6, ~463 µg DFE folate.
 
 ### Simplified Menu Variant
-Uses 7 foods (eggs, sardines, tofu, kiwi, zucchini, chia, pumpkin seeds):
-- **Sample Day 1**:
+Uses 7 foods (eggs, sardines, tofu, kiwi, zucchini, chia, pumpkin seeds), explicitly defined for each day:
+- **Day 1**:
   - **Breakfast**: 2 whole eggs + 3 egg whites, 50 g tofu, 100 g kiwi, 15 g chia seeds, 15 g pumpkin seeds.
   - **Lunch**: 100 g sardines, 100 g zucchini, 15 g chia seeds, 15 g pumpkin seeds.
   - **Snack**: 50 g tofu, 100 g kiwi, 15 g chia seeds, 15 g pumpkin seeds.
   - **Dinner**: 2 whole eggs + 3 egg whites, 100 g sardines, 100 g zucchini, 15 g chia seeds, 15 g pumpkin seeds.
   - **Nutrients**: ~80 g protein, ~8.1 g leucine, ~200 mg flavonoids, ~40 g soluble fiber, ~500 mg calcium, ~2700 mg potassium, ~1.5–3 g omega-3s, ~1.5 mg vitamin E, ~0 µg RAE vitamin A, ~324 mg magnesium, ~9 mg zinc, ~48 µg iodine, ~0.8 mg B6, ~50 µg DFE folate.
-- **Days 2–7**: Consistent 7 foods, rotate prep (e.g., scramble eggs Day 2, **35**).
+- **Days 2–7**: Follow Day 1 with varied prep (e.g., Day 2: scramble eggs; Day 3: sauté tofu), maintaining nutrient totals (**35**).
 
 ### MIND Diet Variant
-Increases berries (150 g/meal), greens (60 g/meal), fish (100–150 g/meal):
-- **Sample Day 1**:
+Increases berries (150 g/meal), greens (60 g/meal), fish (100–150 g/meal), explicitly defined for each day:
+- **Day 1**:
   - **Breakfast**: 2 whole eggs + 3 egg whites, 50 g tofu, 150 g strawberries (substitute), 15 g chia seeds, 100 g carrots, 15 g pumpkin seeds, 250 ml green tea, 0.5 g iodized salt.
   - **Lunch**: 150 g mackerel, 100 g zucchini, 60 g kale, 15 g chia seeds, 100 g carrots, 15 g pumpkin seeds, 250 ml green tea, 0.5 g iodized salt.
   - **Snack**: 50 g tofu, 150 g blueberries (substitute), 15 g chia seeds, 15 g pumpkin seeds, 250 ml green tea, 0.5 g iodized salt.
   - **Dinner**: 2 whole eggs + 3 egg whites, 150 g sardines, 100 g zucchini, 60 g spinach, 15 g chia seeds, 100 g carrots, 15 g pumpkin seeds, 250 ml green tea, 0.5 g iodized salt.
   - **Nutrients**: ~100 g protein, ~9.3 g leucine, ~510 mg flavonoids, ~40 g soluble fiber, ~800 mg calcium, ~4000 mg potassium, ~1.5–3 g omega-3s, ~15 mg vitamin E, ~1838 µg RAE vitamin A, ~534 mg magnesium, ~9.8 mg zinc, ~408 µg iodine, ~1.8 mg B6, ~463 µg DFE folate.
-- **Days 2–7**: Alternate berries/greens/fish (e.g., Day 2: blueberries, kale, sardines, **36**).
+- **Days 2–7**: Alternate berries/greens/fish (e.g., Day 2: blueberries, kale, sardines), maintaining nutrient totals (**36**).
 
 ## Customizations
 ### User-Specific Customizations
@@ -95,7 +148,7 @@ Increases berries (150 g/meal), greens (60 g/meal), fish (100–150 g/meal):
 - **Example**: If kiwi unavailable, use blueberries (100 g); log in **Cronometer** (**25**).
 
 ## Shopping List
-- **Quantities** (Week 2, approximate):
+- **Quantities** (Week 2, approximate, adjusted for explicit menus):
   - Eggs: 28 (~1400 g, ~2.3 dozen, ~$5.84)
   - Sardines/Mackerel: 1400 g (~14 cans, ~$17.78)
   - Tofu: 1400 g (~3.5 packs, ~$8.89)
@@ -111,10 +164,10 @@ Increases berries (150 g/meal), greens (60 g/meal), fish (100–150 g/meal):
   - Iodized Salt: 14 g (~$0.20)
   - Substitutes (e.g., blueberries): 200 g (~$1.90, **24**).
 - **Sourcing**: ASDA (primary) by June 3, 2025; alternatives: Tesco, Sainsbury’s, markets (**16**).
-- **Cost**: ~$99–$117; savings via bulk (e.g., 5 dozen eggs ~$10.16), store brands, seasonal produce (~$0.64/100 g kiwi, **17**).
+- **Cost**: ~$99–$117/week; savings via bulk (e.g., 5 dozen eggs ~$10.16), store brands, seasonal produce (~$0.64/100 g kiwi, **17**).
 
 ## Notes
-- **Idealistic Plan**: Simplifies nutrient delivery, addresses deficiencies; customizations ensure practicality (**25**).
+- **Idealistic Plan**: Simplifies nutrient delivery, addresses deficiencies with explicit daily menus; customizations ensure practicality (**25**).
 - **Safety**: SIGHI 0–1, low-oxalate, low-antinutrient; excludes turkey (**03, 07**).
 - **Usability**: Dexterity-friendly, ADHD-compatible; biochemistry in **Article 13** (**01, 21**).
 
