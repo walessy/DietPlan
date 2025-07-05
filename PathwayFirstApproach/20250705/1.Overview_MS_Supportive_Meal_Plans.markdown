@@ -1,0 +1,54 @@
+---
+title: 1.Overview - Overview of MS-Supportive Weekly Meal Plans
+date: June 25, 2025
+Time: 10:33 AM BST
+author: Amos Wales
+---
+
+# Overview of MS-Supportive Weekly Meal Plans
+
+This document provides an overview of the MS-Supportive Weekly Meal Plan series, designed for a 54-year-old male with Multiple Sclerosis (MS) weighing 71.8 kg, supporting Attention Deficit Hyperactivity Disorder (ADHD) and addressing peripheral neuropathy concerns potentially linked to banana consumption. The series includes **Plan A** (~22 foods, ~115 g/day protein), **Plan B** (~18 foods, ~100 g/day protein, cost-effective), **Plan C** (~12 foods, ~100 g/day protein, simplest), and **Plan C2** (temporary, ~12 foods, ~100 g/day protein), covering 4 weeks (July 2–25, 2025, 6 days/week). The plans use purchased foods from Morrisons and Tesco (courgettes [2.5 kg], kale [960 g], sweet potato [1.2 kg], quinoa [750 g], eggs [48], sardines [1340 g], avocados [1440 g], flaxseeds [300 g], pumpkin seeds [300 g], cod [1440 g], carrots [1.6 kg], excluding chicken, bacon, bananas, crisps, lemons) and supplement with purchases (e.g., salmon, spinach, lentils, seaweed) to deliver **Plan C**’s nutritional targets, supporting MS (neuroprotection, inflammation), ADHD (neurotransmitter balance), neuropathy (nerve repair), muscle health, sleep, and gut motility (Bristol Type 3–4 stools). All plans align with a 16:8 fasting window (10 AM–6 PM), nutrient timing (vitamin D3, K2, magnesium citrate at 10 AM; calcium spread; magnesium, B6, B12, tryptophan at 1 PM/5 PM; magnesium glycinate at 7 PM), and preferences (no apples/cocoa, tinned fish, dexterity-friendly meals). Ground ginger (0.5 g/meal, 1.5 g/day) replaces turmeric for palatability. Dulcoease (~15–30 ml/day) supports motility. Each weekly article includes menus, shopping lists with [*MIND*] markers, and customizations. Nutritional foundations, monitoring, and biochemistry are referenced in **Artifacts 03, 19, 20, 24, 25**.
+
+## Plan Descriptions
+- **Plan A** (**Articles 10.A–13.A**): Uses ~22 foods (e.g., eggs, sardines, cod, salmon, courgettes, kale, spinach, sweet potato, quinoa, avocados, chia seeds, flaxseeds, pumpkin seeds, lentils, almonds, walnuts, carrots), delivers ~115 g/day protein, most varied with nuts and legumes for nutrient density. Highest cost (~$83.73/week average, MIND Diet).
+- **Plan B** (**Articles 6.B–9.B**): Uses ~18 foods (excludes nuts like almonds, walnuts), delivers ~100 g/day protein, cost-effective with fewer ingredients. Preferred for cost (~$81.83/week average, MIND Diet).
+- **Plan C** (**Articles 2.C–5.C**): Uses ~12 foods (excludes nuts, lentils), delivers ~100 g/day protein, simplest for ease of preparation. Lowest cost (~$75.37/week average, MIND Diet).
+- **Plan C2** (**Articles 14.C2–17.C2**): Temporary 6-day variant of **Plan C**, using ~12 foods, ~100 g/day protein, maximizing purchased foods with minimal new purchases. Cost ~$70.38/week average (estimated, MIND Diet).
+
+## Nutritional Targets
+- **Protein**: ~100 g/day (supports muscle health, neurotransmitter synthesis for ADHD).
+- **Soluble Fiber**: ~40 g/day (adjustable to ~25 g/day per "# 12 Diet Plan Summary and Tips," supports gut motility).
+- **Omega-3s**: ~1.5–3 g/day (neuroprotection, inflammation reduction for MS, neuropathy).
+- **Vitamin D**: ~900–1200 IU/day (immune support, MS management).
+- **Vitamin B12**: ~4–6 µg/day (nerve health, ADHD support).
+- **Vitamin B6**: ~1.8 mg/day (neurotransmitter synthesis, neuropathy management).
+- **Tryptophan**: ~600 mg/day (sleep, mood regulation for ADHD).
+- **Vitamin A**: ~1800 µg RAE/day (immune function, vision for MS).
+- **Magnesium**: ~390 mg/day (plus supplements, muscle health, sleep).
+- **Zinc**: ~10 mg/day (immune support, nerve repair).
+- **Iodine**: ~405 µg/day (thyroid function, cognitive health).
+- **Folate**: ~480 µg DFE/day (neuroprotection, ADHD support).
+- **Vitamin K2**: ~100 µg/day (nerve health, bone support for MS).
+- **Flavonoids**: ~420–840 mg/day (antioxidants for brain health, MS).
+
+## MIND Diet Variants
+Each plan includes a MIND Diet variant, increasing fish (200 g/meal) and greens (160–200 g/meal) for brain health (Nutrients, 2020), excluding berries due to unavailability. MIND-compatible items (fish, greens, legumes, nuts, seeds, whole grains) are marked with [*MIND*] in shopping lists to support MS and ADHD.
+
+## Notes
+- **Neuropathy Management**: Bananas excluded; kale/spinach (~480–600 mg flavonoids/day), avocados (~0.5 mg B6/100 g), fish (~3.3–5.15 g/day omega-3s) support nerve health (J Neurol., 2019).
+- **Cost Efficiency**: **Plan B** preferred for lower cost; **Plan C** cheapest; **Plan C2** minimizes new purchases.
+- **Safety**: SIGHI 0–1, low-oxalate foods; ginger/fish oil low-risk for bleeding (**Artifacts 03, 07**).
+- **Usability**: Dexterity-friendly prep (e.g., pre-steamed vegetables, tinned fish, smoothies), ADHD-compatible timing (fixed meals at 10 AM, 1 PM, 5 PM); monitoring via **MySymptoms** and **Cronometer** (**Artifacts 19, 21, 25**).
+- **Monitoring**: Log symptoms (e.g., bloating, neuropathy) in **Article 12** (**Artifacts 19, 21**).
+
+## References
+- J Neurol., 2019. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6682957/.
+- Nutrients, 2020. https://www.mdpi.com/2072-6643/12/6/1719.
+- Am J Clin Nutr., 2017. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5448306/.
+- J Med Food, 2017. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5573018/.
+- EFSA, 2014. https://www.efsa.europa.eu/en/efsajournal/pub/3740.
+- SIGHI, 2023. https://www.histamineintolerance.org/.
+- USDA FoodData Central, 2018. https://fdc.nal.usda.gov/.
+
+For specific menus and shopping lists, see **Articles 2.C–17.C2**, **Implementation_Guide_MS_Supportive_Weekly_Meal_Plan_Series.md**.
+---

@@ -1,0 +1,38 @@
+---
+title: 0.TOC - Table of Contents for MS-Supportive Weekly Meal Plans
+date: June 25, 2025
+Time: 10:31 AM BST
+author: Amos Wales
+---
+
+# Table of Contents for MS-Supportive Weekly Meal Plans
+
+This document serves as the table of contents for the MS-Supportive Weekly Meal Plan series, designed for a 54-year-old male with Multiple Sclerosis (MS) weighing 71.8 kg, supporting ADHD and addressing neuropathy concerns linked to banana consumption. The series includes **Plan A** (~22 foods, ~115 g/day protein), **Plan B** (~18 foods, ~100 g/day protein, cost-effective), **Plan C** (~12 foods, ~100 g/day protein, simplest), and **Plan C2** (temporary, ~12 foods, ~100 g/day protein), covering 4 weeks (July 2–25, 2025). Articles use purchased foods from Morrisons and Tesco, exclude bananas, chicken, bacon, crisps, and lemons, and meet **Plan C**’s nutritional targets with MIND Diet variants. See **Article 1.Overview** for details.
+
+## Articles
+| **Article** | **Title** | **Description** | **Artifact ID** |
+|-------------|-----------|-----------------|-----------------|
+| **0.TOC** | Table of Contents | Lists all articles in the series. | eb6cd3ce-1e8b-437f-8506-0ebf22fd8709 |
+| **1.Overview** | Overview of MS-Supportive Weekly Meal Plans | Details plans, nutritional targets, and references. | 3d869ea9-c79c-4861-8aa5-fdc140f68868 |
+| **2.C** | Plan C Week 1 (July 2–7, 2025) | Menus and shopping for **Plan C** Week 1. | 923c2818-e695-46dd-9276-cd5e5ce476f1 |
+| **3.C** | Plan C Week 2 (July 8–13, 2025) | Menus and shopping for **Plan C** Week 2. | 197de665-0038-4058-9270-44e6b6b7545d |
+| **4.C** | Plan C Week 3 (July 14–19, 2025) | Menus and shopping for **Plan C** Week 3. | c526e140-a473-4f3b-ab4d-f9ef6e4be85b |
+| **5.C** | Plan C Week 4 (July 20–25, 2025) | Menus and shopping for **Plan C** Week 4. | bc5b928e-6304-4808-b709-ab2838306b34 |
+| **6.B** | Plan B Week 1 (July 2–7, 2025) | Menus and shopping for **Plan B** Week 1. | efcf63f6-23e0-4fa0-8fcb-34c9df8e4fcc |
+| **7.B** | Plan B Week 2 (July 8–13, 2025) | Menus and shopping for **Plan B** Week 2. | 2368b58c-1d8b-4c2f-95a2-13586f6926de |
+| **8.B** | Plan B Week 3 (July 14–19, 2025) | Menus and shopping for **Plan B** Week 3. | d7afbcf9-3cce-486e-bd5e-c32067386fa1 |
+| **9.B** | Plan B Week 4 (July 20–25, 2025) | Menus and shopping for **Plan B** Week 4. | e8d22cf1-0eb6-4e55-bb6f-2a177f02606a |
+| **10.A** | Plan A Week 1 (July 2–7, 2025) | Menus and shopping for **Plan A** Week 1. | c1eb7b13-a963-4064-8444-8c59cd400dd0 |
+| **11.A** | Plan A Week 2 (July 8–13, 2025) | Menus and shopping for **Plan A** Week 2. | 730a4a86-76ee-43c8-84da-ec3701111fbb |
+| **12.A** | Plan A Week 3 (July 14–19, 2025) | Menus and shopping for **Plan A** Week 3. | ed85ca7f-f595-4f1d-81d0-dd6c5f24d373 |
+| **13.A** | Plan A Week 4 (July 20–25, 2025) | Menus and shopping for **Plan A** Week 4. | f7224f62-a38b-4df9-8dd2-c404c48f1649 |
+| **14.C2** | Plan C2 Week 1 (July 2–7, 2025) | Menus and shopping for **Plan C2** Week 1. | - |
+| **15.C2** | Plan C2 Week 2 (July 8–13, 2025) | Menus and shopping for **Plan C2** Week 2. | - |
+| **16.C2** | Plan C2 Week 3 (July 14–19, 2025) | Menus and shopping for **Plan C2** Week 3. | - |
+| **17.C2** | Plan C2 Week 4 (July 20–25, 2025) | Menus and shopping for **Plan C2** Week 4. | - |
+
+## Notes
+- **Naming Correction**: Updated **2.C** title to **Plan C Week 1** from incorrect **Plan C Week 2** in prior version. Articles were renumbered from **4.A–7.A**, **8.B–11.B**, **14.C** to align with **0.TOC**.
+- **Navigation**: Use this TOC to access specific plans and weeks. Each weekly article includes menus, shopping lists with [*MIND*] markers, and customizations.
+- **Updates**: The TOC will be updated as **Plan C2** articles (**14.C2** to **17.C2**) are provided.
+---
